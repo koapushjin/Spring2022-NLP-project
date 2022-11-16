@@ -1,0 +1,62 @@
+,domain select ,,prompt learning method,,result
+F->D,"Language,Education->Politics,Law",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.325581   0.24031    0.255814"
+F->D,\,,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.387597  0.294574    0.302326"
+F->D,\,,5d1 + 5common -> d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.310078  0.263566    0.248062"
+F->D,\,,"all d1 + permutation + normalize Y/N + 30 coms
+->d2        ",,"BLEURT acc  bleu acc  rouge1 acc
+0.333333  0.294574    0.310078"
+F->D,"Language,Education->Politics,Law",,d1->R2,,0.09
+F->D,"Language,Education->Politics,Law",,d1 + 30 coms->R2,,0.09
+D,‘Politics' 'Law'  'Sociology' ,,d1: 0-shot,,"BLEURT acc  bleu acc  rouge1 acc
+0.527132  0.248062    0.232558"
+D,"Politics,Law",,R2: 0-shot,,0.03
+F->B,"Language,Education->Health, Science, Nutrition, Psychology",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.323232  0.323232    0.333333"
+F->B,"Language,Education->Health, Science, Nutrition, Psychology",,5 d1+5coms->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.393939  0.282828    0.282828"
+F->B,"Language,Education->Health, Science, Nutrition, Psychology",,all d1 + permutation + normalize Y/N ->d2	,,"BLEURT acc  bleu acc  rouge1 acc
+0.484848  0.373737    0.444444"
+F->B,"Language,Education->Health, Science, Nutrition, Psychology",,"all d1 + permutation + normalize Y/N + 30 coms
+->d2        ",,"BLEURT acc  bleu acc  rouge1 acc
+0.353535  0.323232    0.353535"
+F->B,"Language,Education->Health, Science, Nutrition, Psychology",,d1->R2,,0.05
+F->B,"Language,Education->Health, Science, Nutrition, Psychology",,d1 + 30 coms->R2,,0.07
+B,"""Health"",""Science"", ""Nutrition"", ""Psychology""",,R2: 0-shot,,0.01
+F->C,"Language,Education->Economics, Finance, Statistics, Advertising",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.275862  0.189655    0.275862"
+F->C,"Language,Education->Economics, Finance, Statistics, Advertising",,all d1 + permutation + normalize Y/N ->d2	,,"BLEURT acc  bleu acc  rouge1 acc
+0.344828  0.189655    0.224138"
+F->C,"Language,Education->Economics, Finance, Statistics, Advertising",,d1 + 30 coms->R2,,0.09
+F->C,"Language,Education->Economics, Finance, Statistics, Advertising",,d1->R2,,0.07
+F->C,"Language,Education->Economics, Finance, Statistics, Advertising",,5 d1 +5coms->d2,,"BLEURT acc        bleu acc      rouge1 acc
+0.3448275862  0.224137931    0.3103448276"
+F->C,"Language,Education->Economics, Finance, Statistics, Advertising",,"all d1 + permutation + normalize Y/N + 30 coms
+->d2        ",,"BLEURT acc  bleu acc  rouge1 acc
+ 0.310345  0.189655    0.2068978"
+C,"""Economics"", ""Finance"", ""Statistics"", ""Advertising""",,R2: 0-shot,,0.06
+F->E,"Language,Education->History,Religio",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.307692  0.282051    0.230769"
+F->E,"Language,Education->History,Religion ",,all d1 + permutation + normalize Y/N ->d2	,,"BLEURT acc  bleu acc  rouge1 acc
+ 0.384615  0.282051    0.358974"
+F->E,"Language,Education->History,Religion ",,d1 + 30 coms->R2,,0.16
+F->E,"Language,Education->History,Religion ",,"all d1 + permutation + normalize Y/N + 30 coms
+->d2        ",,"BLEURT acc  bleu acc  rouge1 acc
+ 0.384615  0.307692    0.282051"
+F->E,"Language,Education->History,Religion ",,"all d1 + permutation + normalize Y/N + 30 coms
+->d2        ",,"BLEURT acc  bleu acc  rouge1 acc
+ 0.384615  0.307692    0.282051"
+F->E,"Language,Education->History,Religion ",,d1->R2,,0.21
+F->A,"Language,Education->Myths,Fiction",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+ 0.54902  0.294118    0.431373"
+F->A,"Language,Education->Myths,Fiction",,all d1 + permutation + normalize Y/N ->d2	,,"BLEURT acc  bleu acc  rouge1 acc
+0.588235   0.45098    0.529412"
+F->A,"Language,Education->Myths,Fiction",,d1->R2,,0.04
+F->A,"Language,Education->Myths,Fiction",,d1+common prompts->R2,,0.04
+F->A,"Language,Education->Myths,Fiction",,5d1 + 5common -> d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.431373  0.313725    0.313725"
+F->A,"Language,Education->Myths,Fiction",,"all d1 + permutation + normalize Y/N +30 coms 
+->d2        ",,"BLEURT acc  bleu acc  rouge1 acc 
+0.490196   0.45098    0.431373]\ "

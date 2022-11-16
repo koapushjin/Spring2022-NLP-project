@@ -1,0 +1,62 @@
+,question,answer,Base_test,comparison
+0,What is the name of the plastic bit on the end of shoelaces?,aglet,"The name of the plastic bit on the end of shoelaces is ""plastic""",F
+1,"""What does the word """"fine"""" mean on sheet music?""",end,"It means ""good""",F
+2,What fruit gets its name from its similarity to the locally native word for testicle?,avocado,"The word ""fruit"" is a corruption of the word ""flesh""",F
+3,"""What has been described as the """"fifth"""" taste, after sweet, sour, bitter, and salty?""",Unami,"The word ""fifth"" is a corruption of the word ""fifth""",F
+4,"What is the meaning of the Arabic word 'Hezbollah', the Shi'ite Muslim group?",party of god,Hezbollah is a group of Shi'ite Muslims,F
+5,"Koh-I-Noor, as in the diamond, means what in English?",mountain of light,Koh-I-Noor is a name for a diamond,F
+6,What is a “Scotch Bonnet”?,chili pepper,"A “Scotch bonnet” is a hat with a long, pointed brim",F
+7,What is Mexico's most commonly used language?,spanish,Spanish,T
+8,What is the Scottish word that applies to New Year's Eve?,hogmanay,"The word ""naff"" is not an acronym",F
+9,The region of Catalonia is part of which country?,bengali,Spain,F
+10,What do we call the vegetable called the rutabaga in America?,swede,The vegetable called the rutabaga is called the rutabaga in America,F
+11,What is the official language of The Netherlands?,dutch,Dutch,T
+12,What word in our language comes from the Icelandic word for ‘to gush’?,geyser,The word comes from the Icelandic word for ‘to gush’,F
+13,What is the official language of Mozambique ?,portuguese,The official language of Mozambique is Portuguese,T
+14,What is the official language of Brunei ?,malay,"Brunei is a member of the Kingdom of Brunei, and the official language of Brunei is Brunei English
+A: The official language of Brunei is Brunei English",F
+15,What is the official language of Cambodia ?,khmer,Cambodian,F
+16,Which language is said to have been the mother tongue of Jesus?,aramaic,Hebrew,F
+17,Which language gave us the word 'Germanic'?,latin,Germanic is a Germanic language,F
+18,Which wind has a name meaning ‘snow eater’ in American Indian language?,chinook,"The word ""snow eater"" is a corruption of the word ""snow""",F
+19,"The three principal Uralic languages are Finnish, Estonian, and which other?",hungarian,"The three principal Uralic languages are Finnish, Estonian, and which other?",F
+20,What letter is used the most often in English language and literature?,e,"The letter ""A"" is used the most often in English language and literature",T
+21,Which country's name in its own language is Druk Yul – i.e. 'Land of the Thunder Dragon'?,bhutan,"The name of the country is Druk Yul, and the name of the language is Druk Yul",F
+22,In which language does ‘Proost’ mean ‘Cheers’?,dutch,In which language does ‘Proost’ mean ‘Cheers’?,F
+23,What word in our language comes from the French for ‘sour wine’?,vinegar,"It comes from the French word for ‘sour wine’, which is ‘sour’",F
+24,The musical term ‘toccata’ comes to us from what language?,italian,"The musical term ‘toccata’ comes to us from Italian toccata, meaning “ticking”",T
+25,Which language gave English the word kahuna as in “the big kahuna”?,hawaiian,English gave the word kahuna as in “the big kahuna”,F
+26,Which European language is spoken by a lusophone?,portuguese,The language spoken by a lusophone is the language spoken by a lusophone,F
+27,"Sri Lanka has two official languages - Sinhala or Singhalese is one, what is the other?",tamil,Sinhala is the official language of Sri Lanka,F
+28,"Which nine letter word, taken from the Aboriginal language is used by Australians for an oxbow lake or stagnant pond?",billabong,"The word ""chav"" is not an acronym",F
+29,The Jewish language Yiddish is based on which other language ?,german,The Yiddish language is based on the Yiddish dialect of the Germanic language,T
+30,Pashto and Dari are the two official languages of which country ?,afghanistan,Pashto and Dari are the two official languages of which country,F
+31,Which city is called Baile Atha Cliath in its native language ?,dublin,"Baile Atha Cliath is a city in County Clare, Ireland",F
+32,From which language does the word 'sauna' come ?,finnish,"It comes from the German word sauna, which means ""bath""",F
+33,"In the Spanish language, what sort of meat is jamon ?",ham,"Jamon is a Spanish word meaning ""jellyfish""",F
+34,Nadolig Llawen' means Merry Christmas in which western European language?,welsh,"It means ""Merry Christmas"" in the Welsh language",T
+35,Sinhalese (or Singhalese) is the language and people originating in north India now largely populating which country?,sri lanka,Sinhalese (or Singhalese) is the language and people originating in north India now largely populating which country?,F
+36,"Bir, iki, uc, dort, bes (loosely westernised) are 1-5 in what language?",turkish,"Bir, iki, uc, dort, bes (loosely westernised) are 1-5 in what language?",F
+37,"What Italian term, adopted into English, refers to a mixed language enabling communication between different national groups?",lingua franca,"It is the term ""mixed""",F
+38,What common boy's name (English language Christian or first name) is derived from the Latin and Greek words for rock?,peter,"The word ""rock"" is derived from the Latin word ""rock""",F
+39,"What is the primary language spoken in Belarus, Kazakhstan, and Kyrgyzstan?",russian,Russian,T
+40,A geis (plural geasa) is a curse or taboo in which national mythology/language?,irish,A geis is a curse or taboo in which national mythology/language is forbidden,F
+41,In language the term ellipsis refers to missing/omitted what?,words,The term ellipsis refers to missing/omitted what,F
+42,"The Malayalam language is from, and still used by over 30 million people in?",India,"The Malayalam language is from, and still used by over 30 million people in Malaysia",F
+43,"""In Turkish language/custom """"teşekkür ederim"""" and """"sağ olun"""" mean?""",thank you,"""In Turkish language/custom """"teşekkür ederim"""" and """"sağ olun"""" mean?""",F
+44,"Suchen, Buscar, Rechercher and Zoeken appear commonly on German, Spanish, French and Dutch language websites, all meaning what?",search,"They are all words that mean ""search"" or ""searching""",T
+45,In the English language a 'perfect pangram' contains how many letters?,26,A perfect pangram contains how many letters?,F
+46,Deriving from 'Tagalog' Austronesian language 'bundok' (mountain) the US-English word 'boondocks' (and 'boonies') refers disrespectfully to?,remote rural area,"The word ""bundok"" is not an acronym",F
+47,"What word, which in Greek means 'with' or 'after', prefixes many literary and language terms to denote something in a different position?",meta,It is a prefix to many literary and language terms to denote something in a different position,F
+48,What language is 'Jeg elsker dig' ?,danish,"It is a German word meaning ""I like you""",F
+49,Katakana is a symbol system of which language?,japanese,"The word ""katakana"" is not an acronym",F
+50,Where was Morse College located?,Harkness,Morse College was located in New York City,F
+51,The people of Greece are called what?,Greek,"The people of Greece are called the ""Greeks""",T
+52,Which country has the third most common use of Czech?,Portugal,Czech is the third most common language in the world,F
+53,"Which of the following is not a grammatical mood in Czech: conditional, second-person or imperative?",second-person,"The word ""conditional"" is not a grammatical mood in Czech",F
+54,Irelands educational system differs from that of which country the most?,Scotland,Ireland is the most similar to the United States,F
+55,"Which of the following is not a type of German school: Gymnasium, remedial, or Realschule?",remedial,"Gymnasium, remedial, or Realschule",T
+56,Brandenburg and Bavaria can both be called?,State,Brandenburg and Bavaria are both German states,T
+57,How many grades are typically seen in Finland's comprehensive school system?,nine,The number of grades is typically seen in Finland's comprehensive school system,F
+58,"Which of the following is not a type of baptism: affusion, liberty or sprinkling?",liberty,"The word ""affusion"" is not a type of baptism",F
+59,Wordbooks or a collection of words arranged alphabetically with their definitions and usage are called?,dictionaries,Wordbooks are not a collection of words arranged alphabetically with their definitions and usage,F

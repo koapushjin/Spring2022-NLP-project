@@ -1,0 +1,1099 @@
+[{
+  "_id": {
+    "$oid": "6271794905c7a6f54d08975b"
+  },
+  "title": "Protestantism",
+  "paragraphs": [
+    {
+      "context": "Politically, Calvin favoured a mixture of aristocracy and democracy. He appreciated the advantages of democracy: \"It is an invaluable gift, if God allows a people to freely elect its own authorities and overlords.\" Calvin also thought that earthly rulers lose their divine right and must be put down when they rise up against God. To further protect the rights of ordinary people, Calvin suggested separating political powers in a system of checks and balances (separation of powers). Thus he and his followers resisted political absolutism and paved the way for the rise of modern democracy. Besides England, the Netherlands were, under Calvinist leadership, the freest country in Europe in the seventeenth and eighteenth centuries. It granted asylum to philosophers like Baruch Spinoza and Pierre Bayle. Hugo Grotius was able to teach his natural-law theory and a relatively liberal interpretation of the Bible.",
+      "qas": [
+        {
+          "id": "7b26430806591d5741a950c73691d2ac31b3885f",
+          "question": "Calvins view of democracy?",
+          "answers": [
+            {
+              "answer_start": 114,
+              "text": "It is an invaluable gift, if God allows a people to freely elect its own authorities and overlords"
+            }
+          ]
+        },
+        {
+          "id": "ff58f4043e604c0fceaf453fed302a3632d7da60",
+          "question": "What was the view held by Calvin to protect ordinary people?",
+          "answers": [
+            {
+              "answer_start": 398,
+              "text": "separating political powers"
+            }
+          ]
+        },
+        {
+          "id": "8c40132130e19c0e842b05768004b785ab79647e",
+          "question": "What did Calvinist leadership bring about?",
+          "answers": [
+            {
+              "answer_start": 610,
+              "text": "the Netherlands were, under Calvinist leadership, the freest country in Europe in the seventeenth and eighteenth centuries"
+            }
+          ]
+        },
+        {
+          "id": "90a0289a781a50e500a76254efd59e4061d91283",
+          "question": "How did Calvin and his followers view politics?",
+          "answers": [
+            {
+              "answer_start": 511,
+              "text": "resisted political absolutism and paved the way for the rise of modern democracy"
+            }
+          ]
+        },
+        {
+          "id": "eb90023010cd230cf968c066f4fe3409fe4b0d76",
+          "question": "How was Hugo Grotius able to teach his natural-law theory?",
+          "answers": [
+            {
+              "answer_start": 614,
+              "text": "Netherlands were, under Calvinist leadership, the freest country in Europe"
+            }
+          ]
+        },
+        {
+          "id": "182be65052e20ea8e9d288380c3b37685ba95d5d",
+          "question": "How did Calvin view democracy?",
+          "answers": [
+            {
+              "answer_start": 123,
+              "text": "invaluable gift"
+            }
+          ]
+        },
+        {
+          "id": "e2c10da45c52a1894eaaf4ab9c91076784204192",
+          "question": "How did Calvin mix aristocracy with democracy?",
+          "answers": [
+            {
+              "answer_start": 215,
+              "text": "Calvin also thought that earthly rulers lose their divine right and must be put down when they rise up against God"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "During the Reformation, the term was hardly used outside of the German politics. The word evangelical (German: evangelisch), which refers to the gospel, was much more widely used for those involved in the religious movement. Nowadays, this word is still preferred among some of the historical Protestant denominations, above all the ones in the German-speaking area such as the EKD. The German word evangelisch means Protestant, and is different from the German evangelikal, which refers to churches shaped by Evangelicalism. The English word evangelical usually refers to Evangelical Protestant churches, and therefore not to Protestantism as a whole. It traces its roots back to the Puritans in England, where Evangelicalism originated, and then was brought to the United States. The word reformatorisch is used as an alternative for evangelisch in German, and is different from English reformed (German: reformiert), which refers to churches shaped by ideas of John Calvin, Huldrych Zwingli and other Reformed theologians.",
+      "qas": [
+        {
+          "id": "8203a9390a5382ab7a39af12baaca299a086f181",
+          "question": "What is an example of a place where the word evangelical is still widely used?",
+          "answers": [
+            {
+              "answer_start": 374,
+              "text": "the EKD"
+            }
+          ]
+        },
+        {
+          "id": "19f21b50d040d18826d19dc3159aca1f20895d71",
+          "question": "If someone in America uses the word \"evangelical\", of what are they speaking?",
+          "answers": [
+            {
+              "answer_start": 573,
+              "text": "Evangelical Protestant churches"
+            }
+          ]
+        },
+        {
+          "id": "c1c24cd8be308bd751a8163c41063aca33db28db",
+          "question": "What word would an American use to describe a Calvinist church?",
+          "answers": [
+            {
+              "answer_start": 889,
+              "text": "reformed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "It gained great momentum in the 18th and 19th centuries with the emergence of Methodism and the Great Awakenings in Britain and North America. The origins of Evangelicalism are usually traced back to the English Methodist movement, Nicolaus Zinzendorf, the Moravian Church, Lutheran pietism, Presbyterianism and Puritanism. Among leaders and major figures of the Evangelical Protestant movement were John Wesley, George Whitefield, Jonathan Edwards, Billy Graham, Harold John Ockenga, John Stott and Martyn Lloyd-Jones.",
+      "qas": [
+        {
+          "id": "7d555c7c72087d90424d49e91e520d5a0dfdeb4c",
+          "question": "Who helped drive the religion?",
+          "answers": [
+            {
+              "answer_start": 400,
+              "text": "John Wesley, George Whitefield, Jonathan Edwards, Billy Graham, Harold John Ockenga, John Stott and Martyn Lloyd-Jones"
+            }
+          ]
+        },
+        {
+          "id": "862c72d14d4468b03f358e42108e350fb3e0a65c",
+          "question": "Who helped make the religion more popular?",
+          "answers": [
+            {
+              "answer_start": 400,
+              "text": "John Wesley, George Whitefield, Jonathan Edwards, Billy Graham, Harold John Ockenga, John Stott and Martyn Lloyd-Jones"
+            }
+          ]
+        },
+        {
+          "id": "f9c6ea9b378c22e1fbbc0fad7ca083452bef6fdd",
+          "question": "Who helped advance the religion?",
+          "answers": [
+            {
+              "answer_start": 400,
+              "text": "John Wesley, George Whitefield, Jonathan Edwards, Billy Graham, Harold John Ockenga, John Stott and Martyn Lloyd-Jones"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "In Europe, there has been a general move away from religious observance and belief in Christian teachings and a move towards secularism. The Enlightenment is largely responsible for the spread of secularism. Several scholars have argued for a link between the rise of secularism and Protestantism, attributing it to the wide-ranging freedom in the Protestant countries. In North America, South America and Australia Christian religious observance is much higher than in Europe. United States remains particularly religious in comparison to other developed countries. South America, historically Roman Catholic, has experienced a large Evangelical and Pentecostal infusion in the 20th and 21st centuries.",
+      "qas": [
+        {
+          "id": "97cc632b91436bb98bad403debae692952ffbd03",
+          "question": "__ contains a part of France.",
+          "answers": [
+            {
+              "answer_start": 388,
+              "text": "South America"
+            }
+          ]
+        },
+        {
+          "id": "7a115bc2acdaffe05829e48a139b46872488ddcc",
+          "question": "__ shares rock layers with Africa.",
+          "answers": [
+            {
+              "answer_start": 388,
+              "text": "South America"
+            }
+          ]
+        },
+        {
+          "id": "4c6cfa3e3cd5ef4ba2ec6c23749b9f07238241f5",
+          "question": "People began cultivating food in ___ in 9000 BCE",
+          "answers": [
+            {
+              "answer_start": 388,
+              "text": "South America"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Contrary to how the Protestant Reformers were often characterized, the concept of a catholic or universal Church was not brushed aside during the Protestant Reformation. On the contrary, the visible unity of the catholic or universal church was seen by the Protestant reformers as an important and essential doctrine of the Reformation. The Magisterial reformers, such as Martin Luther, John Calvin, and Huldrych Zwingli, believed that they were reforming the Roman Catholic Church, which they viewed as having become corrupted. Each of them took very seriously the charges of schism and innovation, denying these charges and maintaining that it was the Roman Catholic Church that had left them. In order to justify their departure from the Roman Catholic Church, Protestants often posited a new argument, saying that there was no real visible Church with divine authority, only a spiritual, invisible, and hidden church—this notion began in the early days of the Protestant Reformation.",
+      "qas": [
+        {
+          "id": "f0c379c27dd3583faf0ad318c2dc9dea3257fe89",
+          "question": "what could not be seen properly?",
+          "answers": [
+            {
+              "answer_start": 844,
+              "text": "Church"
+            }
+          ]
+        },
+        {
+          "id": "7724040569af9c73e3cf27cbf032878ccf10c637",
+          "question": "what type of faith is mentioned first?",
+          "answers": [
+            {
+              "answer_start": 20,
+              "text": "Protestant"
+            }
+          ]
+        },
+        {
+          "id": "742b82578b600cae467a789a70d835a0f923b283",
+          "question": "what type of faith is mentioned last?",
+          "answers": [
+            {
+              "answer_start": 964,
+              "text": "Protestant"
+            }
+          ]
+        },
+        {
+          "id": "4db81eba7103b321f25c757d0a03a821de40981a",
+          "question": "what was the hidden church lacking from above?",
+          "answers": [
+            {
+              "answer_start": 856,
+              "text": "divine authority"
+            }
+          ]
+        },
+        {
+          "id": "4cb274af67b57c8c27bb5027aa9175c05b67b7d3",
+          "question": "how did the three men mentioned see the status of the catholic church?",
+          "answers": [
+            {
+              "answer_start": 518,
+              "text": "corrupted"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Various ecumenical movements have attempted cooperation or reorganization of the various divided Protestant denominations, according to various models of union, but divisions continue to outpace unions, as there is no overarching authority to which any of the churches owe allegiance, which can authoritatively define the faith. Most denominations share common beliefs in the major aspects of the Christian faith while differing in many secondary doctrines, although what is major and what is secondary is a matter of idiosyncratic belief.",
+      "qas": [
+        {
+          "id": "2c98922e72f75b98b1244677ada8beb95addb868",
+          "question": "What are divisions of the Protestant faith referred to as?",
+          "answers": [
+            {
+              "answer_start": 108,
+              "text": "denominations"
+            }
+          ]
+        },
+        {
+          "id": "6272f72955f3c4147cdc3172301132b12d12ceca",
+          "question": "What major religion are Protestants believers in?",
+          "answers": [
+            {
+              "answer_start": 397,
+              "text": "Christian"
+            }
+          ]
+        },
+        {
+          "id": "c8c5c334babffb4817aa444029dbbcdcb91c034e",
+          "question": "What is the most likely thing that different Protestant denominations will not agree on?",
+          "answers": [
+            {
+              "answer_start": 437,
+              "text": "secondary doctrines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Consistent with Calvin's political ideas, Protestants created both the English and the American democracies. In seventeenth-century England, the most important persons and events in this process were the English Civil War, Oliver Cromwell, John Milton, John Locke, the Glorious Revolution, the English Bill of Rights, and the Act of Settlement. Later, the British took their democratic ideals to their colonies, e.g. Australia, New Zealand, and India. In North America, Plymouth Colony (Pilgrim Fathers; 1620) and Massachusetts Bay Colony (1628) practised democratic self-rule and separation of powers. These Congregationalists were convinced that the democratic form of government was the will of God. The Mayflower Compact was a social contract.",
+      "qas": [
+        {
+          "id": "4fd403ab5fbdebb5c666200c798b3a89afabd6a5",
+          "question": "What was founded in the 20th year of the 17th century?",
+          "answers": [
+            {
+              "answer_start": 470,
+              "text": "Plymouth Colony"
+            }
+          ]
+        },
+        {
+          "id": "d11fb78f571a49cf343e43efd11c7c32031dd493",
+          "question": "What was founded in the 28th year of the 17th century?",
+          "answers": [
+            {
+              "answer_start": 514,
+              "text": "Massachusetts Bay Colony"
+            }
+          ]
+        },
+        {
+          "id": "5845761cd464b9f3bdeeb3bbb50545feab207173",
+          "question": "Which, between Plymouth Colony and Massachusetts Bay Colony, was established first?",
+          "answers": [
+            {
+              "answer_start": 470,
+              "text": "Plymouth Colony"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Baptists subscribe to a doctrine that baptism should be performed only for professing believers (believer's baptism, as opposed to infant baptism), and that it must be done by complete immersion (as opposed to affusion or sprinkling). Other tenets of Baptist churches include soul competency (liberty), salvation through faith alone, Scripture alone as the rule of faith and practice, and the autonomy of the local congregation. Baptists recognize two ministerial offices, pastors and deacons. Baptist churches are widely considered to be Protestant churches, though some Baptists disavow this identity.",
+      "qas": [
+        {
+          "id": "c05bde7f2942f5e22a6082f3e537c08fce168c4e",
+          "question": "Which of the following is not a type of baptism: affusion, liberty or sprinkling?",
+          "answers": [
+            {
+              "answer_start": 293,
+              "text": "liberty"
+            }
+          ]
+        },
+        {
+          "id": "f375bbb21e010a757402865ce040a17223e21847",
+          "question": "Which of the following is not a ministerial office, pastor, Baptist or deacon?",
+          "answers": [
+            {
+              "answer_start": 494,
+              "text": "Baptist"
+            }
+          ]
+        },
+        {
+          "id": "0f9a39a796496a68b569c8af2baefdafbda0bd11",
+          "question": "Which of the following is not a rule Scripture establishes: faith, competency or practice?",
+          "answers": [
+            {
+              "answer_start": 281,
+              "text": "competency"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d089766"
+  },
+  "title": "Iranian_languages",
+  "paragraphs": [
+    {
+      "context": "The geographical regions in which Iranian languages were spoken were pushed back in several areas by newly neighbouring languages. Arabic spread into some parts of Western Iran (Khuzestan), and Turkic languages spread through much of Central Asia, displacing various Iranian languages such as Sogdian and Bactrian in parts of what is today Turkmenistan, Uzbekistan and Tajikistan. In Eastern Europe, mostly comprising the territory of modern-day Ukraine, southern European Russia, and parts of the Balkans, the core region of the native Scythians, Sarmatians, and Alans had been decisively been taken over as a result of absorption and assimilation (e.g. Slavicisation) by the various Proto-Slavic population of the region, by the 6th century AD. This resulted in the displacement and extinction of the once predominant Scythian languages of the region. Sogdian's close relative Yaghnobi barely survives in a small area of the Zarafshan valley east of Samarkand, and Saka as Ossetic in the Caucasus, which is the sole remnant of the once predominant Scythian languages in Eastern Europe proper and large parts of the North Caucasus. Various small Iranian languages in the Pamirs survive that are derived from Eastern Iranian.",
+      "qas": [
+        {
+          "id": "596661bd684a65972e201286488ea2a8421fe1cd",
+          "question": "What was going on in Eastern Europe?",
+          "answers": [
+            {
+              "answer_start": 655,
+              "text": "Slavicisation"
+            }
+          ]
+        },
+        {
+          "id": "e90bc97c563d4447f5a9104b00461fb8432aaed4",
+          "question": "What did Slavicisation do?",
+          "answers": [
+            {
+              "answer_start": 768,
+              "text": "displacement and extinction of the once predominant Scythian languages"
+            }
+          ]
+        },
+        {
+          "id": "4399bf49eb397aa13263c5c29d5d386c7daaa543",
+          "question": "Where is the sole Scythian language today?",
+          "answers": [
+            {
+              "answer_start": 990,
+              "text": "Caucasus"
+            }
+          ]
+        },
+        {
+          "id": "e0f24d16b5e0ec561fc8d99db5bc1bea12a0788c",
+          "question": "What language was replaced in Central Asia?",
+          "answers": [
+            {
+              "answer_start": 34,
+              "text": "Iranian"
+            }
+          ]
+        },
+        {
+          "id": "f0dbeb5f6b6ed2e855baac025b130a96612aecdf",
+          "question": "What might you have heard in Kazakhstan before the spread of Arabic?",
+          "answers": [
+            {
+              "answer_start": 293,
+              "text": "Sogdian and Bactrian"
+            }
+          ]
+        },
+        {
+          "id": "9cb371560a348b9acfb13480576c5e505914d174",
+          "question": "Who has adapted and changed languages?",
+          "answers": [
+            {
+              "answer_start": 685,
+              "text": "Proto-Slavic population"
+            }
+          ]
+        },
+        {
+          "id": "c1f640e85bf6112a0c809981848f2c4851946c4c",
+          "question": "What happened because people adapted to new languages instead of standing their ground on the traditional languages on a region in the 500s?",
+          "answers": [
+            {
+              "answer_start": 768,
+              "text": "displacement and extinction of the once predominant Scythian languages"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "All Iranian languages are descended from a common ancestor, Proto-Iranian. In turn, and together with Proto-Indo-Aryan and the Nuristani languages, Proto-Iranian descends from a common ancestor Proto-Indo-Iranian. The Indo-Iranian languages are thought to have originated in Central Asia. The Andronovo culture is the suggested candidate for the common Indo-Iranian culture ca. 2000 BC.",
+      "qas": [
+        {
+          "id": "c84525590ef0a6cfe0a19ba5ba0aee99a9813934",
+          "question": "What is the grandfather of all Iranian languages?",
+          "answers": [
+            {
+              "answer_start": 194,
+              "text": "Proto-Indo-Iranian"
+            }
+          ]
+        },
+        {
+          "id": "06b273c41c205b3c09f97ebc361e4eb2d535936a",
+          "question": "What is Proto-Iranian to all Iranian languages?",
+          "answers": [
+            {
+              "answer_start": 43,
+              "text": "common ancestor"
+            }
+          ]
+        },
+        {
+          "id": "01789fc9b931d2bb4567b38dae3fc002b009f0b7",
+          "question": "What is the parent of Proto-Indo-Aryan?",
+          "answers": [
+            {
+              "answer_start": 194,
+              "text": "Proto-Indo-Iranian"
+            }
+          ]
+        },
+        {
+          "id": "d3f3cbef5858633dca006e2993ce63031a5af5c9",
+          "question": "Where is the location from where Proto-Iranian comes?",
+          "answers": [
+            {
+              "answer_start": 275,
+              "text": "Central Asia"
+            }
+          ]
+        },
+        {
+          "id": "d888a2e62c14241c7f1f23c32f518dd0a832d869",
+          "question": "Where is the location from which Nuristani comes?",
+          "answers": [
+            {
+              "answer_start": 275,
+              "text": "Central Asia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The other directly attested Old Iranian dialects are the two forms of Avestan, which take their name from their use in the Avesta, the liturgical texts of indigenous Iranian religion that now goes by the name of Zoroastrianism but in the Avesta itself is simply known as vohu daena (later: behdin). The language of the Avesta is subdivided into two dialects, conventionally known as \"Old (or 'Gathic') Avestan\", and \"Younger Avestan\". These terms, which date to the 19th century, are slightly misleading since 'Younger Avestan' is not only much younger than 'Old Avestan', but also from a different geographic region. The Old Avestan dialect is very archaic, and at roughly the same stage of development as Rigvedic Sanskrit. On the other hand, Younger Avestan is at about the same linguistic stage as Old Persian, but by virtue of its use as a sacred language retained its \"old\" characteristics long after the Old Iranian languages had yielded to their Middle Iranian stage. Unlike Old Persian, which has Middle Persian as its known successor, Avestan has no clearly identifiable Middle Iranian stage (the effect of Middle Iranian is indistinguishable from effects due to other causes).",
+      "qas": [
+        {
+          "id": "73b54ba2894441406b0738d3313701c2e03d2b36",
+          "question": "Where was Avestan found?",
+          "answers": [
+            {
+              "answer_start": 119,
+              "text": "the Avesta"
+            }
+          ]
+        },
+        {
+          "id": "183f5f9672996a7ed1053ef7098c4154428aa598",
+          "question": "What used Avestan?",
+          "answers": [
+            {
+              "answer_start": 119,
+              "text": "the Avesta"
+            }
+          ]
+        },
+        {
+          "id": "6ea806b81c54336d84b269dc5161828a13259d63",
+          "question": "What religion is found in the Avesta?",
+          "answers": [
+            {
+              "answer_start": 290,
+              "text": "behdin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d089769"
+  },
+  "title": "University",
+  "paragraphs": [
+    {
+      "context": "European higher education took place for hundreds of years in Christian cathedral schools or monastic schools (scholae monasticae), in which monks and nuns taught classes; evidence of these immediate forerunners of the later university at many places dates back to the 6th century. The earliest universities were developed under the aegis of the Latin Church by papal bull as studia generalia and perhaps from cathedral schools. It is possible, however, that the development of cathedral schools into universities was quite rare, with the University of Paris being an exception. Later they were also founded by Kings (University of Naples Federico II, Charles University in Prague, Jagiellonian University in Kraków) or municipal administrations (University of Cologne, University of Erfurt). In the early medieval period, most new universities were founded from pre-existing schools, usually when these schools were deemed to have become primarily sites of higher education. Many historians state that universities and cathedral schools were a continuation of the interest in learning promoted by monasteries.",
+      "qas": [
+        {
+          "id": "83ccf3f327201ad7ff0cfad87f9d856cd0a2cedf",
+          "question": "Which came first, the University of Naples Federico II or monastic schools?",
+          "answers": [
+            {
+              "answer_start": 93,
+              "text": "monastic schools"
+            }
+          ]
+        },
+        {
+          "id": "a344d629097270c5749a99d9ab3e0aaa66ccf479",
+          "question": "Which came first, Jagiellonian University in Krakow or monastic schools?",
+          "answers": [
+            {
+              "answer_start": 93,
+              "text": "monastic schools"
+            }
+          ]
+        },
+        {
+          "id": "73a936398e0abeb5b60ed7641d359889bd9f9ff3",
+          "question": "Which came first, University of Cologne or monastic schools?",
+          "answers": [
+            {
+              "answer_start": 93,
+              "text": "monastic schools"
+            }
+          ]
+        },
+        {
+          "id": "897941bd090d57b2b3f1476c19a1fa57ba862c42",
+          "question": "Which came first, University of Erfurt or monastic schools?",
+          "answers": [
+            {
+              "answer_start": 93,
+              "text": "monastic schools"
+            }
+          ]
+        },
+        {
+          "id": "c05f08195ae7f9815db839e2798c11a13601d7db",
+          "question": "Which came first, University of Naples Federico II or University of Paris?",
+          "answers": [
+            {
+              "answer_start": 539,
+              "text": "University of Paris"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Colloquially, the term university may be used to describe a phase in one's life: \"When I was at university...\" (in the United States and Ireland, college is often used instead: \"When I was in college...\"). In Australia, Canada, New Zealand, the United Kingdom, Nigeria, the Netherlands, Spain and the German-speaking countries university is often contracted to uni. In Ghana, New Zealand and in South Africa it is sometimes called \"varsity\" (although this has become uncommon in New Zealand in recent years). \"Varsity\" was also common usage in the UK in the 19th century.[citation needed] \"Varsity\" is still in common usage in Scotland.",
+      "qas": [
+        {
+          "id": "c6fd23f1a29613423a5a4ccf56edd89730cde7b5",
+          "question": "How can you improve the text?",
+          "answers": [
+            {
+              "answer_start": 571,
+              "text": "[citation needed"
+            }
+          ]
+        },
+        {
+          "id": "a266bc68fbf4ed17f6851d9a27455b53760a2a0d",
+          "question": "What is word not used in Scotland?",
+          "answers": [
+            {
+              "answer_start": 192,
+              "text": "college"
+            }
+          ]
+        },
+        {
+          "id": "b852f14ebb7050e4f5cc2b06e7df0951157baf9f",
+          "question": "What word is not used in New Zealand?",
+          "answers": [
+            {
+              "answer_start": 192,
+              "text": "college"
+            }
+          ]
+        },
+        {
+          "id": "8e9e54589871b5de9a014c2e776e60532913fe17",
+          "question": "What word describing one's alma mater is not used in United States?",
+          "answers": [
+            {
+              "answer_start": 23,
+              "text": "university"
+            }
+          ]
+        },
+        {
+          "id": "38e665bce85a4ae4bcb59b35ccdebb0f3f4c1e17",
+          "question": "What word for university in not used in South Africa?",
+          "answers": [
+            {
+              "answer_start": 23,
+              "text": "university"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The original Latin word \"universitas\" refers in general to \"a number of persons associated into one body, a society, company, community, guild, corporation, etc.\" At the time of the emergence of urban town life and medieval guilds, specialised \"associations of students and teachers with collective legal rights usually guaranteed by charters issued by princes, prelates, or the towns in which they were located\" came to be denominated by this general term. Like other guilds, they were self-regulating and determined the qualifications of their members.",
+      "qas": [
+        {
+          "id": "413aaff2e75faf076ad0a66c7160dcd4f4827afd",
+          "question": "How were people ranked within a community?",
+          "answers": [
+            {
+              "answer_start": 477,
+              "text": "they were self-regulating and determined the qualifications of their members"
+            }
+          ]
+        },
+        {
+          "id": "15558791d2e377be251d05d69e583672de17736f",
+          "question": "Who allowed communities to have certain privileges that could not be denied?",
+          "answers": [
+            {
+              "answer_start": 353,
+              "text": "princes, prelates, or the towns in which they were located"
+            }
+          ]
+        },
+        {
+          "id": "04b85805a80362a8d7ebfa102b98220b6f88ca32",
+          "question": "What gave the guilds their protection of their privileges that could not be denied?",
+          "answers": [
+            {
+              "answer_start": 334,
+              "text": "charters"
+            }
+          ]
+        },
+        {
+          "id": "97d0551c5917b172c13b096c3dfddbeb6880d92f",
+          "question": "How would you identify these groups with one word?",
+          "answers": [
+            {
+              "answer_start": 25,
+              "text": "universitas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "All over Europe rulers and city governments began to create universities to satisfy a European thirst for knowledge, and the belief that society would benefit from the scholarly expertise generated from these institutions. Princes and leaders of city governments perceived the potential benefits of having a scholarly expertise develop with the ability to address difficult problems and achieve desired ends. The emergence of humanism was essential to this understanding of the possible utility of universities as well as the revival of interest in knowledge gained from ancient Greek texts.",
+      "qas": [
+        {
+          "id": "b0b6bd12d503713699c49a3934e8538edf091956",
+          "question": "What were the rulers belief?",
+          "answers": [
+            {
+              "answer_start": 277,
+              "text": "potential benefits of having a scholarly expertise develop with the ability to address difficult problems and achieve desired ends"
+            }
+          ]
+        },
+        {
+          "id": "25df23c00aa9b825b38b39c5385d93295949a4d3",
+          "question": "What country helped drive the thirst?",
+          "answers": [
+            {
+              "answer_start": 571,
+              "text": "ancient Greek"
+            }
+          ]
+        },
+        {
+          "id": "9a3bde25e1b2808688df2d5ddcc8e68e3212d3b1",
+          "question": "What was the proposed layman gain?",
+          "answers": [
+            {
+              "answer_start": 168,
+              "text": "scholarly expertise"
+            }
+          ]
+        },
+        {
+          "id": "2f62c0c0f71d88923c5a7225531f7621b21936ba",
+          "question": "What would come of this venture as a whole?",
+          "answers": [
+            {
+              "answer_start": 487,
+              "text": "utility of universities as well as the revival of interest in knowledge"
+            }
+          ]
+        },
+        {
+          "id": "10882c1c115b61ae5562d6c8d616c31ede73c34f",
+          "question": "What is another name for school?",
+          "answers": [
+            {
+              "answer_start": 60,
+              "text": "universities"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d089799"
+  },
+  "title": "Czech_language",
+  "paragraphs": [
+    {
+      "context": "Immigration of Czechs from Europe to the United States occurred primarily from 1848 to 1914. Czech is a Less Commonly Taught Language in U.S. schools, and is taught at Czech heritage centers. Large communities of Czech Americans live in the states of Texas, Nebraska and Wisconsin. In the 2000 United States Census, Czech was reported as the most-common language spoken at home (besides English) in Valley, Butler and Saunders Counties, Nebraska and Republic County, Kansas. With the exception of Spanish (the non-English language most commonly spoken at home nationwide), Czech was the most-common home language in over a dozen additional counties in Nebraska, Kansas, Texas, North Dakota and Minnesota. As of 2009, 70,500 Americans spoke Czech as their first language (49th place nationwide, behind Turkish and ahead of Swedish).",
+      "qas": [
+        {
+          "id": "2f967b39acfb764af1e3ee1bf1278ed9429ed2a3",
+          "question": "What language was likely spoken by the immigrants from Europe?",
+          "answers": [
+            {
+              "answer_start": 93,
+              "text": "Czech"
+            }
+          ]
+        },
+        {
+          "id": "e8c5b519671e888dce4fed05d66ecc573ceec6c0",
+          "question": "In which state would you likely find a large community of Czech Americans, New York, California or Nebraska?",
+          "answers": [
+            {
+              "answer_start": 258,
+              "text": "Nebraska"
+            }
+          ]
+        },
+        {
+          "id": "272eea3bdf37540b0e706961f10ef730edec89dc",
+          "question": "In terms of first language spoken in 2009 what language placed 49th in the United States?",
+          "answers": [
+            {
+              "answer_start": 740,
+              "text": "Czech"
+            }
+          ]
+        },
+        {
+          "id": "2642e09ed1ed40ae0f0adaf0a9cffd08c6c66d98",
+          "question": "What language placed before Czech in 2009 as the first language spoken by Americans?",
+          "answers": [
+            {
+              "answer_start": 801,
+              "text": "Turkish"
+            }
+          ]
+        },
+        {
+          "id": "79b4603abbb549ffff2592a480d333fdcdc23638",
+          "question": "What language placed last in terms of first language spoken in 2009, Turkish, Czech or Swedish?",
+          "answers": [
+            {
+              "answer_start": 822,
+              "text": "Swedish"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "In addition to a spoken standard and a closely related written standard, Czech has several regional dialects primarily used in rural areas by speakers less proficient in other dialects or standard Czech. During the second half of the twentieth century, Czech dialect use began to weaken. By the early 1990s dialect use was stigmatized, associated with the shrinking lower class and used in literature or other media for comedic effect. Increased travel and media availability to dialect-speaking populations has encouraged them to shift to (or add to their own dialect) standard Czech. Although Czech has received considerable scholarly interest for a Slavic language, this interest has focused primarily on modern standard Czech and ancient texts rather than dialects. Standard Czech is still the norm for politicians, businesspeople and other Czechs in formal situations, but Common Czech is gaining ground in journalism and the mass media.",
+      "qas": [
+        {
+          "id": "ce0134b84f57698c84c7cedd8a07b9bf360592b3",
+          "question": "What kind of language do you use if you are the Czech prime minister?",
+          "answers": [
+            {
+              "answer_start": 770,
+              "text": "Standard Czech"
+            }
+          ]
+        },
+        {
+          "id": "b83bab4e7dd29761c071f476fd451cc5ee278e82",
+          "question": "What kind of language do you use if you are a member of the Czech parliament?",
+          "answers": [
+            {
+              "answer_start": 770,
+              "text": "Standard Czech"
+            }
+          ]
+        },
+        {
+          "id": "c9e579fb6fe61c58c66796f202608149c069ee7c",
+          "question": "What type of language do you use if you are Czech diplomat?",
+          "answers": [
+            {
+              "answer_start": 770,
+              "text": "Standard Czech"
+            }
+          ]
+        },
+        {
+          "id": "3de5f8dde4b73a18f9eb0f69befc2d2444efae3b",
+          "question": "What kind of language is used in Czech comedies?",
+          "answers": [
+            {
+              "answer_start": 307,
+              "text": "dialect"
+            }
+          ]
+        },
+        {
+          "id": "adba9b15ee168fc4bb49ede90c0d4c574b4befbf",
+          "question": "How would other people react if you use Czech dialect?",
+          "answers": [
+            {
+              "answer_start": 323,
+              "text": "stigmatized"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The Czech people gained widespread national pride during the mid-eighteenth century, inspired by the Age of Enlightenment a half-century earlier. Czech historians began to emphasize their people's accomplishments from the fifteenth through the seventeenth centuries, rebelling against the Counter-Reformation (which had denigrated Czech and other non-Latin languages). Czech philologists studied sixteenth-century texts, advocating the return of the language to high culture. This period is known as the Czech National Revival (or Renascence).",
+      "qas": [
+        {
+          "id": "cb577ae1913a6cb1a05f43b3253bef376b6c78fc",
+          "question": "When did these people begin to focus on their own achievements?",
+          "answers": [
+            {
+              "answer_start": 57,
+              "text": "the mid-eighteenth century"
+            }
+          ]
+        },
+        {
+          "id": "0654cbf3eccac1d28d8253dbb710c6baf831c7ba",
+          "question": "What did this focus on themselves do to the country?",
+          "answers": [
+            {
+              "answer_start": 0,
+              "text": "The Czech people gained widespread national pride"
+            }
+          ]
+        },
+        {
+          "id": "18f2715115893c3828a77c298edf52d97bb729bc",
+          "question": "What was the impetus of the change in focus?",
+          "answers": [
+            {
+              "answer_start": 285,
+              "text": "the Counter-Reformation"
+            }
+          ]
+        },
+        {
+          "id": "646f69381d28191c233e5464fc9b2e11b12f6a01",
+          "question": "Why did the Czech historians emphasize themselves?",
+          "answers": [
+            {
+              "answer_start": 285,
+              "text": "the Counter-Reformation (which had denigrated Czech and other non-Latin languages)"
+            }
+          ]
+        },
+        {
+          "id": "5068b7eb2c8ead395668e7f38b637939ae2ac6fd",
+          "question": "What is this period known for?",
+          "answers": [
+            {
+              "answer_start": 146,
+              "text": "Czech historians began to emphasize their people's accomplishments"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Czech, the official language of the Czech Republic (a member of the European Union since 2004), is one of the EU's official languages and the 2012 Eurobarometer survey found that Czech was the foreign language most often used in Slovakia. Economist Jonathan van Parys collected data on language knowledge in Europe for the 2012 European Day of Languages. The five countries with the greatest use of Czech were the Czech Republic (98.77 percent), Slovakia (24.86 percent), Portugal (1.93 percent), Poland (0.98 percent) and Germany (0.47 percent).",
+      "qas": [
+        {
+          "id": "d9093b34bdfe7c65f56dbbc2baad3a089a6808b6",
+          "question": "What place has the second lowest usage?",
+          "answers": [
+            {
+              "answer_start": 497,
+              "text": "Poland"
+            }
+          ]
+        },
+        {
+          "id": "9443857a38c8901966b639a9d14d5f0834081800",
+          "question": "What place has the second highest usage?",
+          "answers": [
+            {
+              "answer_start": 446,
+              "text": "Slovakia"
+            }
+          ]
+        },
+        {
+          "id": "3e39f7a55ff9dd9cca43af73745db05c7c56f0e5",
+          "question": "What country falls in third place for usage?",
+          "answers": [
+            {
+              "answer_start": 472,
+              "text": "Portugal"
+            }
+          ]
+        },
+        {
+          "id": "da8e81a62ebee92837ed4204501ca158792842af",
+          "question": "What process was similar to a Census?",
+          "answers": [
+            {
+              "answer_start": 239,
+              "text": "Economist Jonathan van Parys collected data on language knowledge in Europe for the 2012 European Day of Languages"
+            }
+          ]
+        },
+        {
+          "id": "a3e82be213799d67db318f81d24bf2f505866d02",
+          "question": "How was the information found regarding Slovakia before Johnathan?",
+          "answers": [
+            {
+              "answer_start": 142,
+              "text": "2012 Eurobarometer survey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The verbs of most aspect pairs differ in one of two ways: by prefix or by suffix. In prefix pairs, the perfective verb has an added prefix—for example, the imperfective psát (to write, to be writing) compared with the perfective napsat (to write down, to finish writing). The most common prefixes are na-, o-, po-, s-, u-, vy-, z- and za-. In suffix pairs, a different infinitive ending is added to the perfective stem; for example, the perfective verbs koupit (to buy) and prodat (to sell) have the imperfective forms kupovat and prodávat. Imperfective verbs may undergo further morphology to make other imperfective verbs (iterative and frequentative forms), denoting repeated or regular action. The verb jít (to go) has the iterative form chodit (to go repeatedly) and the frequentative form chodívat (to go regularly).",
+      "qas": [
+        {
+          "id": "e1514dbfd57466c483313fe87a2088b4d255bde2",
+          "question": "What is a specific type of way you could identify a perfective verb?",
+          "answers": [
+            {
+              "answer_start": 236,
+              "text": "(to write down, to finish writing)"
+            }
+          ]
+        },
+        {
+          "id": "a61b840141a5336cdc17258bf2d9177688602093",
+          "question": "What has a description that is similar to a plant?",
+          "answers": [
+            {
+              "answer_start": 403,
+              "text": "perfective stem"
+            }
+          ]
+        },
+        {
+          "id": "2004fda7d0169b842e84764598b4e53de5b29172",
+          "question": "What might  change to make more action words?",
+          "answers": [
+            {
+              "answer_start": 541,
+              "text": "Imperfective verbs"
+            }
+          ]
+        },
+        {
+          "id": "349c3f221da97f219a1470f5fb9c473f1222449a",
+          "question": "What specific verb forms might contain reiterative or steady verbs?",
+          "answers": [
+            {
+              "answer_start": 625,
+              "text": "iterative and frequentative forms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "While Old Czech had a basic alphabet from which a general set of orthographical correspondences was drawn, it did not have a standard orthography. It also contained a number of sound clusters which no longer exist; allowing ě (/jɛ/) after soft consonants, which has since shifted to e (/ɛ/), and allowing complex consonant clusters to be pronounced all at once rather than syllabically. A phonological phenomenon, Havlik's law (which began in Proto-Slavic and took various forms in other Slavic languages), appeared in Old Czech; counting backwards from the end of a clause, every odd-numbered yer was vocalized as a vowel, while the other yers disappeared.",
+      "qas": [
+        {
+          "id": "e6935b7b790fe59890c63e6b6e9a0ea5f9bf3f36",
+          "question": "What is another expression for e?",
+          "answers": [
+            {
+              "answer_start": 286,
+              "text": "/ɛ/"
+            }
+          ]
+        },
+        {
+          "id": "a8a276f55dfa5a29f694302359f187aba140232b",
+          "question": "What is another expression for the letter used after soft consonants?",
+          "answers": [
+            {
+              "answer_start": 227,
+              "text": "/jɛ/"
+            }
+          ]
+        },
+        {
+          "id": "cc92d13dfeb4cc38882e3979e115fcf346402b14",
+          "question": "What plain letter is used as an example of obsolete sound clusters?",
+          "answers": [
+            {
+              "answer_start": 283,
+              "text": "e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The infinitive form ends in t (archaically, ti). It is the form found in dictionaries and the form that follows auxiliary verbs (for example, můžu tě slyšet—\"I can hear you\"). Czech verbs have three grammatical moods: indicative, imperative and conditional. The imperative mood adds specific endings for each of three person (or number) categories: -Ø/-i/-ej for second-person singular, -te/-ete/-ejte for second-person plural and -me/-eme/-ejme for first-person plural. The conditional mood is formed with a particle after the past-tense verb. This mood indicates possible events, expressed in English as \"I would\" or \"I wish\".",
+      "qas": [
+        {
+          "id": "308f9cd8ff5a1c589064f4f6634840476ebbd899",
+          "question": "Wordbooks or a collection of words arranged alphabetically with their definitions and usage are called?",
+          "answers": [
+            {
+              "answer_start": 73,
+              "text": "dictionaries"
+            }
+          ]
+        },
+        {
+          "id": "d5e2a9f33284e7e2968899f09a14c03fcda7d945",
+          "question": "In the English Language, a word used to describe an action are classified as what?",
+          "answers": [
+            {
+              "answer_start": 539,
+              "text": "verb"
+            }
+          ]
+        },
+        {
+          "id": "318355b65982aabf52fdf14b25ba99bfe2799cb4",
+          "question": "What is the word in the Czech language that translates to \"can\" in English?",
+          "answers": [
+            {
+              "answer_start": 142,
+              "text": "můžu"
+            }
+          ]
+        },
+        {
+          "id": "1b04850237542280e77d5a4aa86071a992e79b89",
+          "question": "A generator that can be activated if the primary generator fails or runs out is described as what kind of power?",
+          "answers": [
+            {
+              "answer_start": 112,
+              "text": "auxiliary"
+            }
+          ]
+        },
+        {
+          "id": "9f630c809d5aca1c4a58a5cb39db8a19f8af0913",
+          "question": "A temporary state of mind or feeling is referred to as?",
+          "answers": [
+            {
+              "answer_start": 550,
+              "text": "mood"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]

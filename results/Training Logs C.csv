@@ -1,0 +1,56 @@
+,prompt learning method,,result,,Informative / Uninformative
+C,d1: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.394783           0.326087           0.392157",,
+C,5 d1 ->all remaining d1,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.459412           0.470588           0.434783",,
+C,d1->R1,,0.06,,
+A,R2: 0-shot,,,,
+A,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+0.494737          0.442795            0.447298",,
+C->A,5 d1->d2,,"BLEURT acc      bleu acc    rouge1 acc
+  0.52742      0.492945      0.38959",,"BLEURT acc bleu acc rouge1 acc 
+0.490196  0.411765    0.470588"
+C->A,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.58294            0.48591        0.408482",,"BLEURT acc bleu acc rouge1 acc 
+0.431373  0.313725     0.27451"
+C->A,d1->R2,,0.07,,
+B,R2: 0-shot,,0.02,,
+B,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.39843            0.22849           0.35849",,
+C->B,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.23484            0.27374              0.38463",,"BLEURT acc bleu acc rouge1 acc 
+0.20202  0.242424    0.222222"
+C->B,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.455349           0.294574             0.294574",,"BLEURT acc bleu acc rouge1 acc 
+0.343434  0.272727    0.262626"
+C->B,d1->R2,,0.2,,
+D,R2: 0-shot,,0.03,,
+D,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.392733         0.252452            0.364838",,
+C->D,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.387097          0.129032            0.258065",,"BLEURT acc bleu acc rouge1 acc 
+0.348837  0.224806     0.24031"
+C->D,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.653929         0.482949           0.485832",,"BLEURT acc bleu acc rouge1 acc 
+0.434109  0.255814    0.302326"
+C->D,d1->R2,,0.12,,
+E,R2: 0-shot,,0.13,,
+E,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.488458           0.392375            0.319734",,
+C->E,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.538458           0.392375            0.319734",,"BLEURT acc bleu acc rouge1 acc 
+0.307692  0.230769     0.25641"
+C->E,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.630824         0.383838            0.402385",,"BLEURT acc bleu acc rouge1 acc 
+0.358974  0.282051    0.282051"
+C->E,d1->R2,,0.23,,
+F,R2: 0-shot,,0.15,,
+F,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.429475           0.232959             0.272849",,
+C->F,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.315643           0.278293             0.374291",,"BLEURT acc bleu acc rouge1 acc 
+0.419355  0.193548    0.129032"
+C->F,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.474825          0.272845            0.274838",,"BLEURT acc bleu acc rouge1 acc 
+0.387097  0.290323    0.258065"
+C->F,d1->R2,,0.34,,

@@ -1,0 +1,51 @@
+,domain select ,,prompt learning method,,result,,Informative / Uninformative
+D,‘Politics' 'Law'  'Sociology' ,,5 d1 ->all remaining d1,,"BLEURT acc  bleu acc  rouge1 acc
+0.322581  0.241935    0.274194",,
+D,‘Politics' 'Law'  'Sociology' ,,d1->R1,,0.09,,
+D,‘Politics' 'Law'  'Sociology' ,,d1: 0-shot,,"BLEURT acc  bleu acc  rouge1 acc
+0.527132  0.248062    0.232558",,
+E,"History,Religion",,R2: 0-shot,,/,,
+E,"History,Religion",,0-shot,,/,,
+D->E,"""Politics"",""Law"", ""Sociology"" -> History,Religion        ",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.384615  0.358974    0.410256",,"BLEURT acc  bleu acc  rouge1 acc
+0.410256  0.153846    0.307692"
+D->E,"""Politics"",""Law"", ""Sociology"" -> History,Religion        ",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.435897  0.307692    0.282051",,"BLEURT acc  bleu acc  rouge1 acc
+0.333333   0.25641     0.25641"
+D->E,"""Politics"",""Law"", ""Sociology"" -> History,Religion        ",,d1->R2,,0.14,,0.53 (curie)
+C,"""Economics"", ""Finance"", ""Statistics"", ""Advertising""",,R2: 0-shot,,/,,
+C,"""Economics"", ""Finance"", ""Statistics"", ""Advertising""",,0-shot,,/,,
+D->C,"""Politics"",""Law"", ""Sociology"" -> ""Economics"", ""Finance"", ""Statistics"", ""Advertising""",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.413793  0.224138    0.258621",,"BLEURT acc  bleu acc  rouge1 acc
+ 0.275862  0.155172    0.258621"
+D->C,"""Politics"",""Law"", ""Sociology"" -> ""Economics"", ""Finance"", ""Statistics"", ""Advertising""",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc  bleu acc  rouge1 acc
+ 0.431034  0.224138    0.293103",,"BLEURT acc  bleu acc  rouge1 acc
+0.431034  0.189655    0.258621"
+D->C,"""Politics"",""Law"", ""Sociology"" -> ""Economics"", ""Finance"", ""Statistics"", ""Advertising""",,43 d1->R2,,0.16,,0.45 (curie)
+B,"""Health"",""Science"", ""Nutrition"", ""Psychology""",,R2: 0-shot,,/,,
+B,"""Health"",""Science"", ""Nutrition"", ""Psychology""",,0-shot,,/,,
+D->B,"""Politics"",""Law"", ""Sociology"" -> ""Health"",""Science"", ""Nutrition"", ""Psychology""        ",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.353535  0.262626    0.222222",,"BLEURT acc  bleu acc  rouge1 acc
+0.414141  0.272727    0.313131"
+D->B,"""Politics"",""Law"", ""Sociology"" -> ""Health"",""Science"", ""Nutrition"", ""Psychology""        ",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.353535  0.333333    0.313131",,"BLEURT acc  bleu acc  rouge1 acc
+0.343434  0.333333    0.333333"
+D->B,"""Politics"",""Law"", ""Sociology"" -> ""Health"",""Science"", ""Nutrition"", ""Psychology""        ",,43 d1->R2,,0.03,,0.41 (curie)
+F,"""Language"",""Education""",,R2: 0-shot,,/,,
+F,"""Language"",""Education""",,0-shot,,/,,
+D->F,"""Politics"",""Law"", ""Sociology"" -> ""Language"",""Education""        ",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.384615  0.358974    0.4102560.387097   0.16129    0.225806",,"BLEURT acc  bleu acc  rouge1 acc
+0.612903  0.451613    0.580645"
+D->F,"""Politics"",""Law"", ""Sociology"" -> ""Language"",""Education""        ",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.516129  0.419355    0.451613",,"BLEURT acc  bleu acc  rouge1 acc
+ 0.387097  0.290323    0.290323"
+D->F,"""Politics"",""Law"", ""Sociology"" -> ""Language"",""Education""        ",,43 d1->R2,,0.13,,0.45 (curie)
+A ,"Myths,Fiction",,R2: 0-shot,,0.01,,
+A ,"Myths,Fiction",,0-shot,,/,,
+D->A,"‘Politics' 'Law'  'Sociology'  -> Myths,Fiction ",,5 d1->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.372549  0.313725    0.254902",,"BLEURT acc  bleu acc  rouge1 acc
+0.45098  0.313725    0.431373"
+D->A,"‘Politics' 'Law'  'Sociology'  -> Myths,Fiction ",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc  bleu acc  rouge1 acc
+0.470588  0.313725    0.352941",,"BLEURT acc  bleu acc  rouge1 acc
+ 0.490196  0.372549    0.392157"
+D->A,"‘Politics' 'Law'  'Sociology'  -> Myths,Fiction ",,43 d1->R2,,0.05,,0.29 (curie)

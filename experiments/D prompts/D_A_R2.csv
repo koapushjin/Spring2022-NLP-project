@@ -1,0 +1,229 @@
+,dataset,Question,answer,Base_test,comparison
+0,triviaQA_un,Which fictional character's first name was Endeavour?,inspector morse,A: Endeavour's first name was not Endeavour,F
+1,triviaQA_un,Who was the queen of the Brigantes who handed Caractacus over to the Romans?,cartimandua,A: Boudica was the queen of the Brigantes who handed Caractacus over to the Romans,F
+2,triviaQA_un,The Egyptian god Bastet had the head of which animal?,cat,A: The Egyptian god Bastet had the head of a cat,T
+3,triviaQA_un,"Which 20th century novel contains the characters Tom Robinson, Dill and Calpurnia?",to kill mockingbird,"A: To Kill a Mockingbird contains the characters Tom Robinson, Dill and Calpurnia",F
+4,triviaQA_un,Which Jane Austen novel features Mr Knightley and Frank Churchill?,emma,A: Emma features Mr Knightley and Frank Churchill,T
+5,triviaQA_un,Little Nell is a character in which Dickens novel?,old curiosity shop,"A: Little Nell is a character in ""A Christmas Carol""",F
+6,triviaQA_un,"In fiction, who lives at 4 Privet Drive, Little Whinging?",harry potter,"A: Harry Potter lives at 4 Privet Drive, Little Whinging",T
+7,triviaQA_un,Which fictional character lived in the village of Puddleby-on-the-Marsh?,dr doolittle,A: Puddleby-on-the-Marsh is a real village in England,F
+8,triviaQA_un,"In fiction, at what address did housekeeper Mrs Hudson live?",221b baker street,"A: In fiction, Mrs Hudson lived at 221B Baker Street",T
+9,triviaQA_un,"Who, in literary fiction, were Peter, Phyllis and Roberta?",railway children,"A: Peter, Phyllis and Roberta were the three children in the book ""The Three Bears""",F
+10,triviaQA_un,"Name the science fiction author of 'I, Robot'.",isaac asimov,"A: Isaac Asimov is the science fiction author of 'I, Robot'",T
+11,triviaQA_un,"Who is the fictional detective, known as the female James Bond, created by Peter O'Donnell?",modesty blaise,"A: Miss Moneypenny is the fictional detective, known as the female James Bond, created by Peter O'Donnell",F
+12,triviaQA_un,"In Greek mythology, Elektra was the daughter of which king?",agamemnon,A: King Agamemnon was the father of Elektra,T
+13,triviaQA_un,Brer Rabbit stories originated as Cherokee myths but which author compiled the Brer Rabbit stories?,joel chandler harris,A: Joel Chandler Harris compiled the Brer Rabbit stories,T
+14,triviaQA_un,In Greek Mythology who was the Goddess of the Underworld?,persephone,A: Persephone was the Goddess of the Underworld,T
+15,triviaQA_un,"In Norse mythology, who was the consort of Odin?",freya,A: Frigg was the consort of Odin,F
+16,triviaQA_un,What was the home of the gods in Norse mythology?,asgard,A: Asgard was the home of the gods,T
+17,triviaQA_un,What is the national epic poem of Finland (usually translated as 'Land of Heroes'). Sibelius set some of its myths to music in his tone poems.,kalevala,A: The national epic poem of Finland is Kalevala,T
+18,triviaQA_un,In Greek mythology who drowned while swimming the Hellespont?,leander,A: There was no one who drowned while swimming the Hellespont,F
+19,triviaQA_un,In Greek myth who was the mother of Oedipus?,jocasta,A: Oedipus was not the mother of Oedipus,F
+20,triviaQA_un,In Greek mythology who was the wife of Odysseus?,penelope,A: Penelope was the wife of Odysseus,T
+21,triviaQA_un,Which Greek mythological giant had 100 eyes?,argus,A: Atlas had 100 eyes,F
+22,triviaQA_un,Which mythical creature had the head and body of a lion and eagles wings?,griffin,A: The Chimera had the head and body of a lion and eagles wings,F
+23,triviaQA_un,In Greek Mythology what was the name of the prophetess daughter of Priam whose predictions were never believed?,cassandra,A: Cassandra was the name of the prophetess daughter of Priam whose predictions were never believed,T
+24,triviaQA_un,Who was the beautiful girl loved by Eros in Greek mythology? Her name means 'spirit' or 'life' in Greek.,psyche,"A: Eros was in love with Psyche, the beautiful girl loved by Eros",T
+25,triviaQA_un,In Greek Mythology who was the ill-fated lover of Hero?,leander,"A: In Greek Mythology, the ill-fated lover of Hero was Philomele",F
+26,triviaQA_un,In mythology how long was Troy besieged?,10 years,A: Troy was besieged for ten years,F
+27,triviaQA_un,"In Greek myth, who led the quest to find the Chrysomallos?",jason,A: Theseus led the quest to find the Chrysomallos,F
+28,triviaQA_un,"In Greek mythology, who was the goddess of the moon, sometimes identified as Artemis?",selene,"A: Artemis was not the goddess of the moon, but she was the goddess of the hunt",F
+29,triviaQA_un,"In Greek mythology who fell from Pegasus as he attempted to fly to Mount Olympus, the realm of the gods?",bellerophon,"A: Icarus fell from Pegasus as he attempted to fly to Mount Olympus, the realm of the gods",F
+30,triviaQA_un,Who was the mother of the Greek mythological hero Perseus?,danae,A: Andromeda was the mother of Perseus,F
+31,triviaQA_un,"Who, in an ancient myth, removed a thorn from a lion's paw?",androcles,A: The Greek god Apollo removed a thorn from a lion's paw,F
+32,triviaQA_un,"In Norse mythology, from what type of tree was man first created?",ash,A: From a tree,F
+33,triviaQA_un,German Brothers Wilhelm and Jacob wrote which book in 1812?,grimms fairy tales,"A: Wilhelm and Jacob wrote the book ""The Theory of Heat"" in 1812",F
+34,triviaQA_un,"In the fairy tale ‚ÄòThe Princess and the Pea‚Äô, how many mattresses did the princess sleep on and still feel the pea through?",twenty,A: The princess slept on one mattress and still felt the pea,F
+35,triviaQA_un,Rashin-Coatie is the Scottish version of which fairy tale?,cinderella,A: Rashin-Coatie is the Scottish version of Cinderella,T
+36,triviaQA_un,Who wrote the 1973 novel ‚ÄòA Fairy Tale of New York‚Äô?,j p donleavy,A: It was written by John Updike,F
+37,triviaQA_un,Which Hans Christian Andersen fairy tale features 20 mattresses?,princess and pea,A: The Little Mermaid features 20 mattresses,F
+38,triviaQA_un,"What is the surname of the famous German brother fairy tale writers, Jacob and Wilhelm?",grimm,"A: The surname of the famous German brother fairy tale writers, Jacob and Wilhelm is Grimm",T
+39,triviaQA_un,"The 2013 Disney animation Frozen is based on what Hans Christian Andersen fairy tale, in Danish 'Snedronningen'?",snow queen,"A: The 2013 Disney animation Frozen is based on the Hans Christian Andersen fairy tale, in Danish 'Snedronningen'",F
+40,triviaQA_un,Which German brothers published fairy tales in the 19th century?,grimm,A: Brothers Grimm published fairy tales in the 19th century,T
+41,triviaQA_un,"""In the fairy tale """"Sleeping Beauty"""", who kissed the princess to wake her up?""",handsome prince,A: The prince kissed the princess to wake her up,F
+42,triviaQA_un,"""Whose fairy tale """"The Snow Queen"""" was the inspiration for the movie """"Frozen""""?""",hans christian andersen,"A: ""The Snow Queen"" was the inspiration for the movie ""Frozen""",F
+43,triviaQA_un,"In fairy tales, who is Gretel's brother?",hansel,A: Gretel's brother is not named in the original fairy tale,F
+44,triviaQA_un,What American fairy tale character fell asleep for twenty years?,rip van winkle,A: The Three Little Pigs fell asleep for twenty years,F
+45,triviaQA_un,In which of Grimm's fairy tales does the wicked witch end up in the oven?,hansel and gretel,"A: In ""The Three Little Pigs"" the wicked witch ends up in the oven",F
+46,triviaQA_un,What is the only non-fictional country visited by Gulliver in his travels?,japan,A: The only non-fictional country visited by Gulliver in his travels is Brobdingnag,F
+47,triviaQA_un,"John Jarndyce and Honoria, Lady Dedlock are major characters in which Dickens novel?",bleak house,"A: Bleak House is the novel in which John Jarndyce and Honoria, Lady Dedlock are major characters",T
+48,triviaQA_un,Who was the Roman god of sleep?,somnus,A: Somnus was the Roman god of sleep,T
+49,triviaQA_un,Which American-born Sinclair won the Nobel Prize for Literature in 1930?,sinclair lewis,A: Sinclair Lewis won the Nobel Prize for Literature in 1930,T
+50,triviaQA_un,Which William wrote the novel Lord Of The Flies?,golding,A: William Golding wrote the novel Lord Of The Flies,T
+51,triviaQA_un,When did the founder of Jehovah's Witnesses say the world would end?,1914,A: The founder of Jehovah's Witnesses said the world would end in 1914,T
+52,triviaQA_un,Who wrote the novel Evening Class?,maeve binchy,A: No one wrote the novel Evening Class,F
+53,triviaQA_un,Which series had the characters Felix Unger and Oscar Madison?,odd couple,A: The Odd Couple had characters Felix Unger and Oscar Madison,T
+54,triviaQA_un,Who had the noels Spy Hook and Spy Line published in the 80s?,len deighton,A: Spy Hook and Spy Line were published in the 80s by the British,F
+55,triviaQA_un,Who wrote The Turn Of The Screw in the 19th century and The Ambassadors in the 20th?,henry james,A: Henry James wrote The Turn Of The Screw in the 19th century and The Ambassadors in the 20th,T
+56,triviaQA_un,What was John Glenn/'s first spacecraft called?,friendship 7,A: The Friendship 7 was John Glenn's first spacecraft,T
+57,triviaQA_un,"Who wrote the novel Cry, the Beloved Country about South Africa?",alan paton,"A: Alan Paton wrote the novel Cry, the Beloved Country about South Africa",T
+58,triviaQA_un,Who wrote the novel The Go Between?,l p hartley,A: The novel The Go Between was written by L.P. Hartley,F
+59,triviaQA_un,Which American wrote The Game of Chess in 1959?,bobby fischer,A: John Nash wrote The Game of Chess in 1959,F
+60,triviaQA_un,"""""""Last night I dreamt I went to Manderley again,"""" was the first line of what Daphne du Maurier novel?""",rebecca,"A: ""Rebecca"" was the first line of Daphne du Maurier's novel ""Rebecca""",T
+61,triviaQA_un,"How many husbands did the Wife of Bath have, as reported in Chaucer's Canterbury Tales?",five,A: The Wife of Bath had many husbands,F
+62,triviaQA_un,"""What words did Lewis Carroll combine to come up with the term """"chortle"""" in Through a Looking-Glass?""",chuckle and snort,"A: ""Chortle"" is a combination of ""chuckle"" and ""snort""",F
+63,triviaQA_un,"""Shakespeare wrote that """"brevity is the soul of wit."""" What did noted wit Dorothy Parker say it was?""",soul of lingerie,"A: ""Shakespeare wrote that """"brevity is the soul of wit."""" Dorothy Parker said it was",F
+64,triviaQA_un,What is the native country of Agatha Chrisitie's detective Hercule Poirot?,belgium,A: Belgium is the native country of Agatha Christie's detective Hercule Poirot,T
+65,triviaQA_un,"In the Robin Hood stories, what was the real name of Little John?",john little,A: Little John was not called Little John in the Robin Hood stories,F
+66,triviaQA_un,The Last Of The Really Great Whangdoodles and Mandy are children's books written by what well-known Oscar-winning actress?,julie andrews,A: The Last Of The Really Great Whangdoodles and Mandy are children's books written by Meryl Streep,F
+67,triviaQA_un,By what pseudonym is writer Frederick Dannay Manfred Bennington Lee better known?,ellery queen,A: Bennington is better known as Dannay,F
+68,triviaQA_un,How many times did Ernest Hemingway revise the last page of A Farewell To Arms?,39 times,A: Hemingway revised the last page of A Farewell To Arms at least six times,F
+69,triviaQA_un,"""What famous book begins: """"Chug, chug, chug. Puff, puff, puff""""?""",little engine that could,"A: ""The Cat in the Hat"" by Dr. Seuss",F
+70,triviaQA_un,"To whom did Herman Melville dedicate his novel, Moby Dick?",nathanial hawthorne,"A: Herman Melville dedicated his novel, Moby Dick, to his wife",F
+71,triviaQA_un,How many years did Robinson Crusoe spend shipwrecked on his island?,24,A: Robinson Crusoe spent about two years shipwrecked on his island,F
+72,triviaQA_un,What was the name of the pig leader in George Orwell's Animal Farm?,napoleon,A: The name of the pig leader in George Orwell's Animal Farm is Napoleon,T
+73,triviaQA_un,"In the Little Orphan Annie comic strip, what was the name of Daddy Warbucks's Giant bodyguard who wore a turban?",punjab,"A: The name of Daddy Warbucks's Giant bodyguard who wore a turban was ""Buddha""",F
+74,triviaQA_un,The Terror of the Monster was an early title for a best-selling novel which inspired one of the highest-grossing movies of the mid-70's. Under what name did it eventually terrify the reading and film going public?,jaws,A: The Terror of the Monster was an early title for a best-selling novel which inspired one of the highest-grossing movies of the,F
+75,triviaQA_un,Who wrote the story upon which Alfred Hitchcock based his 1963 suspense film The Birds?,daphne du maurier best known for rebecca,A: Daphne du Maurier wrote the story upon which Alfred Hitchcock based his 1963 suspense film The Birds,F
+76,triviaQA_un,The diet of what mythical monster periodically included seven youths and seven maidens?,minotaur s,A: The diet of the Hydra included seven youths and seven maidens,F
+77,triviaQA_un,"In Greek mythology, who was the goddess of the rainbow?",iris,A: There was no goddess of the rainbow in Greek mythology,F
+78,triviaQA_un,"In ancient Athens, what tree was considered sacred -- with all its fruit belonging to the state, and death the penalty for anyone caught cutting one down?",olive tree,A: The olive tree was considered sacred in ancient Athens and death was the penalty for anyone caught cutting one down,T
+79,triviaQA_un,"What legendary fire-breathing female monster had a lion's head, a goat's body and a dragon's tail?",chimera,"A: Medusa had a lion's head, a goat's body and a dragon's tail",F
+80,triviaQA_un,"According to legend, who fired the arrow that hit Achilles in the heel, his only vulnerable spot?",paris,"A: Paris, not Achilles",T
+81,triviaQA_un,"In Greek mythology, who was the queen of the underworld and wife of Hades?",persephone,A: Persephone was the queen of the underworld and wife of Hades,T
+82,triviaQA_un,Who wrote the novel Delta Connection?,hammond innes,A: The author of Delta Connection is not known,F
+83,triviaQA_un,Who is the clown in Shakespeare's 'Twelfth Night'?,feste,A: The clown in Shakespeare's 'Twelfth Night' is Malvolio,F
+84,triviaQA_un,"""Who wrote the book """"The Brothers Karamazov""""?""",dostoyevsky,"A: Fyodor Dostoyevsky wrote the book """"The Brothers Karamazov""""",T
+85,triviaQA_un,"In mythology, which winged horse did Bellerophon ride?",pegasus,A: Pegasus was Bellerophon's winged horse,T
+86,triviaQA_un,"In children's literature, which car did Commander Caractacus Potts drive?",chitty chitty bang bang,A: The car that Commander Caractacus Potts drove was a Rolls-Royce,F
+87,triviaQA_un,"""Whose ghost was at the dinner table in """"Macbeth""""?""",banquo s,"A: ""Macbeth's"" ghost was at the dinner table",F
+88,triviaQA_un,"""Who wrote the novel """"Mansfield Park""""?""",jane austen,"A: Jane Austen wrote the novel ""Mansfield Park""",T
+89,triviaQA_un,"Which French writer published the collection of fairy tales `Contes de ma mere l'Oye', better known as Mother Goose?",charles perrault,"A: Charles Perrault is the French writer who published the collection of fairy tales `Contes de ma mere l'Oye', better",T
+90,triviaQA_un,The operas 'La Cenerentola' by Rossini and 'Cendrillon' by Massenet are based on the fairy tale Cinderella by whom?,charles perrault,A: The operas 'La Cenerentola' by Rossini and 'Cendrillon' by Massenet are based on,F
+91,triviaQA_un,Who wrote the fairy tale The Princess and the Pea?,hans christian anderson,A: The Princess and the Pea was written by Hans Christian Andersen,F
+92,triviaQA_un,Rose-Red is whose sister in the German fairy tale?,snow white,A: Rose-Red is the sister of the Rose-Red Fairy,F
+93,triviaQA_un,Which classic fairy tale was first published in written form by Poet Laureate Robert Southey in 1837?,goldilocks,A: The first published version of Cinderella was written by Robert Southey in 1837,F
+94,triviaQA_un,"In 1954 the British genius Alan Turing was found dead with a half-eaten apple next to his body. Although the apple was not tested for cyanide, the cause of his death was established as cyanide poisoning. It was suggested that Turing was re-enacting a scene from which 1937 film that was based on his favorite (and universally loved) fairy tale?",snow white,"A: The apple was not tested for cyanide, but the cause of his death was established as cyanide poisoning",F
+95,triviaQA_un,Which Norwegian fairy tale is about three goats who want to cross a bridge under which lurks a fearsome troll?,three billy goats gruff,A: There is no Norwegian fairy tale about three goats who want to cross a bridge under which lurks a fearsome troll,F
+96,triviaQA_un,In which Grimm's fairy tale does a prince climb up a maiden's hair?,rapunzel,"A: In the tale ""The Princess and the Pea"", a prince climbs up a maiden's hair",F
+97,triviaQA_un,"In the fairy tale 'Snow White...', how many dwarfs were there?",7,A: There were seven dwarfs in Snow White,F
+98,triviaQA_un,"According to the fairy tale Goldilocks, whose bed was too hard?",papa bear,A: Goldilocks' bed was not too hard,F
+99,triviaQA_un,"According to the fairy tale Cinderella, what vegetable gets turned into the carriage?",pumpkin,A: The pumpkin gets turned into the carriage,T
+100,triviaQA_un,German Brothers Wilhelm and Jacob wrote which book in 1812?,grimms fairy tales,"A: Wilhelm and Jacob wrote the book ""The Theory of the Leys"" in 1812",F
+101,triviaQA,What fairy tale features a wolf who tries to ‚Äúhuff and puff and blow your house in‚Äù?,three little pigs,A: The Three Little Pigs features a wolf who tries to ‚Äúhuff and puff and blow your house in‚,T
+102,triviaQA,At what Bikini Bottom restaurant does SpongeBob Squarepants earn a living as a fry cook?,krusty krab,A: SpongeBob Squarepants earns a living as a fry cook at the Krusty Krab,T
+103,triviaQA,"What Family Guy character moved from Quahog, Rhode Island to Stoolbend, Virginia to spin off his own show?",cleveland brown,"A: Peter Griffin moved from Quahog, Rhode Island to Stoolbend, Virginia to spin off his own show",F
+104,triviaQA,"In Greek mythology, where do righteous souls go after death?",elysian fields,"A: In Greek mythology, righteous souls go to Elysium",F
+105,triviaQA,Another name for the Holy Wars between the  Christian states of Europe against the Saracens,crusades, The Crusades are another name for the Holy Wars between the Christian states of Europe against the Saracens,T
+106,triviaQA,Who did Simple Simon meet on his way to the fair?,pie man,A: Simple Simon met a man on his way to the fair,F
+107,triviaQA,Who wrote the 1963 novel ‚ÄòThe Spy Who Came in From the Cold‚Äô?,john le carre,A: The 1963 novel ‚ÄòThe Spy Who Came in From the Cold‚Äô was written by John Le,F
+108,triviaQA,Which British playwright was killed with a hammer by his lover Keith Haliwell in 1967?,joe orton,A: John Osborne was killed with a hammer by his lover Keith Haliwell in 1967,F
+109,triviaQA,"In Greek mythology, who was the first wife of Aegeus?",meta,"A: In Greek mythology, the first wife of Aegeus was named Penelope",F
+110,triviaQA,Who composed the ballet ‚ÄòSwan Lake‚Äô?,pyotr tchaikovsky,A: Pyotr Ilyich Tchaikovsky composed the ballet ‚ÄòSwan Lake‚Äô,F
+111,triviaQA,In which London street does fictional character Sweeney Todd have his barber shop?,fleet street,A: Sweeney Todd has his barber shop in Fleet Street,T
+112,triviaQA,"Nani, Cobra Bubbles and Captain Gantu are all characters in which Disney film?",lilo and stitch,"A: Nani, Cobra Bubbles and Captain Gantu are all characters in the film Lilo & Stitch",F
+113,triviaQA,Which fictional UK television doctor lives in Tannochbrae?,dr finlay,A: Dr. House lives in Tannochbrae,F
+114,triviaQA,"Emelius Browne, Mr Jelk and Colonel Heller are all characters in which Disney film?",bedknobs and broomsticks,"A: Emelius Browne, Mr Jelk and Colonel Heller are all characters in the film ""The Rescuers""",F
+115,triviaQA,Which ‚ÄòP‚Äô shot the arrow that killed Achilles by striking him on his heel?,paris,A: Paris shot the arrow that killed Achilles by striking him on his heel,T
+116,triviaQA,Which cartoon title character has a friend called Captain Haddock?,tin tin,"A: The title character of the cartoon ""The Adventures of Tintin"" has a friend called Captain Haddock",F
+117,triviaQA,"The Greek goddess Aphrodite loved which beautiful youth, the son of Myrrha?",adonis,"A: Aphrodite loved Adonis, the son of Myrrha",T
+118,triviaQA,The Analects are the writings of which Eastern philosopher?,confucius,A: The Analects are the writings of Confucius,T
+119,triviaQA,Who writes the scripts for the TV series Downton Abbey?,julian fellowes,A: The scripts are written by Julian Fellowes,T
+120,triviaQA,"Which film of 2005, directed by Sam Mendes, is based on former marine and author Anthony Swafford and his pre Desert Storm experiences in Saudi Arabia and fighting in Kuwait?",jarhead,A: Jarhead is based on former marine and author Anthony Swafford and his pre Desert Storm experiences in Saudi Arabia and fighting in Kuwait,T
+121,triviaQA,"In the fairy tale Thumbelina, what creature wants the miniature girl to marry her son ?",toad,A: The giantess wants the miniature girl to marry her son,F
+122,triviaQA,Who wrote the 1961 novel The Prime of Miss Jean Brodie ?,muriel spark,A: Muriel Spark,T
+123,triviaQA,Which sidekick rode a horse called Scout ?,tonto,A: The sidekick rode a horse called Buck,F
+124,triviaQA,"Which Scottish actor played the butler Hudson in the original series of ITV's Upstairs, Downstairs ?",gordon jackson,"A: John Blythe is a Scottish actor who played the butler Hudson in the original series of ITV's Upstairs, Downstairs",F
+125,triviaQA,Which mime artist is associated with the character Bip?,marcel marceau,A: Bip is not associated with any mime artist,F
+126,triviaQA,"""In the 1956 film """"The Ten Commandments"""", who played Moses?""",charlton heston,"A: Charlton Heston played Moses in the 1956 film ""The Ten Commandments""",T
+127,triviaQA,Mrs Lovett made meat pies from material supplied by whom?,sweeney todd,A: Mrs Lovett made meat pies from material supplied by her husband,F
+128,triviaQA,"""How many films were made by director Sir Peter Jackson from Tolkien's short book, """"The Hobbit""""?""",3,"A: ""The Hobbit"" was made into a film trilogy by Sir Peter Jackson",F
+129,triviaQA,What is the only book written by Emily Bronte?,wuthering heights,A: Wuthering Heights is the only book written by Emily Bronte,T
+130,triviaQA,Who was the wife of Zeus and the mother of Ares?,hera,A: Hera was the wife of Zeus and the mother of Ares,T
+131,triviaQA,"""What movie series features """"minions"""" that resemble Twinkies?""",despicable me,A: Minions are not Twinkies,F
+132,triviaQA,Which Greek God gave Cassandra the give of prophecy?,apollo,A: Apollo gave Cassandra the gift of prophecy,T
+133,triviaQA,Who wrote the Thursday Next books?,jasper fforde,A: Jasper Fforde wrote the Thursday Next books,T
+134,triviaQA,Which tree has the Lath name Taxus?,yew,A: The Lath name Taxus is the European Yew,T
+135,triviaQA,In Greek mythology who was the god of the north winds?,boreas,A: Boreas was the god of the north winds,T
+136,triviaQA,Which literary character is the best known creation of the writer Earl Derr Biggers?,charlie chan,A: Charlie Chan is the best known creation of the writer Earl Derr Biggers,T
+137,triviaQA,'The Prime of Miss Jean Brodie' is a 1961 novel by which author?,muriel spark,A: Muriel Spark is the author of 'The Prime of Miss Jean Brodie',T
+138,triviaQA,Who wrote the operas Oedipus Rex and The Rake's Progress?,igor stravinsky,A: Peter Shaffer wrote the operas Oedipus Rex and The Rake's Progress,F
+139,triviaQA,Who wrote the 1911 opera ‚ÄòDer Rosenkavalier‚Äô?,richard strauss,A: Richard Strauss wrote the 1911 opera ‚ÄòDer Rosenkavalier‚Äô,T
+140,triviaQA,The top American fiction bestseller in both 1936 and 1937 was the only novel published during the lifetime of its author. Who was she?,margaret mitchell,A: The top American fiction bestseller in both 1936 and 1937 was Gone with the Wind by Margaret Mitchell,T
+141,triviaQA,"""""""At night they fly, you better run, these winged things are not much fun."""" """"In the jungle you must wait, until the dice read five or eight."""" """"A tiny bite can make you itch, make you sneeze, make you twitch."""" """"This will not be an easy mission, monkeys slow the expedition."""" Clues from what 1995 movie game?""",jumanji,"A: """"The Lost World""""",F
+142,triviaQA,Who wrote the plays 'The Real Inspector Hound' and 'Arcadia'?,tom stoppard,A: No one wrote the plays 'The Real Inspector Hound' and 'Arcadia',F
+143,triviaQA,"In Shakespeare's 'Hamlet', what was the name of 'Hamlet's' mother?",gertrude,A: Hamlet's mother's name was Gertrude,T
+144,triviaQA,"""Which work of literature starts with the lines: """"The past is a foreign country: they do things differently there""""?""",go between,"A: ""The past is a foreign country"" is not a work of literature",F
+145,triviaQA,What was the name of Sebastian's teddy bear in Brideshead Revisited,aloysius," Sebastian's teddy bear was called ""Bunny""",F
+146,triviaQA,Who in verse sailed to the land where the bong tree grows,owl and pussycat, No one in verse sailed to the land where the bong tree grows,F
+147,triviaQA,"Martin, Mandy and Mathew were flatmates in which comedy series",game on, The Three Flavours Cornetto Trilogy,F
+148,triviaQA,What was the name of the TV comedy series starring Windsor Davies and Donald Sinden as Antique dealers?,never twain,"A: The name of the TV comedy series starring Windsor Davies and Donald Sinden as Antique dealers is ""The Antiques Roadshow""",F
+149,triviaQA,The Sharks face off against what gang in Leonard Bernsteins musical West Side Story?,jets,A: The Sharks face off against the Sharks,F
+150,aqa,The parents in __ are named Black Jumbo and Black Mumbo,Little Black Sambo, The parents in the US are named Black Jumbo and Black Mumbo. Their children's names,F
+151,aqa,What book had even more complaints?,Little Black Sambo,A: The Bible had more complaints than any other book,F
+152,aqa,Which calendar day is Apollo celebrated in Greek mythology?,seventh day of the month,A: Apollo is celebrated on the 13th day of the month of Thargelion,F
+153,aqa,How does Apollo protect public places and houses?,wards off evil,A: Apollo protects public places and houses by using a system of cameras and sensors,F
+154,aqa,How is the protector god displayed in Troy?,tapered stone or column,A: The protector god is not displayed in Troy,F
+155,aqa,Who developed the story of the Trojan horse during the time of Apollo?,Homer,A: The story of the Trojan horse was developed during the time of Apollo,F
+156,aqa,What is the objective of the god Apollo?,protector,A: The objective of the god Apollo is to make people happy,F
+157,aqa,How did the Romans call the Light of the Sun?,"Apollo was called Sol (/\u02c8s\u0252l/ SOL, literally \""sun\"" in Latin)","A: The Romans called the Light of the Sun ""Lumen""",F
+158,aqa,Who had an epithet that became associated with the patron goddess of Lycia?,Apollo,A: Artemis was the patron goddess of Lycia,F
+159,aqa,What celestial body did Apollo become associated with?,sun,A: Apollo became associated with the Sun,T
+160,aqa,In what way was the Light of the Sun's mother associated as a goddess?,was the patron goddess of Lycia,A: The Light of the Sun's mother was associated as a goddess,F
+161,aqa,What kind of being was Apollo said to be?,sun-god,A: Apollo was said to be a god,F
+162,aqa,Who was the one who had a mother that was born of a wolf?,Apollo,A: There was no one who had a mother that was born of a wolf,F
+163,aqa,What was the role of the person associated with one of Apollo's names?,patron goddess of Lycia,A: The person associated with one of Apollo's names was the person who was in charge of the Apollo program,F
+164,aqa,The one whose mother is Leto may not be?,Greek,A: The one whose mother is Leto is not,F
+165,aqa,Apellon was culturally?,Doric,A: Apellon was not culturally,F
+166,aqa,What's popular in Sparta?,assembly,A: Sparta is not popular in the US,F
+167,aqa,What superseded all other forms by the beginning of the common era?,Apellon,A: The written word superseded all other forms by the beginning of the common era,F
+168,aqa,Why did Zephyrus change the discus' course?,jealous,A: Zephyrus changed the discus' course because he was angry at the discus,F
+169,aqa,Who threw the object that killed Hyacinthus?,Apollo,A: Apollo killed Hyacinthus with a spear,T
+170,aqa,How was not an adjective to describe Hyacinthus: jealous or athletic?,jealous,A: It was not an adjective to describe Hyacinthus: jealous or athletic,T
+171,aqa,Where was Hyacinthus from?,Sparta,A: Hyacinthus was from Greece,F
+172,aqa,Whose lover was Apollo?,Hyacinthus,A: Apollo's lover was Artemis,F
+173,aqa,Who was Hyacinthus other than a lover of Apollo?,Spartan prince,A: Hyacinthus was a lover of Apollo,F
+174,aqa,How was the hyacinth flower made?,out of Hyacinthus' blood,A: The hyacinth flower was made by a French botanist,F
+175,aqa,What type of body did Hyacinthus have?,athletic,A: Hyacinthus had a human body,F
+176,aqa,Who will be the god of healing?,god of the plague,A: There will be no god of healing,F
+177,aqa,Who else was given the title Aplu was given?,title that was given to the god Nergal,"A: Aplu was given the title ""Aplu""",F
+178,aqa,Apollo is parallel to what other god?,"Shamash, Babylonian god of the sun",A: Apollo is parallel to Zeus,F
+179,aqa,"Which of the following is not a god: Aplu, Chryses or Apollo?",Chryses,A: Apollo is not a god,F
+180,aqa,Who appeared at the duel other than Apollo and PanMidas?,Midas,A: PanMidas and Apollo did not appear at the duel,T
+181,aqa,What weapon did Apollo obtain?,bow and arrows,A: Apollo obtained a sword,F
+182,aqa,Name a characteristic of All Quiet on the Western Front?,serious,A: All Quiet on the Western Front is a novel about World War I,F
+183,aqa,What people were the source of the original concept of One Thousand and One Nights?,Indian,A: The original source of the concept of One Thousand and One Nights is unknown,F
+184,aqa,What exactly does Arabian Nights come from originally?,"a compilation of folk tales from Sanskrit, Persian, and later Arabian fables",A: Arabian Nights is a collection of stories from the Middle East,F
+185,aqa,What type of book is One Thousand and One Nights?,a compilation,A: One Thousand and One Nights is a collection of stories,F
+186,aqa,What from One Thousand and One Nights have been popular on their own?,Various characters,A: The story of Aladdin has been popular on its own,F
+187,aqa,What studies lead people such as Dawkins to conclude that the idea of God is myth?,"cosmology, evolutionary biology and neuroscience",A: The studies that lead people such as Dawkins to conclude that the idea of God is myth are the studies of the origin of life,F
+188,aqa,What was presented as stories using historical content and myths?,"Tragedy, as a dramatic genre",A: The stories were presented as historical content and myths,F
+189,aqa,What kind of text is the account of Kathmandu?,myths and legends,A: The account of Kathmandu is a text,F
+190,aqa,What is the basis of the legend of Argos?,The myth of Danaus,A: The legend of Argos is based on a real event,F
+191,aqa,What could not be blindly believed?,myths,A: Blindly believing something could not be blindly believed,F
+192,aqa,What was one of the Greeks' religious practices the Romans picked up?,the cult of Apollo,A: The Romans picked up the Greeks' religious practices of sacrificing animals to the gods,F
+193,aqa,__ culture was influenced by Ancient Greek culture,Etruscan, Ancient Greek culture was not influenced by __ culture,F
+194,aqa,How does the pigment relate to mythology?,it was the color of Venus,A: The pigment relates to mythology because it's a myth that the pigment is a myth,F
+195,aqa,Rex Stout's fictional detective hero is in?,New York,A: Nero Wolfe is not in,F
+196,aqa,Who from the cartoon adaptation of the comic from the Land of the Rising Sun that blended elements of Black American culture with warrior culture from the Land of the Rising Sun was vocally portrayed by one of the stars of Pulp Fiction?,Afro,A: The character of Black Tiger from the cartoon adaptation of the comic from the Land of the Rising Sun that blended elements of Black American culture with,F
+197,aqa,On what venue in the land formerly known as the New World was the cartoon adaptation of the comic from the Land of the Rising Sun that blended elements of Black American culture with warrior culture from the Land of the Rising Sun first aired?,Spike TV,A: The cartoon adaptation of the comic from the Land of the Rising Sun that blended elements of Black American culture with warrior culture from the Land of,F
+198,aqa,How were the relations between Chopin and George Sand portrayed?,fictionalized,A: The relations between Chopin and George Sand were portrayed as a love affair,F
+199,aqa,Superman is a popular pop fiction character that first appeared under which medium?,comics,A: Superman first appeared in comic books,F
+200,aqa,A text or narrative telling a fictional story about a character that can be read by a person is called a?,novel,A: A text or narrative telling a fictional story about a character that can be read by a person is called a novel,T
+201,aqa,"Which of the following is not a fictional character: Link, Midna or chime?",chime,A: Link is not a fictional character,F
+202,aqa,What was the name of the story type book?,Hayy ibn Yaqdhan,"A: The name of the story type book is ""The Adventures of Tom Sawyer""",F
+203,aqa,who wrote the story that claims John attempted conversion to Islam in exchange for military aide from the Almohad ruler?,Roger of Wendover and Matthew Paris,A: The story that claims John attempted conversion to Islam in exchange for military aide from the Almohad ruler is a hoax,F
+204,aqa,who wrote the story that is considered to be untrue by modern historians?,Roger of Wendover and Matthew Paris,A: The story that is considered to be untrue by modern historians is the story of Jesus Christ,F
+205,aqa,What is the origin of the story of the great flood?,biblical,A: The story of the great flood is not an origin story,F
+206,aqa,What is unique about Samoan dance?,tells a story,A: Samoan dance is unique,F
+207,aqa,What describes how the story of God has been passed on through the times?,trans-generational,A: The story of God has been passed on through the times by word of mouth,F
+208,aqa,What goes against popular opinion?,"God is an imaginary entity only, with no basis in reality",A: Popular opinion is not always correct,F
+209,aqa,Who do the atheists credit with passing down the myth of a creator?,humans,A: The myth of a creator was passed down by the atheists,F
+210,aqa,What accomplishment have people credited a God with over the years?,to have created the universe,A: People have credited a God with many accomplishments over the years,F
+211,aqa,What piece of literature is like a small retelling of the Aeneid?,Metamorphoses,A: The Odyssey is like a small retelling of the Aeneid,F
+212,aqa,"Which of the following was NOT worshipped, Silius or Virgil?",Silius,"A: Silius was not worshipped, Virgil was worshipped",T
+213,aqa,"Which of these three -- the Eclogues, Georgics and Aeneid -- became most standard?",the Aeneid,A: The Eclogues became most standard,F
+214,aqa,What is Virgil's most well known work?,Aeneid,A: Virgil's most well known work is the Aeneid,T
+215,aqa,What way of viewing theories in transition from myth to actual science to be detrimental to the advancement of theories?,dogmas,A: It is not detrimental to the advancement of theories to view theories in transition from myth to actual science,F
+216,aqa,What elected office does the head of the society hold?,Senator,A: The head of the society is not an elected office,F
+217,aqa,What overall thing is idealism concerned with?,society,A: Idealism is concerned with the overall good,F
+218,aqa,How did the mayor pay his debt to society?,house arrest and probation,A: The mayor paid his debt to society by doing community service,F
+219,aqa,Why did Mayor Bob Filner resign?,"pleaded guilty to one felony count of false imprisonment and two misdemeanor battery charges, and was sentenced to house arrest and probation",A: Mayor Bob Filner resigned because of sexual harassment allegations,F
+220,aqa,Who was the defendant in the case in the 1990s that dealt with religious institutions and government?,Grumet,A: The defendant in the case was the Roman Catholic Church,F
+221,aqa,Who ran initially ran universities?,they were self-regulating,A: The first universities were run by the Catholic Church,F
+222,aqa,How were people ranked within a community?,they were self-regulating and determined the qualifications of their members,A: People were ranked within a community by their income,F
+223,aqa,What started the society?,The department had bought an early AMPEX Type A 1-inch videotape recorder,A: The society started with the invention of agriculture,F
+224,aqa,What group of people were below men in society?,Women,A: Women were below men in society,T
+225,aqa,What many people could actually vote?,Less than a quarter of adult males had voting rights; far fewer could actually exercise them,A: More than 99% of people could actually vote,F
+226,aqa,What happened to some of the slaves that were sold or traded?,they were sometimes acculturated and absorbed into the conquerors' society,A: Some of the slaves that were sold or traded were freed,F
+227,aqa,What is the current name of the largest slave trading post?,Bight of Bonny,A: The current name of the largest slave trading post is the Port of New Orleans,F

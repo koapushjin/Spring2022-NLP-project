@@ -1,0 +1,3187 @@
+[{
+  "_id": {
+    "$oid": "6271794905c7a6f54d08974e"
+  },
+  "title": "Korean_War",
+  "paragraphs": [
+    {
+      "context": "After the formation of the People's Republic of China in 1949, the Chinese government named the Western nations, led by the United States, as the biggest threat to its national security. Basing this judgment on China's century of humiliation beginning in the early 19th century, American support for the Nationalists during the Chinese Civil War, and the ideological struggles between revolutionaries and reactionaries, the Chinese leadership believed that China would become a critical battleground in the United States' crusade against Communism. As a countermeasure and to elevate China's standing among the worldwide Communist movements, the Chinese leadership adopted a foreign policy that actively promoted Communist revolutions throughout territories on China's periphery.",
+      "qas": [
+        {
+          "id": "ceebecae9c9440ab6ca3aa543fe4404aab35e769",
+          "question": "what country is mentioned first?",
+          "answers": [
+            {
+              "answer_start": 27,
+              "text": "People's Republic of China"
+            }
+          ]
+        },
+        {
+          "id": "a9d50ea564ebb36707dcae4e416d596f8c72e5c9",
+          "question": "what period in time is mentioned first?",
+          "answers": [
+            {
+              "answer_start": 57,
+              "text": "1949"
+            }
+          ]
+        },
+        {
+          "id": "7fa8df8c1305f65ec85544d74fccc06e2c2bafda",
+          "question": "what nation is mentioned last?",
+          "answers": [
+            {
+              "answer_start": 761,
+              "text": "China"
+            }
+          ]
+        },
+        {
+          "id": "163d564d78ac25da3cddd00728b37ae8e0606815",
+          "question": "what is the last ethnicity mentioned?",
+          "answers": [
+            {
+              "answer_start": 646,
+              "text": "Chinese"
+            }
+          ]
+        },
+        {
+          "id": "ad1a0aecae2c46414acddf23e88c89aec34ff748",
+          "question": "what is the second group mentioned?",
+          "answers": [
+            {
+              "answer_start": 67,
+              "text": "Chinese government"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "On 27 June 1950, two days after the KPA invaded and three months before the Chinese entered the war, President Truman dispatched the United States Seventh Fleet to the Taiwan Strait, to prevent hostilities between the Nationalist Republic of China (Taiwan) and the People's Republic of China (PRC). On 4 August 1950, with the PRC invasion of Taiwan aborted, Mao Zedong reported to the Politburo that he would intervene in Korea when the People's Liberation Army's (PLA) Taiwan invasion force was reorganized into the PLA North East Frontier Force. China justified its entry into the war as a response to \"American aggression in the guise of the UN\".",
+      "qas": [
+        {
+          "id": "a2c32f0a9bfd2f99b26991b95b326c9623f812ba",
+          "question": "Which of the following is not the name of an army: KPA, PLA or PRC?",
+          "answers": [
+            {
+              "answer_start": 293,
+              "text": "PRC"
+            }
+          ]
+        },
+        {
+          "id": "98bbdfd12dab14b68a52e3e099b3a903a52df1f6",
+          "question": "Which of the following had more people in it: the PRC or the PLA?",
+          "answers": [
+            {
+              "answer_start": 293,
+              "text": "PRC"
+            }
+          ]
+        },
+        {
+          "id": "b1ef41f81360f93b5c5e8b6c2d4b9bd26fa5e1c4",
+          "question": "Which of the following is not a body of water: the Taiwan Strait or the Politburo?",
+          "answers": [
+            {
+              "answer_start": 381,
+              "text": "the Politburo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "During the Hungnam evacuation, about 193 shiploads of UN Command forces and matériel (approximately 105,000 soldiers, 98,000 civilians, 17,500 vehicles, and 350,000 tons of supplies) were evacuated to Pusan. The SS Meredith Victory was noted for evacuating 14,000 refugees, the largest rescue operation by a single ship, even though it was designed to hold 12 passengers. Before escaping, the UN Command forces razed most of Hungnam city, especially the port facilities; and on 16 December 1950, President Truman declared a national emergency with Presidential Proclamation No. 2914, 3 C.F.R. 99 (1953), which remained in force until 14 September 1978.[b] The next day (17 December 1950) Kim Il-sung was deprived of the right of command of KPA by China. After that, the leading part of the war became the Chinese army. Following that, on 1 February 1951, United Nations General Assembly adopted a draft resolution condemning China as an aggressor in the Korean War.",
+      "qas": [
+        {
+          "id": "a58a75d14003b22453b309bad953267ca50a619b",
+          "question": "What made up the largest numerical volume of cargo?",
+          "answers": [
+            {
+              "answer_start": 157,
+              "text": "350,000 tons of supplies"
+            }
+          ]
+        },
+        {
+          "id": "93307196a36dec67b3047b60fb92598dd98d277e",
+          "question": "Who gained the right of command?",
+          "answers": [
+            {
+              "answer_start": 801,
+              "text": "the Chinese army"
+            }
+          ]
+        },
+        {
+          "id": "28b565a366ee0af1b730b106780d838d13ab8b9a",
+          "question": "When was the villian in the chosen?",
+          "answers": [
+            {
+              "answer_start": 838,
+              "text": "1 February 1951"
+            }
+          ]
+        },
+        {
+          "id": "a0942205c35253d701d1c7b366d958637bfe48ef",
+          "question": "How many did the ship used to rescue?",
+          "answers": [
+            {
+              "answer_start": 257,
+              "text": "14,000 refugees"
+            }
+          ]
+        },
+        {
+          "id": "b9e91e94c591c0156e554ac907a084c5a7194c3e",
+          "question": "How many non-humans made up the cargo?",
+          "answers": [
+            {
+              "answer_start": 136,
+              "text": "17,500 vehicles, and 350,000 tons of supplies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "By mid-1950, North Korean forces numbered between 150,000 and 200,000 troops, organized into 10 infantry divisions, one tank division, and one air force division, with 210 fighter planes and 280 tanks, who captured scheduled objectives and territory, among them Kaesong, Chuncheon, Uijeongbu, and Ongjin. Their forces included 274 T-34-85 tanks, 200 artillery pieces, 110 attack bombers, some 150 Yak fighter planes, 78 Yak trainers, and 35 reconnaissance aircraft. In addition to the invasion force, the North KPA had 114 fighters, 78 bombers, 105 T-34-85 tanks, and some 30,000 soldiers stationed in reserve in North Korea. Although each navy consisted of only several small warships, the North and South Korean navies fought in the war as sea-borne artillery for their in-country armies.",
+      "qas": [
+        {
+          "id": "f9b6fd1df700dfa6c667ee5aeba32b1c1f3f021f",
+          "question": "What made up the Kaesong forces?",
+          "answers": [
+            {
+              "answer_start": 93,
+              "text": "10 infantry divisions, one tank division, and one air force division, with 210 fighter planes and 280 tanks"
+            }
+          ]
+        },
+        {
+          "id": "cd66ea914a118212e4a13854d14d2add9c3e8ac9",
+          "question": "Which equipment was highest in numbers?",
+          "answers": [
+            {
+              "answer_start": 331,
+              "text": "T-34-85 tanks"
+            }
+          ]
+        },
+        {
+          "id": "5c28d93f4a72464e0820010769c7713b2b9a4739",
+          "question": "Beyond land and air, what made up the forces?",
+          "answers": [
+            {
+              "answer_start": 663,
+              "text": "several small warships, the North and South Korean navies"
+            }
+          ]
+        },
+        {
+          "id": "62e25a7ebdbecb5fc46a472e599660a07c04e16f",
+          "question": "Where was invaded?",
+          "answers": [
+            {
+              "answer_start": 262,
+              "text": "Kaesong, Chuncheon, Uijeongbu, and Ongjin"
+            }
+          ]
+        },
+        {
+          "id": "f37ceb16aeeff8b76b5ea9769f637fb9fe153d49",
+          "question": "What was the short name for the forces?",
+          "answers": [
+            {
+              "answer_start": 505,
+              "text": "North KPA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "On 30 September, Zhou Enlai warned the United States that China was prepared to intervene in Korea if the United States crossed the 38th parallel. Zhou attempted to advise North Korean commanders on how to conduct a general withdrawal by using the same tactics which had allowed Chinese communist forces to successfully escape Chiang Kai-shek's Encirclement Campaigns in the 1930s, but by some accounts North Korean commanders did not utilize these tactics effectively. Historian Bruce Cumings argues, however, the KPA's rapid withdrawal was strategic, with troops melting into the mountains from where they could launch guerrilla raids on the UN forces spread out on the coasts.",
+      "qas": [
+        {
+          "id": "25e148afcfd3c8fbf04c712f97cbe7c828b54b6b",
+          "question": "Who has a deep understanding of Zhou Enlai and the North Korean commanders?",
+          "answers": [
+            {
+              "answer_start": 470,
+              "text": "Historian Bruce Cumings"
+            }
+          ]
+        },
+        {
+          "id": "b2ce514ed3505bdf21d61d74c7a90b5cd7b306e6",
+          "question": "Who has knowledge about Zhou Enlai and the North Korean commanders?",
+          "answers": [
+            {
+              "answer_start": 470,
+              "text": "Historian Bruce Cumings"
+            }
+          ]
+        },
+        {
+          "id": "dc84dc4bf48f5732bfd2b8eb0f6a88673c80afa2",
+          "question": "Who can advise us on what happened with the North Korean Commanders?",
+          "answers": [
+            {
+              "answer_start": 470,
+              "text": "Historian Bruce Cumings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Meanwhile, on 10 October 1950, the 89th Tank Battalion was attached to the 1st Cavalry Division, increasing the armor available for the Northern Offensive. On 15 October, after moderate KPA resistance, the 7th Cavalry Regiment and Charlie Company, 70th Tank Battalion captured Namchonjam city. On 17 October, they flanked rightwards, away from the principal road (to Pyongyang), to capture Hwangju. Two days later, the 1st Cavalry Division captured Pyongyang, the North's capital city, on 19 October 1950. Kim Il Sung and his government temporarily moved its capital to Sinuiju – although as UNC forces approached, the government again moved – this time to Kanggye.",
+      "qas": [
+        {
+          "id": "70ae05fb7d7b2ace4308a75002acd3d24e70fb1f",
+          "question": "Who was ultimately successful in taking the seat of government?",
+          "answers": [
+            {
+              "answer_start": 415,
+              "text": "the 1st Cavalry Division"
+            }
+          ]
+        },
+        {
+          "id": "aac2a19d2ba9a55e47e44e9d3da3a45f1e5f0d80",
+          "question": "What city was taken last?",
+          "answers": [
+            {
+              "answer_start": 449,
+              "text": "Pyongyang"
+            }
+          ]
+        },
+        {
+          "id": "d32061acd9f5da2942c25b683f3ae2e82a187a20",
+          "question": "What is the current capital of the DPRK?",
+          "answers": [
+            {
+              "answer_start": 449,
+              "text": "Pyongyang"
+            }
+          ]
+        },
+        {
+          "id": "9227f060ecbb4a8e9c62d24f51363bf69fc40e93",
+          "question": "What city did the government move to after Kanggye?",
+          "answers": [
+            {
+              "answer_start": 449,
+              "text": "Pyongyang"
+            }
+          ]
+        },
+        {
+          "id": "7c0ed95980afbe8e2dc550590ab67d607bfa7485",
+          "question": "What was the UN force called which invaded North Korea?",
+          "answers": [
+            {
+              "answer_start": 132,
+              "text": "the Northern Offensive"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "By August, the KPA had pushed back the ROK Army and the Eighth United States Army to the vicinity of Pusan in southeast Korea. In their southward advance, the KPA purged the Republic of Korea's intelligentsia by killing civil servants and intellectuals. On 20 August, General MacArthur warned North Korean leader Kim Il-sung that he was responsible for the KPA's atrocities. By September, the UN Command controlled the Pusan perimeter, enclosing about 10% of Korea, in a line partially defined by the Nakdong River.",
+      "qas": [
+        {
+          "id": "331e29992e33c80d1b24400a1aaa5d1139434639",
+          "question": "Who did Kim Il-sung commit atrocities against?",
+          "answers": [
+            {
+              "answer_start": 174,
+              "text": "Republic of Korea's intelligentsia"
+            }
+          ]
+        },
+        {
+          "id": "f9acb87637231638087410f845799a67917f0610",
+          "question": "Who did Kim Il-Sung command?",
+          "answers": [
+            {
+              "answer_start": 11,
+              "text": "the KPA"
+            }
+          ]
+        },
+        {
+          "id": "671a6c21c98455f82c4209a5a8f6d142d1b2cdd1",
+          "question": "What partial definition was created by Nakdong?",
+          "answers": [
+            {
+              "answer_start": 419,
+              "text": "Pusan perimeter"
+            }
+          ]
+        },
+        {
+          "id": "5a6b164cb96c9508fc58563b9e2cb513f67e2944",
+          "question": "Who decried the atrocities of the KPA?",
+          "answers": [
+            {
+              "answer_start": 268,
+              "text": "General MacArthur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "On 25 November at the Korean western front, the PVA 13th Army Group attacked and overran the ROK II Corps at the Battle of the Ch'ongch'on River, and then decimated the US 2nd Infantry Division on the UN forces' right flank. The UN Command retreated; the U.S. Eighth Army's retreat (the longest in US Army history) was made possible because of the Turkish Brigade's successful, but very costly, rear-guard delaying action near Kunuri that slowed the PVA attack for two days (27–29 November). On 27 November at the Korean eastern front, a U.S. 7th Infantry Division Regimental Combat Team (3,000 soldiers) and the U.S. 1st Marine Division (12,000–15,000 marines) were unprepared for the PVA 9th Army Group's three-pronged encirclement tactics at the Battle of Chosin Reservoir, but they managed to escape under Air Force and X Corps support fire—albeit with some 15,000 collective casualties.",
+      "qas": [
+        {
+          "id": "d679e6a0207ee191ce2a974845d845dd2cd5fe33",
+          "question": "What is the lower bound of the amount of marines there were in the U.S. 1st Marine Division?",
+          "answers": [
+            {
+              "answer_start": 639,
+              "text": "12,000"
+            }
+          ]
+        },
+        {
+          "id": "c981aaff1e28cd86e28b5d4513bfc6803f6724a5",
+          "question": "What is the upper bound of the amount of marines there were in the U.S. 1st Marine Division?",
+          "answers": [
+            {
+              "answer_start": 646,
+              "text": "15,000"
+            }
+          ]
+        },
+        {
+          "id": "1d9ccd72f8b92aaf368c55668c565e4b2d6ee47c",
+          "question": "Which group was bigger, the U.S. 7th Infantry Division Regimental Combat Team or the U.S. 1st Marine Division?",
+          "answers": [
+            {
+              "answer_start": 609,
+              "text": "the U.S. 1st Marine Division"
+            }
+          ]
+        },
+        {
+          "id": "ac2b5cdaee42221b5684fa881d1539331dc71fd5",
+          "question": "Which battle happened first, the Battle of the Ch'ongch'on River or the Battle of Chosin Reservoir?",
+          "answers": [
+            {
+              "answer_start": 109,
+              "text": "the Battle of the Ch'ongch'on River"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "In contrast, the ROK Army defenders were relatively unprepared and ill-equipped. In South to the Naktong, North to the Yalu (1961), R.E. Appleman reports the ROK forces' low combat readiness as of 25 June 1950. The ROK Army had 98,000 soldiers (65,000 combat, 33,000 support), no tanks (they had been requested from the U.S. military, but requests were denied), and a 22-piece air force comprising 12 liaison-type and 10 AT6 advanced-trainer airplanes. There were no large foreign military garrisons in Korea at the time of the invasion, but there were large U.S. garrisons and air forces in Japan.",
+      "qas": [
+        {
+          "id": "8a303e0d3dfa30ee620cb9113bf04d0027953287",
+          "question": "what is the first branch of the military mentioned?",
+          "answers": [
+            {
+              "answer_start": 21,
+              "text": "Army"
+            }
+          ]
+        },
+        {
+          "id": "5eb84b0e506d45513828e9b1de5a82c8f712b9e7",
+          "question": "what is the second to last nation mentioned?",
+          "answers": [
+            {
+              "answer_start": 559,
+              "text": "U.S"
+            }
+          ]
+        },
+        {
+          "id": "a1765e013e51e4ffbb137a27c56a59a9d501b767",
+          "question": "what is the third to last nation mentioned?",
+          "answers": [
+            {
+              "answer_start": 503,
+              "text": "Korea"
+            }
+          ]
+        },
+        {
+          "id": "6cb1eb475afd09ef8cf1b771954d3d7db1709f55",
+          "question": "what is the first time period mentioned?",
+          "answers": [
+            {
+              "answer_start": 125,
+              "text": "1961"
+            }
+          ]
+        },
+        {
+          "id": "fcc82d534112f1402c0ee9c0575945dead931e42",
+          "question": "what is the second time period mentioned?",
+          "answers": [
+            {
+              "answer_start": 197,
+              "text": "25 June 1950"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "In 1952, the United States elected a new president, and on 29 November 1952, the president-elect, Dwight D. Eisenhower, went to Korea to learn what might end the Korean War. With the United Nations' acceptance of India's proposed Korean War armistice, the KPA, the PVA, and the UN Command ceased fire with the battle line approximately at the 38th parallel. Upon agreeing to the armistice, the belligerents established the Korean Demilitarized Zone (DMZ), which has since been patrolled by the KPA and ROKA, United States, and Joint UN Commands.",
+      "qas": [
+        {
+          "id": "724e5cab5adef8fd52fc3adc9bd32778f5f00515",
+          "question": "What, between President and President-Elect, was Eisenhower's position by the end of 1952?",
+          "answers": [
+            {
+              "answer_start": 81,
+              "text": "president-elect"
+            }
+          ]
+        },
+        {
+          "id": "284f698ead5bfc6fe4c7ac27f54bcf36786e6846",
+          "question": "Who, between the KPA and PVA, patrolled the DMZ?",
+          "answers": [
+            {
+              "answer_start": 494,
+              "text": "KPA"
+            }
+          ]
+        },
+        {
+          "id": "ccdad7e2ff38d9eaed4da2350543f2e53138603e",
+          "question": "Who, between Korea and the UN Command, ceased fire?",
+          "answers": [
+            {
+              "answer_start": 274,
+              "text": "the UN Command"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Because neither Korea had a significant navy, the Korean War featured few naval battles. A skirmish between North Korea and the UN Command occurred on 2 July 1950; the U.S. Navy cruiser USS Juneau, the Royal Navy cruiser HMS Jamaica, and the frigate HMS Black Swan fought four North Korean torpedo boats and two mortar gunboats, and sank them. USS Juneau later sank several ammunition ships that had been present. The last sea battle of the Korean War occurred at Inchon, days before the Battle of Incheon; the ROK ship PC-703 sank a North Korean mine layer in the Battle of Haeju Island, near Inchon. Three other supply ships were sunk by PC-703 two days later in the Yellow Sea. Thereafter, vessels from the UN nations held undisputed control of the sea about Korea. The gun ships were used in shore bombardment, while the aircraft carriers provided air support to the ground forces.",
+      "qas": [
+        {
+          "id": "a96b5f8dd08e041ca69ddfce89bf3a0e16c01753",
+          "question": "Which british ships fought with North Korea on 2 July 1950?",
+          "answers": [
+            {
+              "answer_start": 202,
+              "text": "Royal Navy cruiser HMS Jamaica, and the frigate HMS Black Swan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The principal battles of the stalemate include the Battle of Bloody Ridge (18 August–15 September 1951), the Battle of the Punchbowl (31 August-21 September 1951), the Battle of Heartbreak Ridge (13 September–15 October 1951), the Battle of Old Baldy (26 June–4 August 1952), the Battle of White Horse (6–15 October 1952), the Battle of Triangle Hill (14 October–25 November 1952), the Battle of Hill Eerie (21 March–21 June 1952), the sieges of Outpost Harry (10–18 June 1953), the Battle of the Hook (28–29 May 1953), the Battle of Pork Chop Hill (23 March–16 July 1953), and the Battle of Kumsong (13–27 July 1953).",
+      "qas": [
+        {
+          "id": "808eccaf2463e59e4a833db689d30aeab2109c54",
+          "question": "Which occurred first, the Battle of the Hook or the Battle of the Punchbowl?",
+          "answers": [
+            {
+              "answer_start": 105,
+              "text": "the Battle of the Punchbowl"
+            }
+          ]
+        },
+        {
+          "id": "a7a572a52672fc1a8419742231752735efde7f01",
+          "question": "Which battle occurred later from these two options, the sieges of Outpost Harry or the Battle of Old Baldy?",
+          "answers": [
+            {
+              "answer_start": 432,
+              "text": "the sieges of Outpost Harry"
+            }
+          ]
+        },
+        {
+          "id": "778b28b1c78ff0547f42dd85491d99d7a71117d7",
+          "question": "Which battle proceeded the Battle of Old Baldy based on date?",
+          "answers": [
+            {
+              "answer_start": 382,
+              "text": "the Battle of Hill Eerie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "On 23 September 1946, an 8,000-strong railroad worker strike began in Pusan. Civil disorder spread throughout the country in what became known as the Autumn uprising. On 1 October 1946, Korean police killed three students in the Daegu Uprising; protesters counter-attacked, killing 38 policemen. On 3 October, some 10,000 people attacked the Yeongcheon police station, killing three policemen and injuring some 40 more; elsewhere, some 20 landlords and pro-Japanese South Korean officials were killed. The USAMGIK declared martial law.",
+      "qas": [
+        {
+          "id": "05c9abe25256979c46716246b035cc13d26f125c",
+          "question": "One week after the railroad workers strike began this incident occurred which then led to retaliation resulting in 38 policemen dead?",
+          "answers": [
+            {
+              "answer_start": 229,
+              "text": "Daegu Uprising"
+            }
+          ]
+        },
+        {
+          "id": "7c8af2382090355a4f48c45e6c8f237d17268ebf",
+          "question": "Ground zero for the Autumn uprising?",
+          "answers": [
+            {
+              "answer_start": 70,
+              "text": "Pusan"
+            }
+          ]
+        },
+        {
+          "id": "8ea72811c104b4fbbc2d49bd95b2ea4eae5625c8",
+          "question": "Thirty-eight policemen died in retaliation by protesters for their death?",
+          "answers": [
+            {
+              "answer_start": 207,
+              "text": "three students in the Daegu Uprising"
+            }
+          ]
+        },
+        {
+          "id": "19ead804595ae19f080232ef9237d29db22d1015",
+          "question": "By product of the peoples' attack at the Yeongcheon police station aside from the death of three policemen?",
+          "answers": [
+            {
+              "answer_start": 397,
+              "text": "injuring some 40 more"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d089752"
+  },
+  "title": "Middle_Ages",
+  "paragraphs": [
+    {
+      "context": "Monastic reform inspired change in the secular church. The ideals that it was based upon were brought to the papacy by Pope Leo IX (pope 1049–1054), and provided the ideology of the clerical independence that led to the Investiture Controversy in the late 11th century. This involved Pope Gregory VII (pope 1073–85) and Emperor Henry IV, who initially clashed over episcopal appointments, a dispute that turned into a battle over the ideas of investiture, clerical marriage, and simony. The emperor saw the protection of the Church as one of his responsibilities as well as wanting to preserve the right to appoint his own choices as bishops within his lands, but the papacy insisted on the Church's independence from secular lords. These issues remained unresolved after the compromise of 1122 known as the Concordat of Worms. The dispute represents a significant stage in the creation of a papal monarchy separate from and equal to lay authorities. It also had the permanent consequence of empowering German princes at the expense of the German emperors.",
+      "qas": [
+        {
+          "id": "d54b889d51fd77fc48069040955dded19f8f195a",
+          "question": "Monastic reform changed the church and caused what?",
+          "answers": [
+            {
+              "answer_start": 220,
+              "text": "Investiture Controversy"
+            }
+          ]
+        },
+        {
+          "id": "b5be7ac95f64aac4a3959c48e99532e0f11abefe",
+          "question": "What did the Investiture Controversy start?",
+          "answers": [
+            {
+              "answer_start": 182,
+              "text": "clerical independence"
+            }
+          ]
+        },
+        {
+          "id": "dd25a33ca9084ccf61118ec0f4568e28fc9dc048",
+          "question": "What did Gregory VII and Henry IV start?",
+          "answers": [
+            {
+              "answer_start": 342,
+              "text": "initially clashed over episcopal appointments"
+            }
+          ]
+        },
+        {
+          "id": "9ad93ffb53a61a4a2bf92f6adb0c39a7efa8fe95",
+          "question": "What was the Investiture Controversy responsible for?",
+          "answers": [
+            {
+              "answer_start": 389,
+              "text": "a dispute that turned into a battle over the ideas of investiture, clerical marriage, and simony"
+            }
+          ]
+        },
+        {
+          "id": "a0cee4fee3b7165242cc40c16552922cb1bedc03",
+          "question": "What did the dispute between Gregory VII and Henry IV lead to?",
+          "answers": [
+            {
+              "answer_start": 808,
+              "text": "Concordat of Worms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "During the early High Middle Ages, Germany was ruled by the Ottonian dynasty, which struggled to control the powerful dukes ruling over territorial duchies tracing back to the Migration period. In 1024, they were replaced by the Salian dynasty, who famously clashed with the papacy under Emperor Henry IV (r. 1084–1105) over church appointments as part of the Investiture Controversy. His successors continued to struggle against the papacy as well as the German nobility. A period of instability followed the death of Emperor Henry V (r. 1111–25), who died without heirs, until Frederick I Barbarossa (r. 1155–90) took the imperial throne. Although he ruled effectively, the basic problems remained, and his successors continued to struggle into the 13th century. Barbarossa's grandson Frederick II (r. 1220–1250), who was also heir to the throne of Sicily through his mother, clashed repeatedly with the papacy. His court was famous for its scholars and he was often accused of heresy. He and his successors faced many difficulties, including the invasion of the Mongols into Europe in the mid-13th century. Mongols first shattered the Kievan Rus' principalities and then invaded Eastern Europe in 1241, 1259, and 1287.",
+      "qas": [
+        {
+          "id": "463988612b1064a0f5f1925d2b11da5fce8d7d8d",
+          "question": "When did a dynasty that was replaced in 1024 rule Germany?",
+          "answers": [
+            {
+              "answer_start": 11,
+              "text": "early High Middle Ages"
+            }
+          ]
+        },
+        {
+          "id": "4ba729eaf5d7ed832235d3939da874a0f1bb2b95",
+          "question": "The dynasty that ruled Germany in the High Middle Ages was replaced by which dynasty?",
+          "answers": [
+            {
+              "answer_start": 229,
+              "text": "Salian"
+            }
+          ]
+        },
+        {
+          "id": "87c3dc696a132826e7230f50ffc332ab11236f0b",
+          "question": "Which dynasty, which was replaced by another dynasty that included Henry IV, struggled to control the powerful dukes?",
+          "answers": [
+            {
+              "answer_start": 60,
+              "text": "Ottonian"
+            }
+          ]
+        },
+        {
+          "id": "545ff7bd3f9bfd471a41279aa21146b5d5c7b697",
+          "question": "Which grandfather of an heir to the throne of Sicily was an Emperor of Germany whose reign ended the period of instability that began with the death of a previous emperor in 1125?",
+          "answers": [
+            {
+              "answer_start": 579,
+              "text": "Frederick I Barbarossa"
+            }
+          ]
+        },
+        {
+          "id": "5e6f2dd90fae6fb76a7d0981197caaabcfb38d87",
+          "question": "Who was the Emperor of Germany the first time that the Mongols invaded Eastern Europe after shattering the Kievan Rus' principalities?",
+          "answers": [
+            {
+              "answer_start": 787,
+              "text": "Frederick II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Few large stone buildings were constructed between the Constantinian basilicas of the 4th century and the 8th century, although many smaller ones were built during the 6th and 7th centuries. By the beginning of the 8th century, the Carolingian Empire revived the basilica form of architecture. One feature of the basilica is the use of a transept, or the \"arms\" of a cross-shaped building that are perpendicular to the long nave. Other new features of religious architecture include the crossing tower and a monumental entrance to the church, usually at the west end of the building.",
+      "qas": [
+        {
+          "id": "7ec5c12fcfbed5dc00a13d33eeac8fbf60eb4c5d",
+          "question": "What were constructed in high amounts during the time spanning the 4th to 8th century?",
+          "answers": [
+            {
+              "answer_start": 128,
+              "text": "many smaller ones"
+            }
+          ]
+        },
+        {
+          "id": "e1beb3bdd26ea666a8659acd00bf2a0c5670b452",
+          "question": "What is one distinguishing component of the form of architecture the Carolingian Empire revived in the 8th century?",
+          "answers": [
+            {
+              "answer_start": 325,
+              "text": "the use of a transept"
+            }
+          ]
+        },
+        {
+          "id": "8924ea4dd6724d74de54a9ad6e82a7d01f24f0c7",
+          "question": "What three features of religious archiecture are mentioned in the paragraph?",
+          "answers": [
+            {
+              "answer_start": 338,
+              "text": "transept, or the \"arms\" of a cross-shaped building that are perpendicular to the long nave. Other new features of religious architecture include the crossing tower and a monumental entrance to the church, usually at the west end of the building"
+            }
+          ]
+        },
+        {
+          "id": "b9d5e7d45e18e6944981948f8dded6682631e98c",
+          "question": "What type of architecture did not get built often during the 6th century?",
+          "answers": [
+            {
+              "answer_start": 259,
+              "text": "the basilica form of architecture"
+            }
+          ]
+        },
+        {
+          "id": "da244a80e250704ead4c091420444c965c1456cf",
+          "question": "What is a transept?",
+          "answers": [
+            {
+              "answer_start": 351,
+              "text": "the \"arms\" of a cross-shaped building that are perpendicular to the long nave"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The breakup of the Carolingian Empire was accompanied by invasions, migrations, and raids by external foes. The Atlantic and northern shores were harassed by the Vikings, who also raided the British Isles and settled there as well as in Iceland. In 911, the Viking chieftain Rollo (d. c. 931) received permission from the Frankish King Charles the Simple (r. 898–922) to settle in what became Normandy.[Q] The eastern parts of the Frankish kingdoms, especially Germany and Italy, were under continual Magyar assault until the invader's defeat at the Battle of Lechfeld in 955. The breakup of the Abbasid dynasty meant that the Islamic world fragmented into smaller political states, some of which began expanding into Italy and Sicily, as well as over the Pyrenees into the southern parts of the Frankish kingdoms.",
+      "qas": [
+        {
+          "id": "dfb84c8a9f80afb6912f1f92624007ac284e0b07",
+          "question": "What happened 45 years before the year 1000?",
+          "answers": [
+            {
+              "answer_start": 550,
+              "text": "Battle of Lechfeld"
+            }
+          ]
+        },
+        {
+          "id": "564b885d62a7cd7f468618c9b291fa0dd75d3205",
+          "question": "Who assaulted Magyar?",
+          "answers": [
+            {
+              "answer_start": 158,
+              "text": "the Vikings"
+            }
+          ]
+        },
+        {
+          "id": "2b986b7a885c8b79f659d76e1fa407fa38e70940",
+          "question": "Who took over south Frankish kingdoms?",
+          "answers": [
+            {
+              "answer_start": 623,
+              "text": "the Islamic"
+            }
+          ]
+        },
+        {
+          "id": "ea3084041734994ad638b068814a5490159b178f",
+          "question": "What did King Charles grant Rollo?",
+          "answers": [
+            {
+              "answer_start": 393,
+              "text": "Normandy"
+            }
+          ]
+        },
+        {
+          "id": "57255d64acf29902582224b9a71edefa94a5085e",
+          "question": "What Italian city did the islamic expand into?",
+          "answers": [
+            {
+              "answer_start": 728,
+              "text": "Sicily"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Religious beliefs in the Eastern Empire and Persia were in flux during the late 6th and early 7th centuries. Judaism was an active proselytising faith, and at least one Arab political leader converted to it.[J] Christianity had active missions competing with the Persians' Zoroastrianism in seeking converts, especially among residents of the Arabian Peninsula. All these strands came together with the emergence of Islam in Arabia during the lifetime of Muhammad (d. 632). After his death, Islamic forces conquered much of the Eastern Empire and Persia, starting with Syria in 634–635 and reaching Egypt in 640–641, Persia between 637 and 642, North Africa in the later 7th century, and the Iberian Peninsula in 711. By 714, Islamic forces controlled much of the peninsula in a region they called Al-Andalus.",
+      "qas": [
+        {
+          "id": "85c251613f88f0f6397d08b9bb302c0261cec0e8",
+          "question": "what is the first area mentioned?",
+          "answers": [
+            {
+              "answer_start": 25,
+              "text": "Eastern Empire"
+            }
+          ]
+        },
+        {
+          "id": "88688d58b434895c009884968792923b7b4364cd",
+          "question": "what is the second area mentioned?",
+          "answers": [
+            {
+              "answer_start": 44,
+              "text": "Persia"
+            }
+          ]
+        },
+        {
+          "id": "deb0af06c87e3b3d98ee072849093d7a395098cb",
+          "question": "what is the first ethnicity mentioned?",
+          "answers": [
+            {
+              "answer_start": 169,
+              "text": "Arab"
+            }
+          ]
+        },
+        {
+          "id": "4de097529e5f2bbf36b6731e1cddc531f6e9085b",
+          "question": "what is the last area mentioned?",
+          "answers": [
+            {
+              "answer_start": 798,
+              "text": "Al-Andalus"
+            }
+          ]
+        },
+        {
+          "id": "3f6a4e5d555b738176fb51b32c564839fd71b3d2",
+          "question": "what is the last type of land formation mentioned?",
+          "answers": [
+            {
+              "answer_start": 764,
+              "text": "peninsula"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The large external sculptural schemes of Early Gothic churches gave way to more sculpture inside the building, as tombs became more elaborate and other features such as pulpits were sometimes lavishly carved, as in the Pulpit by Giovanni Pisano in Sant'Andrea. Painted or carved wooden relief altarpieces became common, especially as churches created many side-chapels. Early Netherlandish painting by artists such as Jan van Eyck (d. 1441) and Rogier van der Weyden (d. 1464) rivalled that of Italy, as did northern illuminated manuscripts, which in the 15th century began to be collected on a large scale by secular elites, who also commissioned secular books, especially histories. From about 1450 printed books rapidly became popular, though still expensive. There were around 30,000 different editions of incunabula, or works printed before 1500, by which time illuminated manuscripts were commissioned only by royalty and a few others. Very small woodcuts, nearly all religious, were affordable even by peasants in parts of Northern Europe from the middle of the 15th century. More expensive engravings supplied a wealthier market with a variety of images.",
+      "qas": [
+        {
+          "id": "169fabd1f8c7f4c80673e130361549d54cc31301",
+          "question": "Who died in the 41st year of the 15th century?",
+          "answers": [
+            {
+              "answer_start": 418,
+              "text": "Jan van Eyck"
+            }
+          ]
+        },
+        {
+          "id": "19802b9c04bbe13b5316827c6c2a9f9000a952ef",
+          "question": "Who, of the artists whose death years are mentioned in the passage, died sometime after the 1450s?",
+          "answers": [
+            {
+              "answer_start": 445,
+              "text": "Rogier van der Weyden"
+            }
+          ]
+        },
+        {
+          "id": "b4c7a0467c484a8ccae1ba74834a772187fe6e1e",
+          "question": "Who, of the artists whose death years are mentioned in the passage, did not live to see the 1450s?",
+          "answers": [
+            {
+              "answer_start": 418,
+              "text": "Jan van Eyck"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The Roman Empire reached its greatest territorial extent during the 2nd century AD; the following two centuries witnessed the slow decline of Roman control over its outlying territories. Economic issues, including inflation, and external pressure on the frontiers combined to make the 3rd century politically unstable, with emperors coming to the throne only to be rapidly replaced by new usurpers. Military expenses increased steadily during the 3rd century, mainly in response to the war with Sassanid Persia, which revived in the middle of the 3rd century. The army doubled in size, and cavalry and smaller units replaced the legion as the main tactical unit. The need for revenue led to increased taxes and a decline in numbers of the curial, or landowning, class, and decreasing numbers of them willing to shoulder the burdens of holding office in their native towns. More bureaucrats were needed in the central administration to deal with the needs of the army, which led to complaints from civilians that there were more tax-collectors in the empire than tax-payers.",
+      "qas": [
+        {
+          "id": "4637f5c448d25f17677893646181e94c340177f1",
+          "question": "Why was Rome less stable after the second century?",
+          "answers": [
+            {
+              "answer_start": 187,
+              "text": "Economic issues"
+            }
+          ]
+        },
+        {
+          "id": "15e11ad1510c3c85e8a0d980f9d149bbbedaa8ee",
+          "question": "What did the Roman empire hire due to increased taxes?",
+          "answers": [
+            {
+              "answer_start": 1028,
+              "text": "tax-collectors"
+            }
+          ]
+        },
+        {
+          "id": "8ea968a5b0b4f9b055dc394535c669a8059fa0dc",
+          "question": "Who was mad about the increase in taxes?",
+          "answers": [
+            {
+              "answer_start": 997,
+              "text": "civilians"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Women in the Middle Ages were officially required to be subordinate to some male, whether their father, husband, or other kinsman. Widows, who were often allowed much control over their own lives, were still restricted legally. Women's work generally consisted of household or other domestically inclined tasks. Peasant women were usually responsible for taking care of the household, child-care, as well as gardening and animal husbandry near the house. They could supplement the household income by spinning or brewing at home. At harvest-time, they were also expected to help with field-work. Townswomen, like peasant women, were responsible for the household, and could also engage in trade. What trades were open to women varied by country and period. Noblewomen were responsible for running a household, and could occasionally be expected to handle estates in the absence of male relatives, but they were usually restricted from participation in military or government affairs. The only role open to women in the Church was that of nuns, as they were unable to become priests.",
+      "qas": [
+        {
+          "id": "d2ace8a36068ad40877ee70434c883ad9d6fe5d4",
+          "question": "What church role was only for men?",
+          "answers": [
+            {
+              "answer_start": 1074,
+              "text": "priests"
+            }
+          ]
+        },
+        {
+          "id": "deac1ff7dd5ccf757493ea7d6cf97a285b954e21",
+          "question": "What could women become if they wanted to serve God?",
+          "answers": [
+            {
+              "answer_start": 1038,
+              "text": "nuns"
+            }
+          ]
+        },
+        {
+          "id": "7db884a531712b7bd83d5301907516d3f184181d",
+          "question": "In what sectors could only men serve?",
+          "answers": [
+            {
+              "answer_start": 952,
+              "text": "military or government"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "From the early 12th century, French builders developed the Gothic style, marked by the use of rib vaults, pointed arches, flying buttresses, and large stained glass windows. It was used mainly in churches and cathedrals, and continued in use until the 16th century in much of Europe. Classic examples of Gothic architecture include Chartres Cathedral and Reims Cathedral in France as well as Salisbury Cathedral in England. Stained glass became a crucial element in the design of churches, which continued to use extensive wall-paintings, now almost all lost.",
+      "qas": [
+        {
+          "id": "690d6b0025cc8e56d5b6437fce409a816f3fbf25",
+          "question": "What suggests the Gothic style stopped being used?",
+          "answers": [
+            {
+              "answer_start": 225,
+              "text": "continued in use until the 16th century in much of Europe"
+            }
+          ]
+        },
+        {
+          "id": "82d67a3fa7ca8355da82542497c19c331dc3e48b",
+          "question": "What might have strengthened the structural integrity of the cathedrals in Gothic styles?",
+          "answers": [
+            {
+              "answer_start": 83,
+              "text": "the use of rib vaults"
+            }
+          ]
+        },
+        {
+          "id": "c0d2dac285472b9d22884dbe939168c3d1d254ac",
+          "question": "What might have supported the arches?",
+          "answers": [
+            {
+              "answer_start": 122,
+              "text": "flying buttresses"
+            }
+          ]
+        },
+        {
+          "id": "e930c29248a9dad0b55330b8720c5a7e59691943",
+          "question": "Why might stained glass be more valuable than paintings?",
+          "answers": [
+            {
+              "answer_start": 523,
+              "text": "wall-paintings, now almost all lost"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The various Germanic states in the west all had coinages that imitated existing Roman and Byzantine forms. Gold continued to be minted until the end of the 7th century, when it was replaced by silver coins. The basic Frankish silver coin was the denarius or denier, while the Anglo-Saxon version was called a penny. From these areas, the denier or penny spread throughout Europe during the centuries from 700 to 1000. Copper or bronze coins were not struck, nor were gold except in Southern Europe. No silver coins denominated in multiple units were minted.",
+      "qas": [
+        {
+          "id": "a615d9b7a30103b00c0a68064d64465c53dc28e8",
+          "question": "What type of currency did the Germanic states base their own on?",
+          "answers": [
+            {
+              "answer_start": 80,
+              "text": "Roman and Byzantine"
+            }
+          ]
+        },
+        {
+          "id": "b4f265f05ecf333afaa425d7906a1ecd736bc420",
+          "question": "What type of money did the Germanic states base their own on?",
+          "answers": [
+            {
+              "answer_start": 80,
+              "text": "Roman and Byzantine"
+            }
+          ]
+        },
+        {
+          "id": "dff252e28645cc40a11acb08dd2feceffa3fb70c",
+          "question": "What type of money did the Germanic states base theirs on?",
+          "answers": [
+            {
+              "answer_start": 80,
+              "text": "Roman and Byzantine"
+            }
+          ]
+        },
+        {
+          "id": "a2c40117ea01d0757f693f1b70d1855932e70516",
+          "question": "What type of money did the Germanic states base their money on?",
+          "answers": [
+            {
+              "answer_start": 80,
+              "text": "Roman and Byzantine"
+            }
+          ]
+        },
+        {
+          "id": "4df5199cd1a6a416ce231575aa7737a542341616",
+          "question": "Whose money did the Germanic states base their currency on?",
+          "answers": [
+            {
+              "answer_start": 80,
+              "text": "Roman and Byzantine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The crusades were intended to seize Jerusalem from Muslim control. The First Crusade was proclaimed by Pope Urban II (pope 1088–99) at the Council of Clermont in 1095 in response to a request from the Byzantine Emperor Alexios I Komnenos (r. 1081–1118) for aid against further Muslim advances. Urban promised indulgence to anyone who took part. Tens of thousands of people from all levels of society mobilised across Europe and captured Jerusalem in 1099. One feature of the crusades was the pogroms against local Jews that often took place as the crusaders left their countries for the East. These were especially brutal during the First Crusade, when the Jewish communities in Cologne, Mainz, and Worms were destroyed, and other communities in cities between the rivers Seine and Rhine suffered destruction. Another outgrowth of the crusades was the foundation of a new type of monastic order, the military orders of the Templars and Hospitallers, which fused monastic life with military service.",
+      "qas": [
+        {
+          "id": "d420d9dc04e9900c16b6918dd3e1d3f6c4a95ce2",
+          "question": "What happened after the First Crusade?",
+          "answers": [
+            {
+              "answer_start": 657,
+              "text": "Jewish communities in Cologne, Mainz, and Worms were destroyed"
+            }
+          ]
+        },
+        {
+          "id": "de233cdc5d2e0d5106f463b0e5c8249b81424ea2",
+          "question": "Who did the Crusaders come before?",
+          "answers": [
+            {
+              "answer_start": 923,
+              "text": "Templars and Hospitallers"
+            }
+          ]
+        },
+        {
+          "id": "76739a900b45fd81f8c163739de48248e2b8b4dd",
+          "question": "When did the first Crusade end?",
+          "answers": [
+            {
+              "answer_start": 450,
+              "text": "1099"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d089759"
+  },
+  "title": "Modern_history",
+  "paragraphs": [
+    {
+      "context": "The Russian Revolution is the series of revolutions in Russia in 1917, which destroyed the Tsarist autocracy and led to the creation of the Soviet Union. Following the abdication of Nicholas II of Russia, the Russian Provisional Government was established. In October 1917, a red faction revolution occurred in which the Red Guard, armed groups of workers and deserting soldiers directed by the Bolshevik Party, seized control of Saint Petersburg (then known as Petrograd) and began an immediate armed takeover of cities and villages throughout the former Russian Empire.",
+      "qas": [
+        {
+          "id": "c0cb9dce3a7177fbcdfe3388e6027486d80f60c0",
+          "question": "what is the first ethnicity mentioned?",
+          "answers": [
+            {
+              "answer_start": 4,
+              "text": "Russian"
+            }
+          ]
+        },
+        {
+          "id": "5b77f7104a9d9edf3007d37a3358d465799b0e7a",
+          "question": "what is the last region mentioned?",
+          "answers": [
+            {
+              "answer_start": 556,
+              "text": "Russian Empire"
+            }
+          ]
+        },
+        {
+          "id": "628630b011e469fbf19c38f2492ed678d4ff809b",
+          "question": "what is the first event mentioned?",
+          "answers": [
+            {
+              "answer_start": 4,
+              "text": "Russian Revolution"
+            }
+          ]
+        },
+        {
+          "id": "ad5d66b545ad4184336b64d016a9a2907c1a038c",
+          "question": "what is the first time period mentioned?",
+          "answers": [
+            {
+              "answer_start": 65,
+              "text": "1917"
+            }
+          ]
+        },
+        {
+          "id": "82e8bbc90a805b8f7f811366a79cf20d7003c100",
+          "question": "what is the first group mentioned?",
+          "answers": [
+            {
+              "answer_start": 91,
+              "text": "Tsarist autocracy"
+            }
+          ]
+        },
+        {
+          "id": "b43b82623f686324d2aad52bad2fb9c0f33c2fb1",
+          "question": "What crushed another thing?",
+          "answers": [
+            {
+              "answer_start": 23,
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "id": "b413a6d2f080d2827b112e884b2f930e88998273",
+          "question": "What were the results of the revolt?",
+          "answers": [
+            {
+              "answer_start": 0,
+              "text": "The Russian Revolution is the series of revolutions in Russia in 1917, which destroyed the Tsarist autocracy and led to the creation of the Soviet Union"
+            }
+          ]
+        },
+        {
+          "id": "96060767048ddb930948d71d8f7f8e7396030290",
+          "question": "What happened when someone walked about from his power?",
+          "answers": [
+            {
+              "answer_start": 209,
+              "text": "Russian Provisional Government was established"
+            }
+          ]
+        },
+        {
+          "id": "5567edbba17689aab9d99681b398439c8309819a",
+          "question": "Who retaliated?",
+          "answers": [
+            {
+              "answer_start": 321,
+              "text": "Red Guard"
+            }
+          ]
+        },
+        {
+          "id": "6dbc045b9f9f9e154bcaac16de0caec9c314ab01",
+          "question": "What people were on the ground fighting during the takeover?",
+          "answers": [
+            {
+              "answer_start": 332,
+              "text": "armed groups of workers and deserting soldiers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The principal fighting occurred between the Bolshevik Red Army and the forces of the White Army. Many foreign armies warred against the Red Army, notably the Allied Forces, yet many volunteer foreigners fought in both sides of the Russian Civil War. Other nationalist and regional political groups also participated in the war, including the Ukrainian nationalist Green Army, the Ukrainian anarchist Black Army and Black Guards, and warlords such as Ungern von Sternberg. The most intense fighting took place from 1918 to 1920. Major military operations ended on 25 October 1922 when the Red Army occupied Vladivostok, previously held by the Provisional Priamur Government. The last enclave of the White Forces was the Ayano-Maysky District on the Pacific coast. The majority of the fighting ended in 1920 with the defeat of General Pyotr Wrangel in the Crimea, but a notable resistance in certain areas continued until 1923 (e.g., Kronstadt Uprising, Tambov Rebellion, Basmachi Revolt, and the final resistance of the White movement in the Far East).",
+      "qas": [
+        {
+          "id": "3a1bba68f9e9606bbee5f3540b65282c5a8ae45f",
+          "question": "Alexander Antonov commanded the Green Army in __",
+          "answers": [
+            {
+              "answer_start": 952,
+              "text": "Tambov Rebellion"
+            }
+          ]
+        },
+        {
+          "id": "91e4a696a38f7f70177d837f1d01e8d67f058f4a",
+          "question": "__ began in Khitrivo",
+          "answers": [
+            {
+              "answer_start": 952,
+              "text": "Tambov Rebellion"
+            }
+          ]
+        },
+        {
+          "id": "9c49ccaee81e941177ea5f5ed662a0579b433db8",
+          "question": "The Union of Working Peasants emerged from __",
+          "answers": [
+            {
+              "answer_start": 952,
+              "text": "Tambov Rebellion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Beginning the Age of Revolution, the American Revolution and the ensuing political upheaval during the last half of the 18th century saw the Thirteen Colonies of North America overthrow the governance of the Parliament of Great Britain, and then reject the British monarchy itself to become the sovereign United States of America. In this period the colonies first rejected the authority of the Parliament to govern them without representation, and formed self-governing independent states. The Second Continental Congress then joined together against the British to defend that self-governance in the armed conflict from 1775 to 1783 known as the American Revolutionary War (also called American War of Independence).",
+      "qas": [
+        {
+          "id": "60beacfba9b1612ddf9b0e5ae0b94715de1580c2",
+          "question": "In 1784, what major event in the country had just seen its close?",
+          "answers": [
+            {
+              "answer_start": 648,
+              "text": "American Revolutionary War"
+            }
+          ]
+        },
+        {
+          "id": "987b9912f600c95f4cec7f60db9b9fe4324c8605",
+          "question": "The American War of Independence kicked off what major period for the American colonies, later the United States?",
+          "answers": [
+            {
+              "answer_start": 14,
+              "text": "Age of Revolution"
+            }
+          ]
+        },
+        {
+          "id": "8ecba3d8603f362f411b7dd8aa6efeee2b9726c4",
+          "question": "Once the British were chased out of America and their rule rejected, the colonies would transform into what?",
+          "answers": [
+            {
+              "answer_start": 305,
+              "text": "United States of America"
+            }
+          ]
+        },
+        {
+          "id": "7ff9d3931c0100af77d86cec21d9edaf5222d3a6",
+          "question": "What were the British doing in terms of rule that really set the American colonies on edge?",
+          "answers": [
+            {
+              "answer_start": 409,
+              "text": "govern them without representation"
+            }
+          ]
+        },
+        {
+          "id": "b0567824395ad2a317a08a491e3acea4bf757507",
+          "question": "Who was the major opponent of Britain who sought independence and officially sparked the Revolutionary War?",
+          "answers": [
+            {
+              "answer_start": 495,
+              "text": "Second Continental Congress"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "In 1901, the Federation of Australia was the process by which the six separate British self-governing colonies of New South Wales, Queensland, South Australia, Tasmania, Victoria and Western Australia formed one nation. They kept the systems of government that they had developed as separate colonies but also would have a federal government that was responsible for matters concerning the whole nation. When the Constitution of Australia came into force, the colonies collectively became states of the Commonwealth of Australia.",
+      "qas": [
+        {
+          "id": "2b256ecd6c255f55a2ab2c1d19efa91d63ba324c",
+          "question": "Which document needed to be implemented for the six self-governing colonies of Britain to form into one nation?",
+          "answers": [
+            {
+              "answer_start": 413,
+              "text": "Constitution"
+            }
+          ]
+        },
+        {
+          "id": "c79e94ee5ef25e1c1364e33829c0ec87e5139bd8",
+          "question": "The colonies that would form into the commonwealth of Australia would still continue to self govern along with following  a national goverment also referred to as?",
+          "answers": [
+            {
+              "answer_start": 323,
+              "text": "federal government"
+            }
+          ]
+        },
+        {
+          "id": "0f58f2a9e4d457d5fdb8b56c2df873bd85c42dd4",
+          "question": "The six colonies that were self-govermened but formed by Britain are implied to have been created and occupied before which date?",
+          "answers": [
+            {
+              "answer_start": 3,
+              "text": "1901"
+            }
+          ]
+        },
+        {
+          "id": "56523a669df0191351e24d97540db2a1ebfdaedd",
+          "question": "There were six self governing colonies that formed the commonwealth of Australia, all of them are located on the main continent except which colony?",
+          "answers": [
+            {
+              "answer_start": 160,
+              "text": "Tasmania"
+            }
+          ]
+        },
+        {
+          "id": "6d5cfc5a37144854d2b1eb2b6f2795a0886e7d34",
+          "question": "Of the six colonies that would form the commonwealth of Australia, which colony would house the capital of Australia?",
+          "answers": [
+            {
+              "answer_start": 114,
+              "text": "New South Wales"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The Dutch East India Company (1800) and British East India Company (1858) were dissolved by their respective governments, who took over the direct administration of the colonies. Only Thailand was spared the experience of foreign rule, although, Thailand itself was also greatly affected by the power politics of the Western powers. Colonial rule had a profound effect on Southeast Asia. While the colonial powers profited much from the region's vast resources and large market, colonial rule did develop the region to a varying extent.",
+      "qas": [
+        {
+          "id": "be51ba08f059708b89615a5e747bd536dcd08c3d",
+          "question": "What was the ultimate occurrence for the Dutch East India Company?",
+          "answers": [
+            {
+              "answer_start": 79,
+              "text": "dissolved"
+            }
+          ]
+        },
+        {
+          "id": "d9c1f9e3a0e67c097ffc9aedca9343fe5f3e0420",
+          "question": "The government in what area had an impact on Thailand?",
+          "answers": [
+            {
+              "answer_start": 317,
+              "text": "Western"
+            }
+          ]
+        },
+        {
+          "id": "247dc41139a2c4e1c3616d7009814f1b71feebd9",
+          "question": "In what manner were the colonial powers affected by the area's resources?",
+          "answers": [
+            {
+              "answer_start": 414,
+              "text": "profited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "In 1912, the Republic of China was established and Sun Yat-sen was inaugurated in Nanjing as the first Provisional President. But power in Beijing already had passed to Yuan Shikai, who had effective control of the Beiyang Army, the most powerful military force in China at the time. To prevent civil war and possible foreign intervention from undermining the infant republic, leaders agreed to Army's demand that China be united under a Beijing government. On March 10, in Beijing, Shikai was sworn in as the second Provisional President of the Republic of China.",
+      "qas": [
+        {
+          "id": "41b116b04d39b7e38374d850dbfbc66d16cadd1d",
+          "question": "Who was the leader in the Republic of China who had the most power?",
+          "answers": [
+            {
+              "answer_start": 51,
+              "text": "Sun Yat-sen"
+            }
+          ]
+        },
+        {
+          "id": "60d2cc1dd2978cd97c2dbcbebf30064ddcaa70b0",
+          "question": "What did they due to avoid civil war in China?",
+          "answers": [
+            {
+              "answer_start": 377,
+              "text": "leaders agreed to Army's demand"
+            }
+          ]
+        },
+        {
+          "id": "863431e8f48c6c12ccaf03610fa3f149d7f74a52",
+          "question": "Who did the republic of china give the position of president before an agreement was made?",
+          "answers": [
+            {
+              "answer_start": 51,
+              "text": "Sun Yat-sen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Ultimately, World War I created a decisive break with the old world order that had emerged after the Napoleonic Wars, which was modified by the mid-19th century's nationalistic revolutions. The results of World War I would be important factors in the development of World War II approximately 20 years later. More immediate to the time, the partitioning of the Ottoman Empire was a political event that redrew the political boundaries of West Asia. The huge conglomeration of territories and peoples formerly ruled by the Sultan of the Ottoman Empire was divided into several new nations. The partitioning brought the creation of the modern Arab world and the Republic of Turkey. The League of Nations granted France mandates over Syria and Lebanon and granted the United Kingdom mandates over Mesopotamia and Palestine (which was later divided into two regions: Palestine and Transjordan). Parts of the Ottoman Empire on the Arabian Peninsula became parts of what are today Saudi Arabia and Yemen.",
+      "qas": [
+        {
+          "id": "397306f2047e7ddc32667f5067b07b488ba8590a",
+          "question": "What led to World War II?",
+          "answers": [
+            {
+              "answer_start": 205,
+              "text": "World War I"
+            }
+          ]
+        },
+        {
+          "id": "1b4ec7fc2b87d255f8ae3354c21557c527942a73",
+          "question": "What was split after the first world war?",
+          "answers": [
+            {
+              "answer_start": 536,
+              "text": "Ottoman Empire"
+            }
+          ]
+        },
+        {
+          "id": "0f00638eccd8267563b832a388b2b15086317826",
+          "question": "What group oversaw the aftermath of World War I?",
+          "answers": [
+            {
+              "answer_start": 684,
+              "text": "League of Nations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The decolonization of the Americas was the process by which the countries in the Americas gained their independence from European rule. Decolonization began with a series of revolutions in the late 18th and early-to-mid-19th centuries. The Spanish American wars of independence were the numerous wars against Spanish rule in Spanish America that took place during the early 19th century, from 1808 until 1829, directly related to the Napoleonic French invasion of Spain. The conflict started with short-lived governing juntas established in Chuquisaca and Quito opposing the composition of the Supreme Central Junta of Seville.",
+      "qas": [
+        {
+          "id": "5efeaa1dc886a22404929f2176d8099c2fff738f",
+          "question": "When did the first war of the Spanish war leading to independence began?",
+          "answers": [
+            {
+              "answer_start": 368,
+              "text": "early 19th century, from 1808"
+            }
+          ]
+        },
+        {
+          "id": "7f6e91379a00051b99a556d75e2ca1e288e481fa",
+          "question": "What other threat did the Spanish face at the time of the independence war in the Americas back in the 1800s?",
+          "answers": [
+            {
+              "answer_start": 434,
+              "text": "Napoleonic French invasion of Spain"
+            }
+          ]
+        },
+        {
+          "id": "eed2287a8df83d7c4f0d186b8fc38cec257f5933",
+          "question": "How long did the revolution of the Americas last?",
+          "answers": [
+            {
+              "answer_start": 193,
+              "text": "late 18th and early-to-mid-19th centuries"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d0897b0"
+  },
+  "title": "Anthropology",
+  "paragraphs": [
+    {
+      "context": "Linguistic anthropology (also called anthropological linguistics) seeks to understand the processes of human communications, verbal and non-verbal, variation in language across time and space, the social uses of language, and the relationship between language and culture. It is the branch of anthropology that brings linguistic methods to bear on anthropological problems, linking the analysis of linguistic forms and processes to the interpretation of sociocultural processes. Linguistic anthropologists often draw on related fields including sociolinguistics, pragmatics, cognitive linguistics, semiotics, discourse analysis, and narrative analysis.",
+      "qas": [
+        {
+          "id": "4f0dbe5c91336c4b077d19c3d557a8ec396f52e4",
+          "question": "__ is the study of sign process",
+          "answers": [
+            {
+              "answer_start": 598,
+              "text": "semiotics"
+            }
+          ]
+        },
+        {
+          "id": "b405c9fd573913fe1cc350f2da1ac2913d1ed63b",
+          "question": "__ also studies non-linguistic sign systems",
+          "answers": [
+            {
+              "answer_start": 598,
+              "text": "semiotics"
+            }
+          ]
+        },
+        {
+          "id": "39ad559d67bcf25e074dd63345afa8ea8b2cdb06",
+          "question": "__ is frequently seen as having important anthropological and sociological dimensions",
+          "answers": [
+            {
+              "answer_start": 598,
+              "text": "semiotics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Sociocultural anthropology has been heavily influenced by structuralist and postmodern theories, as well as a shift toward the analysis of modern societies. During the 1970s and 1990s, there was an epistemological shift away from the positivist traditions that had largely informed the discipline.[page needed] During this shift, enduring questions about the nature and production of knowledge came to occupy a central place in cultural and social anthropology. In contrast, archaeology and biological anthropology remained largely positivist. Due to this difference in epistemology, the four sub-fields of anthropology have lacked cohesion over the last several decades.",
+      "qas": [
+        {
+          "id": "8be6fd37f304b0fdb65664749ad043de42219a9c",
+          "question": "The sub-fields of anthropology had how many over the last decades?",
+          "answers": [
+            {
+              "answer_start": 588,
+              "text": "four sub-fields of anthropology"
+            }
+          ]
+        },
+        {
+          "id": "5af592625c670c69999bd7da7084c6cd2851f339",
+          "question": "The questions came to a what during the talks of nature and production of knowledge?",
+          "answers": [
+            {
+              "answer_start": 323,
+              "text": "shift"
+            }
+          ]
+        },
+        {
+          "id": "9840f817f38324fdae6cbab08e8ddce63c25b27f",
+          "question": "Archaeology and anthropology remained largely positivist in what?",
+          "answers": [
+            {
+              "answer_start": 462,
+              "text": "In contrast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "But by the 1940s, many of Boas' anthropologist contemporaries were active in the allied war effort against the \"Axis\" (Nazi Germany, Fascist Italy, and Imperial Japan). Many served in the armed forces, while others worked in intelligence (for example, Office of Strategic Services and the Office of War Information). At the same time, David H. Price's work on American anthropology during the Cold War provides detailed accounts of the pursuit and dismissal of several anthropologists from their jobs for communist sympathies.",
+      "qas": [
+        {
+          "id": "529a33f89391b295c5d4cec5f29aec650d34f28d",
+          "question": "what word is in quotation in the passage?",
+          "answers": [
+            {
+              "answer_start": 112,
+              "text": "Axis"
+            }
+          ]
+        },
+        {
+          "id": "d5c284600cc617f1bfb59074c4e37a4ba3d151d3",
+          "question": "what year is in the first paragraph?",
+          "answers": [
+            {
+              "answer_start": 11,
+              "text": "1940s"
+            }
+          ]
+        },
+        {
+          "id": "0c8db60aee7b590f1e837f684fb9d53be6da6595",
+          "question": "communist sympathies did  a lot of damage to?",
+          "answers": [
+            {
+              "answer_start": 461,
+              "text": "several anthropologists"
+            }
+          ]
+        },
+        {
+          "id": "f5f6aa0051ce21d9b89d7372df79913a0865fad9",
+          "question": "what nation start with G?",
+          "answers": [
+            {
+              "answer_start": 124,
+              "text": "Germany"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Urban anthropology is concerned with issues of urbanization, poverty, and neoliberalism. Ulf Hannerz quotes a 1960s remark that traditional anthropologists were \"a notoriously agoraphobic lot, anti-urban by definition\". Various social processes in the Western World as well as in the \"Third World\" (the latter being the habitual focus of attention of anthropologists) brought the attention of \"specialists in 'other cultures'\" closer to their homes. There are two principle approaches in urban anthropology: by examining the types of cities or examining the social issues within the cities. These two methods are overlapping and dependent of each other. By defining different types of cities, one would use social factors as well as economic and political factors to categorize the cities. By directly looking at the different social issues, one would also be studying how they affect the dynamic of the city.",
+      "qas": [
+        {
+          "id": "f2fb6777a9d6fd4f3cd7c9e7b8ce712a059e353d",
+          "question": "What is the second problematic concern of the Urban anthropology theory",
+          "answers": [
+            {
+              "answer_start": 61,
+              "text": "poverty"
+            }
+          ]
+        },
+        {
+          "id": "58d54ea38505e96a3fc599159a28b45aa65fa245",
+          "question": "What is the common name for countries that are not advanced in civilization or industry.",
+          "answers": [
+            {
+              "answer_start": 285,
+              "text": "Third World"
+            }
+          ]
+        },
+        {
+          "id": "3aa3c7b8928b2932fa096f02302b6cd1645b0db1",
+          "question": "Besides social issues what is another priciple studied in the text",
+          "answers": [
+            {
+              "answer_start": 525,
+              "text": "types of cities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Anthropology and many other current fields are the intellectual results of the comparative methods developed in the earlier 19th century. Theorists in such diverse fields as anatomy, linguistics, and Ethnology, making feature-by-feature comparisons of their subject matters, were beginning to suspect that similarities between animals, languages, and folkways were the result of processes or laws unknown to them then. For them, the publication of Charles Darwin's On the Origin of Species was the epiphany of everything they had begun to suspect. Darwin himself arrived at his conclusions through comparison of species he had seen in agronomy and in the wild.",
+      "qas": [
+        {
+          "id": "6d88605dd958bb269fc8f03ca6e44caf15e348af",
+          "question": "What is the 4th science study listed in order of the text",
+          "answers": [
+            {
+              "answer_start": 200,
+              "text": "Ethnology"
+            }
+          ]
+        },
+        {
+          "id": "ef45e361e3b29add299ed21faa3fc0c6290abf91",
+          "question": "What is the second science listed in the text above",
+          "answers": [
+            {
+              "answer_start": 174,
+              "text": "anatomy"
+            }
+          ]
+        },
+        {
+          "id": "a5474f6b00984529038b4344cae2dea30a4fd2c6",
+          "question": "What is the general name they call the scientists in the text study the sciences",
+          "answers": [
+            {
+              "answer_start": 138,
+              "text": "Theorists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Nutritional anthropology is a synthetic concept that deals with the interplay between economic systems, nutritional status and food security, and how changes in the former affect the latter. If economic and environmental changes in a community affect access to food, food security, and dietary health, then this interplay between culture and biology is in turn connected to broader historical and economic trends associated with globalization. Nutritional status affects overall health status, work performance potential, and the overall potential for economic development (either in terms of human development or traditional western models) for any given group of people.",
+      "qas": [
+        {
+          "id": "66fa08c7b2f4ae92bfefd304be3afc5a6d6906a9",
+          "question": "What does getting enough food deal with?",
+          "answers": [
+            {
+              "answer_start": 471,
+              "text": "overall health status, work performance potential, and the overall potential for economic development"
+            }
+          ]
+        },
+        {
+          "id": "81da3b8cba4dd6dd1f9e054c2a24c3bc0e0a12ff",
+          "question": "What does work and area of like effect?",
+          "answers": [
+            {
+              "answer_start": 221,
+              "text": "changes in a community affect access to food, food security, and dietary health"
+            }
+          ]
+        },
+        {
+          "id": "d67d7d58c958bd9b0610502603f40ff0f01c6988",
+          "question": "How does access to food and how it effects a community specifically effect people?",
+          "answers": [
+            {
+              "answer_start": 312,
+              "text": "interplay between culture and biology is in turn connected to broader historical and economic trends associated with globalization"
+            }
+          ]
+        },
+        {
+          "id": "e1bf79649f9879ed56b7ce3572a06d3d720a6c3f",
+          "question": "How does economic development effect people?",
+          "answers": [
+            {
+              "answer_start": 593,
+              "text": "human development"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Waitz defined anthropology as \"the science of the nature of man\". By nature he meant matter animated by \"the Divine breath\"; i.e., he was an animist. Following Broca's lead, Waitz points out that anthropology is a new field, which would gather material from other fields, but would differ from them in the use of comparative anatomy, physiology, and psychology to differentiate man from \"the animals nearest to him\". He stresses that the data of comparison must be empirical, gathered by experimentation. The history of civilization as well as ethnology are to be brought into the comparison. It is to be presumed fundamentally that the species, man, is a unity, and that \"the same laws of thought are applicable to all men\".",
+      "qas": [
+        {
+          "id": "50b089e00a09e60b11128bac4761bd13b2b4345f",
+          "question": "Which is not a last name, Waitz or Nature?",
+          "answers": [
+            {
+              "answer_start": 50,
+              "text": "nature"
+            }
+          ]
+        },
+        {
+          "id": "b91c9f4a0ab036a74aab4cfbd8cfd266d5356ce1",
+          "question": "What is opposite of woman?",
+          "answers": [
+            {
+              "answer_start": 378,
+              "text": "man"
+            }
+          ]
+        },
+        {
+          "id": "03af76e5dc5f8547fbefe375acaa7b8f53048265",
+          "question": "Which is not a last name, Broca or Unity?",
+          "answers": [
+            {
+              "answer_start": 656,
+              "text": "unity"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d0897b7"
+  },
+  "title": "Pacific_War",
+  "paragraphs": [
+    {
+      "context": "Two battle-hardened Australian divisions were steaming from the Mid-East for Singapore. Churchill wanted them diverted to Burma, but Curtin insisted on a return to Australia. In early 1942 elements of the Imperial Japanese Navy proposed an invasion of Australia. The Japanese Army opposed the plan and it was rejected in favour of a policy of isolating Australia from the United States via blockade by advancing through the South Pacific. The Japanese decided upon a seaborne invasion of Port Moresby, capital of the Australian Territory of Papua which would put Northern Australia within range of Japanese bomber aircraft.",
+      "qas": [
+        {
+          "id": "b431820dd2c84fd21f53cc952b124c1c66e16e9f",
+          "question": "39% of the population of __ was born elsewhere.",
+          "answers": [
+            {
+              "answer_start": 77,
+              "text": "Singapore"
+            }
+          ]
+        },
+        {
+          "id": "fa953602a8e1f4e145920c2938b324fea6d201e3",
+          "question": "__ has the only tropical garden in the world designated a UNESCO Heritage Site.",
+          "answers": [
+            {
+              "answer_start": 77,
+              "text": "Singapore"
+            }
+          ]
+        },
+        {
+          "id": "a878394631e325c13830501280a21b7ab70a77e1",
+          "question": "__ is nicknamed the Little Red Dot.",
+          "answers": [
+            {
+              "answer_start": 77,
+              "text": "Singapore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The forces converged in the largest sea battle of World War II up to that point. Over the previous month American destroyers had destroyed 17 of 25 submarines out of Ozawa's screening force. Repeated U.S. raids destroyed the Japanese land-based planes. Ozawa's main attack lacked coordination, with the Japanese planes arriving at their targets in a staggered sequence. Following a directive from Nimitz, the U.S. carriers all had combat information centers, which interpreted the flow of radar data and radioed interception orders to the Hellcats. The result was later dubbed the Great Marianas Turkey Shoot. The few attackers to reach the U.S. fleet encountered massive AA fire with proximity fuzes. Only one American warship was slightly damaged.",
+      "qas": [
+        {
+          "id": "41103ba285591500a26633657f1122594bead305",
+          "question": "What was one of the reasons that the Japanese did not have success?",
+          "answers": [
+            {
+              "answer_start": 266,
+              "text": "attack lacked coordination"
+            }
+          ]
+        },
+        {
+          "id": "aee559d09d5fca12d4a2a814d3afad31a7f3b094",
+          "question": "Who was the opponent of the American forces?",
+          "answers": [
+            {
+              "answer_start": 166,
+              "text": "Ozawa"
+            }
+          ]
+        },
+        {
+          "id": "676f80cbb99ec417b805202d4d44fdcaf33398c5",
+          "question": "Which part of the Japanese float formed a screening force?",
+          "answers": [
+            {
+              "answer_start": 148,
+              "text": "submarines"
+            }
+          ]
+        },
+        {
+          "id": "27acf71f46b4c2808bc571e540ffbb2c6a09b182",
+          "question": "How does the text call the event described here?",
+          "answers": [
+            {
+              "answer_start": 24,
+              "text": "the largest sea battle of World War II up to that point"
+            }
+          ]
+        },
+        {
+          "id": "f645513a6b0fca8758b243e9575498b5b3beaa63",
+          "question": "Which planes were first destroyed?",
+          "answers": [
+            {
+              "answer_start": 234,
+              "text": "land-based"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "On 15 December 1944 landings against minimal resistance were made on the southern beaches of the island of Mindoro, a key location in the planned Lingayen Gulf operations, in support of major landings scheduled on Luzon. On 9 January 1945, on the south shore of Lingayen Gulf on the western coast of Luzon, General Krueger's Sixth Army landed his first units. Almost 175,000 men followed across the twenty-mile (32 km) beachhead within a few days. With heavy air support, Army units pushed inland, taking Clark Field, 40 miles (64 km) northwest of Manila, in the last week of January.",
+      "qas": [
+        {
+          "id": "69576f0358c54ef81c6b86da90a5f187603a67da",
+          "question": "How many miles are thirty two km?",
+          "answers": [
+            {
+              "answer_start": 399,
+              "text": "twenty"
+            }
+          ]
+        },
+        {
+          "id": "af0bab8440f3a3dd0ecb909b18812b2a5b0d7c72",
+          "question": "The army pushed inland, but where did it first land?",
+          "answers": [
+            {
+              "answer_start": 73,
+              "text": "southern beaches of the island of Mindoro"
+            }
+          ]
+        },
+        {
+          "id": "47d74e315d3ecb8d1c4580555e9dcf123d9f7328",
+          "question": "Where are all these places located?",
+          "answers": [
+            {
+              "answer_start": 146,
+              "text": "Lingayen Gulf"
+            }
+          ]
+        },
+        {
+          "id": "214b3918dbad27b3b97861886966f8fcf3fb35af",
+          "question": "What is the location given to clarify the place of Clark Field?",
+          "answers": [
+            {
+              "answer_start": 548,
+              "text": "Manila"
+            }
+          ]
+        },
+        {
+          "id": "af58cd4d7fee565ba14d1bdf4e0614b47ab982f4",
+          "question": "How were the operations described in this paragraph?",
+          "answers": [
+            {
+              "answer_start": 138,
+              "text": "planned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Japanese land forces continued to advance in the Solomon Islands and New Guinea. From July 1942, a few Australian reserve battalions, many of them very young and untrained, fought a stubborn rearguard action in New Guinea, against a Japanese advance along the Kokoda Track, towards Port Moresby, over the rugged Owen Stanley Ranges. The militia, worn out and severely depleted by casualties, were relieved in late August by regular troops from the Second Australian Imperial Force, returning from action in the Mediterranean theater. In early September 1942 Japanese marines attacked a strategic Royal Australian Air Force base at Milne Bay, near the eastern tip of New Guinea. They were beaten back by Allied (primarily Australian Army) forces.",
+      "qas": [
+        {
+          "id": "4ba5708c6872976291f4805f064c2eeb4aa71c3e",
+          "question": "Why might I question the Australians' chances of winning?",
+          "answers": [
+            {
+              "answer_start": 134,
+              "text": "many of them very young and untrained"
+            }
+          ]
+        },
+        {
+          "id": "ac6f318cdb8e21c277341c2d36f33ddab0f4f604",
+          "question": "What might cause me to question the Australians' odds of winning?",
+          "answers": [
+            {
+              "answer_start": 134,
+              "text": "many of them very young and untrained"
+            }
+          ]
+        },
+        {
+          "id": "ad781d2ce2b8a41498e35570f30beaf8acee9215",
+          "question": "Why might I think twice about the Australians' odds of success?",
+          "answers": [
+            {
+              "answer_start": 134,
+              "text": "many of them very young and untrained"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Midway proved to be the last great naval battle for two years. The United States used the ensuing period to turn its vast industrial potential into increased numbers of ships, planes, and trained aircrew. At the same time, Japan, lacking an adequate industrial base or technological strategy, a good aircrew training program, or adequate naval resources and commerce defense, fell further and further behind. In strategic terms the Allies began a long movement across the Pacific, seizing one island base after another. Not every Japanese stronghold had to be captured; some, like Truk, Rabaul, and Formosa, were neutralized by air attack and bypassed. The goal was to get close to Japan itself, then launch massive strategic air attacks, improve the submarine blockade, and finally (only if necessary) execute an invasion.",
+      "qas": [
+        {
+          "id": "49062fb903bcdc833344b35ee182d09692a8a847",
+          "question": "What is an indication that some battles resulted in no occupation?",
+          "answers": [
+            {
+              "answer_start": 581,
+              "text": "Truk, Rabaul, and Formosa, were neutralized by air attack and bypassed"
+            }
+          ]
+        },
+        {
+          "id": "ba62a58370f39bb93c8c7fff4650c9a95cd4c13f",
+          "question": "What part of the navy was on standby during the air attacks?",
+          "answers": [
+            {
+              "answer_start": 751,
+              "text": "submarine blockade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "By 1937, Japan controlled Manchuria and was ready to move deeper into China. The Marco Polo Bridge Incident on 7 July 1937 provoked full-scale war between China and Japan. The Nationalist and Communist Chinese suspended their civil war to form a nominal alliance against Japan, and the Soviet Union quickly lent support by providing large amount of materiel to Chinese troops. In August 1937, Generalissimo Chiang Kai-shek deployed his best army to fight about 300,000 Japanese troops in Shanghai, but, after three months of fighting, Shanghai fell. The Japanese continued to push the Chinese forces back, capturing the capital Nanking in December 1937 and committed which was known as Nanking Massacre. In March 1938, Nationalist forces won their first victory at Taierzhuang. but then the city of Xuzhou was taken by Japanese in May. In June 1938, Japan deployed about 350,000 troops to invade Wuhan and captured it in October. The Japanese achieved major military victories, but world opinion—in particular in the United States—condemned Japan, especially after the Panay Incident.",
+      "qas": [
+        {
+          "id": "e2917f0b053761cc8c7064d4281c1ef93c341d70",
+          "question": "Which event happened first, the fall of Shanghai or the capturing of Nanking?",
+          "answers": [
+            {
+              "answer_start": 535,
+              "text": "Shanghai fell"
+            }
+          ]
+        },
+        {
+          "id": "a6310bb00dc232e795da9571c3667e7b4754b60c",
+          "question": "What event happened four months before Nanking was captured?",
+          "answers": [
+            {
+              "answer_start": 535,
+              "text": "Shanghai fell"
+            }
+          ]
+        },
+        {
+          "id": "2f0b7a9ba31ba523b03ab291981fa1b6ce311bdb",
+          "question": "Which year did the Japanese send less troops,1938 or 1937?",
+          "answers": [
+            {
+              "answer_start": 387,
+              "text": "1937"
+            }
+          ]
+        },
+        {
+          "id": "c386d813404673c2b227844761f7f7856b9ff7fb",
+          "question": "Which location was placed under siege second, Nanking or Wuhan?",
+          "answers": [
+            {
+              "answer_start": 896,
+              "text": "Wuhan"
+            }
+          ]
+        },
+        {
+          "id": "883eb209fa3cf196609cbbe877a769d6e3c4313b",
+          "question": "Which happened first, the Marco Polo Bridge Incident or the capturing of Nanking?",
+          "answers": [
+            {
+              "answer_start": 77,
+              "text": "The Marco Polo Bridge Incident"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The official policy of the U.S. Government is that Thailand was not an ally of the Axis, and that the United States was not at war with Thailand. The policy of the U.S. Government ever since 1945 has been to treat Thailand not as a former enemy, but rather as a country which had been forced into certain actions by Japanese blackmail, before being occupied by Japanese troops. Thailand has been treated by the United States in the same way as such other Axis-occupied countries as Belgium, Czechoslovakia, Denmark, Greece, Norway, Poland, and the Netherlands.",
+      "qas": [
+        {
+          "id": "1146b5e0c636bf12a24de22445c223743ae6d27f",
+          "question": "Why is Thailand not an ally of the Axis?",
+          "answers": [
+            {
+              "answer_start": 316,
+              "text": "Japanese blackmail"
+            }
+          ]
+        },
+        {
+          "id": "25cf8dfbe68e3d3ae2bf63aa4620e294ed75705c",
+          "question": "What group took over Thailand?",
+          "answers": [
+            {
+              "answer_start": 79,
+              "text": "the Axis"
+            }
+          ]
+        },
+        {
+          "id": "a4da89003366d19871082ba78cce2bc5e6eaa9c9",
+          "question": "Which country was an ally of the Axis?",
+          "answers": [
+            {
+              "answer_start": 361,
+              "text": "Japanese"
+            }
+          ]
+        },
+        {
+          "id": "26a802d6bd6528050871bb599ac3a1a6d70654da",
+          "question": "Who was the United States actually at war with?",
+          "answers": [
+            {
+              "answer_start": 361,
+              "text": "Japanese troops"
+            }
+          ]
+        },
+        {
+          "id": "819adacc45643d00c6bc4f588192fd225a1c12e6",
+          "question": "Who was actually an ally of the Axis?",
+          "answers": [
+            {
+              "answer_start": 361,
+              "text": "Japanese troops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The effects of the \"Twin Shocks\"—the Soviet entry and the atomic bombing—were profound. On 10 August the \"sacred decision\" was made by Japanese Cabinet to accept the Potsdam terms on one condition: the \"prerogative of His Majesty as a Sovereign Ruler\". At noon on 15 August, after the American government's intentionally ambiguous reply, stating that the \"authority\" of the emperor \"shall be subject to the Supreme Commander of the Allied Powers\", the Emperor broadcast to the nation and to the world at large the rescript of surrender, ending the Second World War.",
+      "qas": [
+        {
+          "id": "946445195c2dfbdcf4362ca0f7a50e03931aae34",
+          "question": "Why did Japan surrender?",
+          "answers": [
+            {
+              "answer_start": 15,
+              "text": "the \"Twin Shocks\""
+            }
+          ]
+        },
+        {
+          "id": "19abea7a15cc3c646653e949166c7411ac59395d",
+          "question": "What did the Japanese not want to surrender?",
+          "answers": [
+            {
+              "answer_start": 198,
+              "text": "the \"prerogative of His Majesty as a Sovereign Ruler\""
+            }
+          ]
+        },
+        {
+          "id": "e0e2ee53c901b5b94fd112c269b064c8cb6f7e99",
+          "question": "Who was placed in control of the nation?",
+          "answers": [
+            {
+              "answer_start": 338,
+              "text": "stating that the \"authority\" of the emperor \"shall be subject to the Supreme Commander of the Allied Powers\""
+            }
+          ]
+        },
+        {
+          "id": "21327580fe342ebbc2d557d76f4f656ee075cb65",
+          "question": "What caused the Japanese to submit?",
+          "answers": [
+            {
+              "answer_start": 33,
+              "text": "the Soviet entry and the atomic bombing"
+            }
+          ]
+        },
+        {
+          "id": "6c438b647add0bc1dc6f5ab32ad76978bf72471e",
+          "question": "Who tendered the surrender?",
+          "answers": [
+            {
+              "answer_start": 448,
+              "text": "the Emperor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "With the Japanese CAP out of position and the carriers at their most vulnerable, SBD Dauntlesses from Enterprise and Yorktown appeared at an altitude of 10,000 feet (3,000 m) and commenced their attack, quickly dealing fatal blows to three fleet carriers: Sōryū, Kaga, and Akagi. Within minutes, all three were ablaze and had to be abandoned with great loss of life. Hiryū managed to survive the wave of dive bombers and launched a counter-attack against the American carriers which caused severe damage to Yorktown (which was later finished off by a Japanese submarine). However, a second attack from the U.S. carriers a few hours later found and destroyed Hiryū, the last remaining fleet carrier available to Nagumo. With his carriers lost and the Americans withdrawn out of range of his powerful battleships, Yamamoto was forced to call off the operation, leaving Midway in American hands. The battle proved to be a decisive victory for the Allies. For the second time, Japanese expansion had been checked and its formidable Combined Fleet was significantly weakened by the loss of four fleet carriers and many highly trained, virtually irreplaceable, personnel. Japan would be largely on the defensive for the rest of the war.",
+      "qas": [
+        {
+          "id": "7caa42f774d4adf5d4d0266d3a44e435e4a62aa8",
+          "question": "Who surrendered?",
+          "answers": [
+            {
+              "answer_start": 812,
+              "text": "Yamamoto"
+            }
+          ]
+        },
+        {
+          "id": "d355ab5d36d78e021f292b75f9066b1d4cade1ec",
+          "question": "Who had greed for more land?",
+          "answers": [
+            {
+              "answer_start": 973,
+              "text": "Japanese"
+            }
+          ]
+        },
+        {
+          "id": "2a7ceb2f672a47ea91a5d687b0b7cc1025f8275d",
+          "question": "What was a major reason for the surrender?",
+          "answers": [
+            {
+              "answer_start": 1028,
+              "text": "Combined Fleet was significantly weakened by the loss of four fleet carriers"
+            }
+          ]
+        },
+        {
+          "id": "f5806435b8463c6d81c678a4162a6479611fd0aa",
+          "question": "What was the benefit of determination for the Americans?",
+          "answers": [
+            {
+              "answer_start": 581,
+              "text": "a second attack from the U.S. carriers a few hours later found and destroyed Hiryū, the last remaining fleet carrier available to Nagumo"
+            }
+          ]
+        },
+        {
+          "id": "31831cc07023d22cd2e2f018f854057d09c03de1",
+          "question": "What did the US advantage give Americans?",
+          "answers": [
+            {
+              "answer_start": 867,
+              "text": "Midway in American hands"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Australia had been shocked by the speedy collapse of British Malaya and Fall of Singapore in which around 15,000 Australian soldiers became prisoners of war. Curtin predicted that the \"battle for Australia\" would now follow. The Japanese established a major base in the Australian Territory of New Guinea in early 1942. On 19 February, Darwin suffered a devastating air raid, the first time the Australian mainland had been attacked. Over the following 19 months, Australia was attacked from the air almost 100 times.",
+      "qas": [
+        {
+          "id": "d1943cfeb565373a4a72d0f28079221e76d3579f",
+          "question": "Who captured 15,000 soldiers after the Fall of Singapore?",
+          "answers": [
+            {
+              "answer_start": 225,
+              "text": "The Japanese"
+            }
+          ]
+        },
+        {
+          "id": "da9255ab181c234eb94a38eff4d33a0d719d9dc1",
+          "question": "Who is responsible for the collapse of British Malaya?",
+          "answers": [
+            {
+              "answer_start": 225,
+              "text": "The Japanese"
+            }
+          ]
+        },
+        {
+          "id": "fe8b929bd072415dea5c25c53f641836c518d6b2",
+          "question": "Who won during the Fall of Singapore?",
+          "answers": [
+            {
+              "answer_start": 225,
+              "text": "The Japanese"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Nishimura's force consisted of two battleships, one cruiser and four destroyers. Because they were observing radio silence, Nishimura was unable to synchronize with Shima and Kurita. Nishimura and Shima had failed to even coordinate their plans before the attacks – they were long-time rivals and neither wished to have anything to do with the other. When he entered the narrow Surigao Strait at about 02:00, Shima was 22 miles (40 km) behind him, and Kurita was still in the Sibuyan Sea, several hours from the beaches at Leyte. As they passed Panaon Island, Nishimura's force ran into a trap set for them by the U.S.-Australian 7th Fleet Support Force. R. Adm. Jesse Oldendorf had six battleships, four heavy cruisers, four light cruisers, 29 destroyers and 39 PT boats. To pass the strait and reach the landings, Nishimura had to run the gauntlet. At about 03:00 the Japanese battleship Fusō and three destroyers were hit by torpedoes and Fusō broke in two. At 03:50 the U.S. battleships opened fire. Radar fire control meant they could hit targets from a much greater distance than the Japanese. The battleship Yamashiro, a cruiser and a destroyer were crippled by 16-inch (406 mm) shells; Yamashiro sank at 04:19. Only one of Nishimura's force of seven ships survived the engagement. At 04:25 Shima's force of two cruisers and eight destroyers reached the battle. Seeing Fusō and believing her to be the wrecks of two battleships, Shima ordered a retreat, ending the last battleship-vs-battleship action in history.",
+      "qas": [
+        {
+          "id": "9274fd30314745e79b51dabfe76ac6c01f804276",
+          "question": "what is the last type of craft mentioned?",
+          "answers": [
+            {
+              "answer_start": 1491,
+              "text": "battleship"
+            }
+          ]
+        },
+        {
+          "id": "a3bfce9e55d14f7a46ff002ba7577e80896f92d9",
+          "question": "what is the first type of vehicle mentioned?",
+          "answers": [
+            {
+              "answer_start": 35,
+              "text": "battleships"
+            }
+          ]
+        },
+        {
+          "id": "d19d5eda17438d8ec3cd98cb03418c90d230f758",
+          "question": "what is the second type of vehicle mentioned?",
+          "answers": [
+            {
+              "answer_start": 52,
+              "text": "cruiser"
+            }
+          ]
+        },
+        {
+          "id": "1d36ba8674946a4caf69a26140172fd0aee0e394",
+          "question": "what is the third type of vehicle mentioned?",
+          "answers": [
+            {
+              "answer_start": 69,
+              "text": "destroyers"
+            }
+          ]
+        },
+        {
+          "id": "73e7a007948316af5a4ffd588bd468638322450e",
+          "question": "what is the first group mentioned?",
+          "answers": [
+            {
+              "answer_start": 0,
+              "text": "Nishimura's force"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "In the early hours of 7 December (Hawaiian time), Japan launched a major surprise carrier-based air strike on Pearl Harbor without explicit warning, which crippled the U.S. Pacific Fleet, leaving eight American battleships out of action, 188 American aircraft destroyed, and 2,403 American citizens dead. At the time of the attack, the U.S. was not officially at war anywhere in the world, which means that the people killed or property destroyed at Pearl Harbor by the Japanese attack had a non-combatant status.[nb 11] The Japanese had gambled that the United States, when faced with such a sudden and massive blow, would agree to a negotiated settlement and allow Japan free rein in Asia. This gamble did not pay off. American losses were less serious than initially thought: The American aircraft carriers, which would prove to be more important than battleships, were at sea, and vital naval infrastructure (fuel oil tanks, shipyard facilities, and a power station), submarine base, and signals intelligence units were unscathed. Japan's fallback strategy, relying on a war of attrition to make the U.S. come to terms, was beyond the IJN's capabilities.",
+      "qas": [
+        {
+          "id": "c0e58d55bbbd650b4e9cf39583fd8b44571b1708",
+          "question": "Which dreadful event happened at the hands of Japan?",
+          "answers": [
+            {
+              "answer_start": 100,
+              "text": "strike on Pearl Harbor"
+            }
+          ]
+        },
+        {
+          "id": "09d04eaa76285eb38a88c38810c4b01f99e34156",
+          "question": "How fruitful was Japan's attack on Pearl Harbor?",
+          "answers": [
+            {
+              "answer_start": 692,
+              "text": "This gamble did not pay off"
+            }
+          ]
+        },
+        {
+          "id": "5e46e66e25edd27361d71a061336b996bba70dce",
+          "question": "What was Japan's Plan B?",
+          "answers": [
+            {
+              "answer_start": 1062,
+              "text": "relying on a war of attrition to make the U.S. come to terms"
+            }
+          ]
+        },
+        {
+          "id": "57dfbd3c763efac449d6f941e3d9976bc06aa468",
+          "question": "What had not suffered the effects of Japan's attacks on Pearl Harbor?",
+          "answers": [
+            {
+              "answer_start": 885,
+              "text": "vital naval infrastructure (fuel oil tanks, shipyard facilities, and a power station), submarine base, and signals intelligence units"
+            }
+          ]
+        },
+        {
+          "id": "fe99315e52f4b762642a9c98227ffa263c2683d5",
+          "question": "What was the property damage of the attack?",
+          "answers": [
+            {
+              "answer_start": 196,
+              "text": "eight American battleships out of action, 188 American aircraft destroyed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "As anticipated by Nimitz, the Japanese fleet arrived off Midway on 4 June and was spotted by PBY patrol aircraft. Nagumo executed a first strike against Midway, while Fletcher launched his aircraft, bound for Nagumo's carriers. At 09:20 the first U.S. carrier aircraft arrived, TBD Devastator torpedo bombers from Hornet, but their attacks were poorly coordinated and ineffectual; thanks in part to faulty aerial torpedoes, they failed to score a single hit and all 15 were wiped out by defending Zero fighters. At 09:35, 15 additional TBDs from Enterprise attacked in which 14 were lost, again with no hits. Thus far, Fletcher's attacks had been disorganized and seemingly ineffectual, but they succeeded in drawing Nagumo's defensive fighters down to sea level where they expended much of their fuel and ammunition repulsing the two waves of torpedo bombers. As a result, when U.S. dive bombers arrived at high altitude, the Zeros were poorly positioned to defend. To make matters worse, Nagumo's four carriers had drifted out of formation in their efforts to avoid torpedoes, reducing the concentration of their anti-aircraft fire. Nagumo's indecision had also created confusion aboard his carriers. Alerted to the need of a second strike on Midway, but also wary of the need to deal with the American carriers that he now knew were in the vicinity, Nagumo twice changed the arming orders for his aircraft. As a result, the American dive bombers found the Japanese carriers with their decks cluttered with munitions as the crews worked hastily to properly re-arm their air groups.",
+      "qas": [
+        {
+          "id": "e13a6fff1f8fe075b3500bfbc5518fd2bb893528",
+          "question": "which is not a last name, Nimitz or Zeros?",
+          "answers": [
+            {
+              "answer_start": 927,
+              "text": "Zeros"
+            }
+          ]
+        },
+        {
+          "id": "4bcf642247deb20df7bedd21716682d469c9d51a",
+          "question": "Which is not a last name, Nimitz or Aerial?",
+          "answers": [
+            {
+              "answer_start": 406,
+              "text": "aerial"
+            }
+          ]
+        },
+        {
+          "id": "d536103c9091733d563954796070c32a7368d898",
+          "question": "Which is not a last name, Midway or Nimitz?",
+          "answers": [
+            {
+              "answer_start": 57,
+              "text": "Midway"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d0897c0"
+  },
+  "title": "Muslim_world",
+  "paragraphs": [
+    {
+      "context": "Encompasses both secular and religious styles, the design and style made by Muslims and their construction of buildings and structures in Islamic culture included the architectural types: the Mosque, the Tomb, the Palace and the Fort. Perhaps the most important expression of Islamic art is architecture, particularly that of the mosque. Through Islamic architecture, effects of varying cultures within Islamic civilization can be illustrated. Generally, the use of Islamic geometric patterns and foliage based arabesques were striking. There was also the use of decorative calligraphy instead of pictures which were haram (forbidden) in mosque architecture. Note that in secular architecture, human and animal representation was indeed present.",
+      "qas": [
+        {
+          "id": "e9b408176254c39e6fdea4db6bd6dcfc9acdee8d",
+          "question": "__ is equal parts art and science.",
+          "answers": [
+            {
+              "answer_start": 511,
+              "text": "arabesques"
+            }
+          ]
+        },
+        {
+          "id": "15b77b263225e4392751dafca0a2ee757726e897",
+          "question": "__ are very similar across regions.",
+          "answers": [
+            {
+              "answer_start": 511,
+              "text": "arabesques"
+            }
+          ]
+        },
+        {
+          "id": "ec79e284f7b6c6dac35622b56d7e6a3ead178609",
+          "question": "Mistakes in __ are meant to show that only Allah produces perfection.",
+          "answers": [
+            {
+              "answer_start": 511,
+              "text": "arabesques"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The best known work of fiction from the Islamic world is One Thousand and One Nights (In Persian: hezār-o-yek šab > Arabic: ʔalf-layl-at-wa-l’-layla= One thousand Night and (one) Night) or *Arabian Nights, a name invented by early Western translators, which is a compilation of folk tales from Sanskrit, Persian, and later Arabian fables. The original concept is derived from a pre-Islamic Persian prototype Hezār Afsān (Thousand Fables) that relied on particular Indian elements. It reached its final form by the 14th century; the number and type of tales have varied from one manuscript to another. All Arabian fantasy tales tend to be called Arabian Nights stories when translated into English, regardless of whether they appear in The Book of One Thousand and One Nights or not. This work has been very influential in the West since it was translated in the 18th century, first by Antoine Galland. Imitations were written, especially in France. Various characters from this epic have themselves become cultural icons in Western culture, such as Aladdin, Sinbad the Sailor and Ali Baba.",
+      "qas": [
+        {
+          "id": "65fd1e202ad0e9b28fe5c4a69ca658f671cf2d47",
+          "question": "What people were the source of the original concept of One Thousand and One Nights?",
+          "answers": [
+            {
+              "answer_start": 464,
+              "text": "Indian"
+            }
+          ]
+        },
+        {
+          "id": "c03ea364b5cf1dfcab92a29faae4f6aaa678ac27",
+          "question": "Who can English only speakers thank for being able to read One Thousand and One Nights?",
+          "answers": [
+            {
+              "answer_start": 885,
+              "text": "Antoine Galland"
+            }
+          ]
+        },
+        {
+          "id": "899efdd4dacafb7619f02dae5d44255fc6f2d92b",
+          "question": "What type of book is One Thousand and One Nights?",
+          "answers": [
+            {
+              "answer_start": 261,
+              "text": "a compilation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Between the 8th and 18th centuries, the use of glazed ceramics was prevalent in Islamic art, usually assuming the form of elaborate pottery. Tin-opacified glazing was one of the earliest new technologies developed by the Islamic potters. The first Islamic opaque glazes can be found as blue-painted ware in Basra, dating to around the 8th century. Another contribution was the development of stone-paste ceramics, originating from 9th century Iraq. Other centers for innovative ceramic pottery in the Old world included Fustat (from 975 to 1075), Damascus (from 1100 to around 1600) and Tabriz (from 1470 to 1550).",
+      "qas": [
+        {
+          "id": "509008f847bc99d079bdf14e8905fa2666d43492",
+          "question": "Damascus and Tabriz are examples of areas that contributed to a period of pottery innovation that spanned when?",
+          "answers": [
+            {
+              "answer_start": 0,
+              "text": "Between the 8th and 18th centuries"
+            }
+          ]
+        },
+        {
+          "id": "2c0e24dc28d8584ddc6737e35dd112dca54ba5fd",
+          "question": "What, specifically, did Basra contribute?",
+          "answers": [
+            {
+              "answer_start": 286,
+              "text": "blue-painted ware"
+            }
+          ]
+        },
+        {
+          "id": "762e458ed2f03c2605667c32eb5ba410fd63add0",
+          "question": "What was used in the production of the glazing?",
+          "answers": [
+            {
+              "answer_start": 141,
+              "text": "Tin"
+            }
+          ]
+        },
+        {
+          "id": "b6fcaa3a3d523cc98ade2a117a976d13908af19a",
+          "question": "On what was the revolutionary technique most often displayed?",
+          "answers": [
+            {
+              "answer_start": 122,
+              "text": "elaborate pottery"
+            }
+          ]
+        },
+        {
+          "id": "439d1d60d0bdaed581d567f7e3e7668ae7ba0d7d",
+          "question": "What is the coating applied to?",
+          "answers": [
+            {
+              "answer_start": 54,
+              "text": "ceramics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Muslim physicians contributed to the field of medicine, including the subjects of anatomy and physiology: such as in the 15th century Persian work by Mansur ibn Muhammad ibn al-Faqih Ilyas entitled Tashrih al-badan (Anatomy of the body) which contained comprehensive diagrams of the body's structural, nervous and circulatory systems; or in the work of the Egyptian physician Ibn al-Nafis, who proposed the theory of pulmonary circulation. Avicenna's The Canon of Medicine remained an authoritative medical textbook in Europe until the 18th century. Abu al-Qasim al-Zahrawi (also known as Abulcasis) contributed to the discipline of medical surgery with his Kitab al-Tasrif (\"Book of Concessions\"), a medical encyclopedia which was later translated to Latin and used in European and Muslim medical schools for centuries. Other medical advancements came in the fields of pharmacology and pharmacy.",
+      "qas": [
+        {
+          "id": "a47c742d260e50a6df361c97bc103ce0473a463b",
+          "question": "what is the first occupation mentioned?",
+          "answers": [
+            {
+              "answer_start": 7,
+              "text": "physicians"
+            }
+          ]
+        },
+        {
+          "id": "77be18c81275806bb7f26a91bd2a543c7114628d",
+          "question": "what field of study is mentioned last?",
+          "answers": [
+            {
+              "answer_start": 887,
+              "text": "pharmacy"
+            }
+          ]
+        },
+        {
+          "id": "5f406b315acdbcb8305d4b7b4b8452fe02c5ee0e",
+          "question": "what field of study is mentioned second to last?",
+          "answers": [
+            {
+              "answer_start": 870,
+              "text": "pharmacology"
+            }
+          ]
+        },
+        {
+          "id": "e0a9480fee63b7effdfbd320e4f317510a054c3c",
+          "question": "what group is mentioned first?",
+          "answers": [
+            {
+              "answer_start": 0,
+              "text": "Muslim physicians"
+            }
+          ]
+        },
+        {
+          "id": "63b4dc5f79cca50c648acb72b21d866648c12f5b",
+          "question": "what ethnic group is mentioned second to last?",
+          "answers": [
+            {
+              "answer_start": 770,
+              "text": "European"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d089832"
+  },
+  "title": "Late_Middle_Ages",
+  "paragraphs": [
+    {
+      "context": "The 1469 marriage of Isabella I of Castile and Ferdinand II of Aragon and the 1479 death of John II of Aragon led to the creation of modern-day Spain. In 1492, Granada was captured from the Moors, thereby completing the Reconquista. Portugal had during the 15th century – particularly under Henry the Navigator – gradually explored the coast of Africa, and in 1498, Vasco da Gama found the sea route to India. The Spanish monarchs met the Portuguese challenge by financing the expedition of Christopher Columbus to find a western sea route to India, leading to the discovery of the Americas in 1492.",
+      "qas": [
+        {
+          "id": "ffff855d05b88daff2ca3ea89e715f7e980014d7",
+          "question": "During the 15th century, what was area was discovered by the Spanish?",
+          "answers": [
+            {
+              "answer_start": 578,
+              "text": "the Americas"
+            }
+          ]
+        },
+        {
+          "id": "a6bb7c9feb3a9711cbae3e250966ee422fb657e0",
+          "question": "The union of the Spanish monarchs is credited with leading to what?",
+          "answers": [
+            {
+              "answer_start": 121,
+              "text": "creation of modern-day Spain"
+            }
+          ]
+        },
+        {
+          "id": "52b8561854619f41276c4c258d9cc3d3e7d79733",
+          "question": "Christopher Columbus attempted to replicate the Portuguese discovery by who?",
+          "answers": [
+            {
+              "answer_start": 366,
+              "text": "Vasco da Gama"
+            }
+          ]
+        },
+        {
+          "id": "2fafa1aa40a56c8e80ac333115ea1de4c4e103e5",
+          "question": "What region was Isabella I interested in finding?",
+          "answers": [
+            {
+              "answer_start": 522,
+              "text": "western sea route to India"
+            }
+          ]
+        },
+        {
+          "id": "cc915eced14b9d25e03ee19c3bf347e57d0d681d",
+          "question": "Where did Christopher Columbus end up while searching for a western sea route?",
+          "answers": [
+            {
+              "answer_start": 578,
+              "text": "the Americas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Despite these crises, the 14th century was also a time of great progress in the arts and sciences. Following a renewed interest in ancient Greek and Roman texts that took root in the High Middle Ages, the Italian Renaissance began. The absorption of Latin texts had started before the Renaissance of the 12th century through contact with Arabs during the Crusades, but the availability of important Greek texts accelerated with the capture of Constantinople by the Ottoman Turks, when many Byzantine scholars had to seek refuge in the West, particularly Italy.",
+      "qas": [
+        {
+          "id": "0fcff002e9f194d2a32ed35a1c5b99f914edd2a2",
+          "question": "Where might Islam have had some influence?",
+          "answers": [
+            {
+              "answer_start": 344,
+              "text": "during the Crusades"
+            }
+          ]
+        },
+        {
+          "id": "47b20b172abeede6e2f590cc6f6395749440afb9",
+          "question": "Why did some smart people decide to stay in Italy?",
+          "answers": [
+            {
+              "answer_start": 183,
+              "text": "High Middle Ages"
+            }
+          ]
+        },
+        {
+          "id": "931aa5e781a606af37952878b224f0d13f727fbe",
+          "question": "What began again?",
+          "answers": [
+            {
+              "answer_start": 109,
+              "text": "a renewed interest in ancient Greek and Roman texts"
+            }
+          ]
+        },
+        {
+          "id": "6329905370cfabc9b63fa6bdfae55827ed26a624",
+          "question": "What was sucked up like a sponge?",
+          "answers": [
+            {
+              "answer_start": 232,
+              "text": "The absorption of Latin texts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Martin Luther, a German monk, started the German Reformation by posting 95 theses on the castle church of Wittenberg on October 31, 1517. The immediate provocation spurring this act was Pope Leo X’s renewal of the indulgence for the building of the new St. Peter's Basilica in 1514. Luther was challenged to recant his heresy at the Diet of Worms in 1521. When he refused, he was placed under the ban of the Empire by Charles V. Receiving the protection of Frederick the Wise, he was then able to translate the Bible into German.",
+      "qas": [
+        {
+          "id": "39aa8fe43a3f12229f80dd14c433288b0969ea1d",
+          "question": "__ was the co-monarch of Spain witrh his mother.",
+          "answers": [
+            {
+              "answer_start": 418,
+              "text": "Charles V"
+            }
+          ]
+        },
+        {
+          "id": "2e6fb537621c2d28ea1c7b2e6dcd1491ddc70e22",
+          "question": "__  conceded the Peace of Augsburg.",
+          "answers": [
+            {
+              "answer_start": 418,
+              "text": "Charles V"
+            }
+          ]
+        },
+        {
+          "id": "609ae88e874ca4c7436600e0b4a03abc006c17d2",
+          "question": "__ was born at the Prinsenhof in Ghent.",
+          "answers": [
+            {
+              "answer_start": 418,
+              "text": "Charles V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Dante Alighieri's Divine Comedy, written in the early 14th century, merged a medieval world view with classical ideals. Another promoter of the Italian language was Boccaccio with his Decameron. The application of the vernacular did not entail a rejection of Latin, and both Dante and Boccaccio wrote prolifically in Latin as well as Italian, as would Petrarch later (whose Canzoniere also promoted the vernacular and whose contents are considered the first modern lyric poems). Together the three poets established the Tuscan dialect as the norm for the modern Italian language.",
+      "qas": [
+        {
+          "id": "a511fd5402ae72a9b8de2594ca2af69079f9de5f",
+          "question": "What language is not explicitly mentioned as having any dialects?",
+          "answers": [
+            {
+              "answer_start": 317,
+              "text": "Latin"
+            }
+          ]
+        },
+        {
+          "id": "0a11167adb8539fb6b6ac13753b65b55ee6fc671",
+          "question": "Which language is described as the vernacular?",
+          "answers": [
+            {
+              "answer_start": 562,
+              "text": "Italian"
+            }
+          ]
+        },
+        {
+          "id": "53e05f8d22ad8e4a5bdd81a48fb9ac3072d1af6e",
+          "question": "Whose books were written last?",
+          "answers": [
+            {
+              "answer_start": 352,
+              "text": "Petrarch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The end of medieval drama came about due to a number of factors, including the weakening power of the Catholic Church, the Protestant Reformation and the banning of religious plays in many countries. Elizabeth I forbid all religious plays in 1558 and the great cycle plays had been silenced by the 1580s. Similarly, religious plays were banned in the Netherlands in 1539, the Papal States in 1547 and in Paris in 1548. The abandonment of these plays destroyed the international theatre that had thereto existed and forced each country to develop its own form of drama. It also allowed dramatists to turn to secular subjects and the reviving interest in Greek and Roman theatre provided them with the perfect opportunity.",
+      "qas": [
+        {
+          "id": "c858d4c8708a106398b9ac28cbf5dc0945e62136",
+          "question": "Which place banned religious plays after 1539 and before 1548?",
+          "answers": [
+            {
+              "answer_start": 372,
+              "text": "the Papal States"
+            }
+          ]
+        },
+        {
+          "id": "4f8274428c3835149ffd4ef384028a6bed225be7",
+          "question": "Which place banned religious plays after 1547 and before 1558?",
+          "answers": [
+            {
+              "answer_start": 404,
+              "text": "Paris"
+            }
+          ]
+        },
+        {
+          "id": "3d0b600759e3f292ef8a387b11eed92a7cd32fd0",
+          "question": "Which place banned religious plays before 1547?",
+          "answers": [
+            {
+              "answer_start": 347,
+              "text": "the Netherlands"
+            }
+          ]
+        },
+        {
+          "id": "6f6862ff328062d8d372dca57195668cb6dbd5a1",
+          "question": "Who banned plays first, Paris or the Netherlands?",
+          "answers": [
+            {
+              "answer_start": 347,
+              "text": "the Netherlands"
+            }
+          ]
+        },
+        {
+          "id": "6e49e17a986309536e06fd980106b8b0c85e5c43",
+          "question": "Who banned plays first, the Netherlands or the Papal States?",
+          "answers": [
+            {
+              "answer_start": 347,
+              "text": "the Netherlands"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6271794905c7a6f54d089873"
+  },
+  "title": "Qing_dynasty",
+  "paragraphs": [
+    {
+      "context": "These years saw an evolution in the participation of Empress Dowager Cixi (Wade–Giles: Tz'u-Hsi) in state affairs. She entered the imperial palace in the 1850s as a concubine to the Xianfeng Emperor (r. 1850–1861) and came to power in 1861 after her five-year-old son, the Tongzhi Emperor ascended the throne. She, the Empress Dowager Ci'an (who had been Xianfeng's empress), and Prince Gong (a son of the Daoguang Emperor), staged a coup that ousted several regents for the boy emperor. Between 1861 and 1873, she and Ci'an served as regents, choosing the reign title \"Tongzhi\" (ruling together). Following the emperor's death in 1875, Cixi's nephew, the Guangxu Emperor, took the throne, in violation of the dynastic custom that the new emperor be of the next generation, and another regency began. In the spring of 1881, Ci'an suddenly died, aged only forty-three, leaving Cixi as sole regent.",
+      "qas": [
+        {
+          "id": "ed3828767a052e9b6e219d082cd509ad0a54a7fb",
+          "question": "Why was the \"Tongzhi\" title no longer accurate within a decade?",
+          "answers": [
+            {
+              "answer_start": 824,
+              "text": "Ci'an suddenly died"
+            }
+          ]
+        },
+        {
+          "id": "a10ecd11449508adc5daec6360c5d2837072920e",
+          "question": "What made the \"Tongzhi\" title inaccurate within a decade?",
+          "answers": [
+            {
+              "answer_start": 824,
+              "text": "Ci'an suddenly died"
+            }
+          ]
+        },
+        {
+          "id": "20fdc58b2b9b8b246049bf2309087c20584edda0",
+          "question": "What made the \"Tongzhi\" title obsolete within a decade?",
+          "answers": [
+            {
+              "answer_start": 824,
+              "text": "Ci'an suddenly died"
+            }
+          ]
+        },
+        {
+          "id": "83f5cd988fe06d9f0ac35df9b33fb275750796bf",
+          "question": "What, in the article, happened in the 75th year of the 19th century?",
+          "answers": [
+            {
+              "answer_start": 608,
+              "text": "the emperor's death"
+            }
+          ]
+        },
+        {
+          "id": "03343590d3511ffa5b838dda4618a0ee104da12c",
+          "question": "What, in the article, happened in the 81st year of the 19th century?",
+          "answers": [
+            {
+              "answer_start": 824,
+              "text": "Ci'an suddenly died"
+            }
+          ]
+        },
+        {
+          "id": "85481cf6b692d7342266c85418d1c8e9097844aa",
+          "question": "What was Cixi's title in the 73rd year of the 9th century?",
+          "answers": [
+            {
+              "answer_start": 570,
+              "text": "Tongzhi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "In 1884, pro-Japanese Koreans in Seoul led the Gapsin Coup. Tensions between China and Japan rose after China intervened to suppress the uprising. Japanese Prime Minister Itō Hirobumi and Li Hongzhang signed the Convention of Tientsin, an agreement to withdraw troops simultaneously, but the First Sino-Japanese War of 1895 was a military humiliation. The Treaty of Shimonoseki recognized Korean independence and ceded Taiwan and the Pescadores to Japan. The terms might have been harsher, but when Japanese citizen attacked and wounded Li Hongzhang, an international outcry shamed the Japanese into revising them. The original agreement stipulated the cession of Liaodong Peninsula to Japan, but Russia, with its own designs on the territory, along with Germany and France, in what was known as the Triple Intervention, successfully put pressure on the Japanese to abandon the peninsula.",
+      "qas": [
+        {
+          "id": "4d963c47764ad3b0bdd5dc56190963da75116c4f",
+          "question": "For whom did the people participating in the coup fight for?",
+          "answers": [
+            {
+              "answer_start": 147,
+              "text": "Japanese"
+            }
+          ]
+        },
+        {
+          "id": "e9b49601ddf34bfed50eed3d600da909f368a673",
+          "question": "Who provided aid to Korea?",
+          "answers": [
+            {
+              "answer_start": 77,
+              "text": "China"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Yet controlling the \"Mandate of Heaven\" was a daunting task. The vastness of China's territory meant that there were only enough banner troops to garrison key cities forming the backbone of a defense network that relied heavily on surrendered Ming soldiers. In addition, three surrendered Ming generals were singled out for their contributions to the establishment of the Qing dynasty, ennobled as feudal princes (藩王), and given governorships over vast territories in Southern China. The chief of these was Wu Sangui, who was given the provinces of Yunnan and Guizhou, while generals Shang Kexi and Geng Jingzhong were given Guangdong and Fujian provinces respectively.",
+      "qas": [
+        {
+          "id": "a6f16157aa3b3043373b1491880b844610d8ea6c",
+          "question": "Who was given Fuijan province?",
+          "answers": [
+            {
+              "answer_start": 599,
+              "text": "Geng Jingzhong"
+            }
+          ]
+        },
+        {
+          "id": "7f1c18cee47cd528197dc428349c9e367816586b",
+          "question": "What did they use to defend key cities?",
+          "answers": [
+            {
+              "answer_start": 231,
+              "text": "surrendered Ming soldiers"
+            }
+          ]
+        },
+        {
+          "id": "938b96b09bbcfce8fd7faa439d0752f2c06938a1",
+          "question": "Who was given governship over Southern China?",
+          "answers": [
+            {
+              "answer_start": 271,
+              "text": "three surrendered Ming generals"
+            }
+          ]
+        },
+        {
+          "id": "27ef4d5e99343a7303c5532bf6870bad0a9429af",
+          "question": "what are Yunnan and Guizhou?",
+          "answers": [
+            {
+              "answer_start": 536,
+              "text": "provinces"
+            }
+          ]
+        },
+        {
+          "id": "af23f741e4c9e012e1908cba5d656a2630ce45df",
+          "question": "What are Guangdong and Fujian?",
+          "answers": [
+            {
+              "answer_start": 646,
+              "text": "provinces"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "By the late 19th century, the most conservative elements within the Qing court could no longer ignore China's military weakness. In 1860, during the Second Opium War, the capital Beijing was captured and the Summer Palace sacked by a relatively small Anglo-French coalition force numbering 25,000. The advent of modern weaponry resulting from the European Industrial Revolution had rendered China's traditionally trained and equipped army and navy obsolete. The government attempts to modernize during the Self-Strengthening Movement were initially successful, but yielded few lasting results because of the central government's lack of funds, lack of political will, and unwillingness to depart from tradition.",
+      "qas": [
+        {
+          "id": "6378754b7ba5ffed93bf12e86162bfe7c2bd0b13",
+          "question": "Why was China's military deemed to be weak?",
+          "answers": [
+            {
+              "answer_start": 179,
+              "text": "Beijing was captured"
+            }
+          ]
+        },
+        {
+          "id": "de77d6706b61ce73699415c4612ca75813369ecf",
+          "question": "Who did the 25000 Anglo-French fight?",
+          "answers": [
+            {
+              "answer_start": 102,
+              "text": "China"
+            }
+          ]
+        },
+        {
+          "id": "1c6ba1209de44aca0eb39d7ef344935e5ac7a39d",
+          "question": "What further weakened China's military?",
+          "answers": [
+            {
+              "answer_start": 312,
+              "text": "modern weaponry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "To extend and consolidate the dynasty's control in Central Asia, the Kangxi Emperor personally led a series of military campaigns against the Dzungars in Outer Mongolia. The Kangxi Emperor was able to successfully expel Galdan's invading forces from these regions, which were then incorporated into the empire. Galdan was eventually killed in the Dzungar–Qing War. In 1683, Qing forces received the surrender of Taiwan from Zheng Keshuang, grandson of Koxinga, who had conquered Taiwan from the Dutch colonists as a base against the Qing. Zheng Keshuang was awarded the title \"Duke Haicheng\" (海澄公) and was inducted into the Han Chinese Plain Red Banner of the Eight Banners when he moved to Beijing. Several Ming princes had accompanied Koxinga to Taiwan in 1661-1662, including the Prince of Ningjing Zhu Shugui and Prince Zhu Honghuan (朱弘桓), son of Zhu Yihai, where they lived in the Kingdom of Tungning. The Qing sent the 17 Ming princes still living on Taiwan in 1683 back to mainland China where they spent the rest of their lives in exile since their lives were spared from execution. Winning Taiwan freed Kangxi's forces for series of battles over Albazin, the far eastern outpost of the Tsardom of Russia. Zheng's former soldiers on Taiwan like the rattan shield troops were also inducted into the Eight Banners and used by the Qing against Russian Cossacks at Albazin. The 1689 Treaty of Nerchinsk was China's first formal treaty with a European power and kept the border peaceful for the better part of two centuries. After Galdan's death, his followers, as adherents to Tibetan Buddhism, attempted to control the choice of the next Dalai Lama. Kangxi dispatched two armies to Lhasa, the capital of Tibet, and installed a Dalai Lama sympathetic to the Qing.",
+      "qas": [
+        {
+          "id": "25f81168a4e361c821584fe0110f6105aff3676a",
+          "question": "The awarded title was also written how?",
+          "answers": [
+            {
+              "answer_start": 593,
+              "text": "海澄公"
+            }
+          ]
+        },
+        {
+          "id": "240d23ddcd25a6e7d2baf521ac37b6a28eefa9fb",
+          "question": "The Dzungar-Qing War had who as a casuality?",
+          "answers": [
+            {
+              "answer_start": 311,
+              "text": "Galdan"
+            }
+          ]
+        },
+        {
+          "id": "9c3adc8b8aa32ed69bc1fc5b4894399961f3c572",
+          "question": "The Eight Banners decided to include who?",
+          "answers": [
+            {
+              "answer_start": 1257,
+              "text": "rattan shield troops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The Qing organization of provinces was based on the fifteen administrative units set up by the Ming dynasty, later made into eighteen provinces by splitting for example, Huguang into Hubei and Hunan provinces. The provincial bureaucracy continued the Yuan and Ming practice of three parallel lines, civil, military, and censorate, or surveillance. Each province was administered by a governor (巡撫, xunfu) and a provincial military commander (提督, tidu). Below the province were prefectures (府, fu) operating under a prefect (知府, zhīfǔ), followed by subprefectures under a subprefect. The lowest unit was the county, overseen by a county magistrate. The eighteen provinces are also known as \"China proper\". The position of viceroy or governor-general (總督, zongdu) was the highest rank in the provincial administration. There were eight regional viceroys in China proper, each usually took charge of two or three provinces. The Viceroy of Zhili, who was responsible for the area surrounding the capital Beijing, is usually considered as the most honorable and powerful viceroy among the eight.",
+      "qas": [
+        {
+          "id": "441de1dd29d85f60d383deb32a367c53d2dc4675",
+          "question": "What does 巡撫 mean in English?",
+          "answers": [
+            {
+              "answer_start": 384,
+              "text": "governor"
+            }
+          ]
+        },
+        {
+          "id": "e2b680a9eebe3644e8d647a27fe8152d4fa2640b",
+          "question": "What does 提督 mean in English?",
+          "answers": [
+            {
+              "answer_start": 411,
+              "text": "provincial military commander"
+            }
+          ]
+        },
+        {
+          "id": "c0cb0f19ea5e35b1d65ce490cfa524c13e57dec6",
+          "question": "What does 府 mean in English?",
+          "answers": [
+            {
+              "answer_start": 477,
+              "text": "prefectures"
+            }
+          ]
+        },
+        {
+          "id": "1ee7bb40f9e1284d89e2950e0b04bb7a805cc286",
+          "question": "What are the Chinese symbols for the word prefect?",
+          "answers": [
+            {
+              "answer_start": 524,
+              "text": "知府"
+            }
+          ]
+        },
+        {
+          "id": "df961f7b26fe001b53695706b0559202c2660dd1",
+          "question": "What are the Chinese symbols for the word viceroy or governor-general?",
+          "answers": [
+            {
+              "answer_start": 750,
+              "text": "總督"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "First, the Yongying system signaled the end of Manchu dominance in Qing military establishment. Although the Banners and Green Standard armies lingered on as a drain on resources, henceforth the Yongying corps became the Qing government's de facto first-line troops. Second, the Yongying corps were financed through provincial coffers and were led by regional commanders, weakening central government's grip on the whole country. Finally, the nature of Yongying command structure fostered nepotism and cronyism amongst its commanders, who laid the seeds of regional warlordism in the first half of the 20th century.",
+      "qas": [
+        {
+          "id": "b3246651e2b67301546d7a0b73c270df709d679f",
+          "question": "How were the Qing Goverment's de facto first-line troops sustained before changing their name?",
+          "answers": [
+            {
+              "answer_start": 308,
+              "text": "through provincial coffers and were led by regional commanders"
+            }
+          ]
+        },
+        {
+          "id": "ce71adfd67391569fd8c2ba17df042aca8ea8021",
+          "question": "What was a negative point, not taking into account the central government's grip, of the Qing government's de facto first-line troops before changing their name?",
+          "answers": [
+            {
+              "answer_start": 489,
+              "text": "nepotism and cronyism amongst its commanders, who laid the seeds of regional warlordism in the first half of the 20th century"
+            }
+          ]
+        },
+        {
+          "id": "a9efcdae0cf486e5e55b9ca2e8cbe656b9ccba18",
+          "question": "Why did the Yonging Corps change their structure to the Quing Government's de Facto First-Line troops taking into account money issues only?",
+          "answers": [
+            {
+              "answer_start": 279,
+              "text": "Yongying corps were financed through provincial coffers and were led by regional commanders, weakening central government's grip on the whole country"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Relocating his court from Jianzhou to Liaodong provided Nurhachi access to more resources; it also brought him in close contact with the Khorchin Mongol domains on the plains of Mongolia. Although by this time the once-united Mongol nation had long since fragmented into individual and hostile tribes, these tribes still presented a serious security threat to the Ming borders. Nurhachi's policy towards the Khorchins was to seek their friendship and cooperation against the Ming, securing his western border from a powerful potential enemy.",
+      "qas": [
+        {
+          "id": "fa5e9d5c8be4f520b1276780696a299283e973d3",
+          "question": "What were the consequences Nuarchi had due to the relocation of the court to Liaodong?",
+          "answers": [
+            {
+              "answer_start": 65,
+              "text": "access to more resources; it also brought him in close contact with the Khorchin Mongol domains"
+            }
+          ]
+        },
+        {
+          "id": "1c1f36abc544db7ab125dd232607bdde906afdc8",
+          "question": "What happened in the time the Nurhachi's court was relocated to Liadong?",
+          "answers": [
+            {
+              "answer_start": 210,
+              "text": "the once-united Mongol nation had long since fragmented into individual and hostile tribes"
+            }
+          ]
+        },
+        {
+          "id": "e07fb5dfb35f0eca68d8c0d9554b3b6cfa1eb30a",
+          "question": "Why did the leader of the Liadong territory had to seek allies to fight a potential power army?",
+          "answers": [
+            {
+              "answer_start": 286,
+              "text": "hostile tribes, these tribes still presented a serious security threat to the Ming borders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "The reign of the Qianlong Emperor (1735–1796) saw the apogee and initial decline in prosperity and imperial control. The population rose to some 400 million, but taxes and government revenues were fixed at a low rate, virtually guaranteeing eventual fiscal crisis. Corruption set in, rebels tested government legitimacy, and ruling elites did not change their mindsets in the face of changes in the world system. Following the Opium War, European powers imposed unequal treaties, free trade, extraterritoriality and treaty ports under foreign control. The Taiping Rebellion (1850–64) and Dungan Revolt (1862–77) in Central Asia led to the deaths of some 20 million people. In spite of these disasters, in the Tongzhi Restoration of the 1860s, Han Chinese elites rallied to the defense of the Confucian order and the Qing rulers. The initial gains in the Self-Strengthening Movement were destroyed in the First Sino-Japanese War of 1895, in which the Qing lost its influence over Korea and the possession of Taiwan. New Armies were organized, but the ambitious Hundred Days' Reform of 1898 was turned back by Empress Dowager Cixi, a ruthless but capable leader. When, in response to the violently anti-foreign Yihetuan (\"Boxers\"), foreign powers invaded China, the Empress Dowager declared war on them, leading to defeat and the flight of the Imperial Court to Xi'an.",
+      "qas": [
+        {
+          "id": "d0ce1e71424fcb6a3a3561dcdc2479d74aa78510",
+          "question": "What was one of the events that helped lead to the deaths of 20 million people: Dungan Revolt or The First Sino-Japanese War?",
+          "answers": [
+            {
+              "answer_start": 588,
+              "text": "Dungan Revolt"
+            }
+          ]
+        },
+        {
+          "id": "c8ed0126e5adfccedc66abe6f76fba72561169e8",
+          "question": "What did the European leaders unequally impose after the Opium War: free trade or taxes?",
+          "answers": [
+            {
+              "answer_start": 480,
+              "text": "free trade"
+            }
+          ]
+        },
+        {
+          "id": "aaed9dc8bdaf2d83ef89408825e9cb758af5a140",
+          "question": "Why did Cixi declare war?",
+          "answers": [
+            {
+              "answer_start": 1230,
+              "text": "foreign powers invaded China"
+            }
+          ]
+        },
+        {
+          "id": "01146895f53d42cba69ac118d8fe9a2b711a36ed",
+          "question": "What eventually happened to the Empress Dowager Cixi's empire?",
+          "answers": [
+            {
+              "answer_start": 1313,
+              "text": "defeat and the flight of the Imperial Court to Xi'an"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]

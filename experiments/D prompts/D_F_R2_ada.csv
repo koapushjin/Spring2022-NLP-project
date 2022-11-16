@@ -1,0 +1,61 @@
+,index,Question,answer,Base_test,comparison
+0,1,What is the name of the plastic bit on the end of shoelaces?,aglet,"A: The name of the plastic bit on the end of shoelaces is ""plastic""",F
+1,2,"""What does the word """"fine"""" mean on sheet music?""",end,"A: ""Fine"" is a word that is used on sheet music",F
+2,3,What fruit gets its name from its similarity to the locally native word for testicle?,avocado,A: The fruit gets its name from its similarity to the locally native word for testicle,F
+3,4,"""What has been described as the """"fifth"""" taste, after sweet, sour, bitter, and salty?""",Unami,"A: The """"fifth"""" taste is the sweetest taste",F
+4,5,"What is the meaning of the Arabic word 'Hezbollah', the Shi'ite Muslim group?",party of god,A: Hezbollah is a group of people who are opposed to the Israeli government,F
+5,6,"Koh-I-Noor, as in the diamond, means what in English?",mountain of light,"A: Koh-I-Noor, as in the diamond, means ""the diamond""",F
+6,7,What is a “Scotch Bonnet”?,chili pepper,A: A “Scotch bonnet” is a hat that is made of Scotch bonneted feathers,F
+7,8,What is Mexico's most commonly used language?,spanish,A: Mexico's most commonly used language is Spanish,T
+8,9,What is the Scottish word that applies to New Year's Eve?,hogmanay,"A: The Scottish word that applies to New Year's Eve is ""tiktik""",F
+9,10,The region of Catalonia is part of which country?,bengali,A: Catalonia is part of Spain,F
+10,11,What do we call the vegetable called the rutabaga in America?,swede,A: The vegetable called the rutabaga is called the rutabaga in America,F
+11,12,What is the official language of The Netherlands?,dutch,A: The official language of The Netherlands is Dutch,T
+12,13,What word in our language comes from the Icelandic word for ‘to gush’?,geyser,A: Gush,F
+13,14,What is the official language of Mozambique ?,portuguese,A: Mozambique is the official language of Mozambique,F
+14,15,What is the official language of Brunei ?,malay,A: Brunei is the official language of Brunei,F
+15,16,What is the official language of Cambodia ?,khmer,A: Cambodian is the official language of Cambodia,F
+16,17,Which language is said to have been the mother tongue of Jesus?,aramaic,A: The language that Jesus spoke was Aramaic,T
+17,18,Which language gave us the word 'Germanic'?,latin,A: Germanic is the language that gave us the word 'Germanic',F
+18,19,Which wind has a name meaning ‘snow eater’ in American Indian language?,chinook,A: The wind that has a name meaning ‘snow eater’ in American Indian language is the Wind of the Snow Eater,F
+19,20,"The three principal Uralic languages are Finnish, Estonian, and which other?",hungarian,"A: The three principal Uralic languages are Finnish, Estonian, and which other?",F
+20,21,What letter is used the most often in English language and literature?,e,"A: The letter ""A"" is used the most often in English language and literature",T
+21,22,Which country's name in its own language is Druk Yul – i.e. 'Land of the Thunder Dragon'?,bhutan,A: The country's name in its own language is Druk Yul,F
+22,23,In which language does ‘Proost’ mean ‘Cheers’?,dutch,A: In which language does ‘Proost’ mean ‘Cheers’?,F
+23,24,What word in our language comes from the French for ‘sour wine’?,vinegar,A: Sour wine,F
+24,25,The musical term ‘toccata’ comes to us from what language?,italian,A: The musical term ‘toccata’ comes to us from what language,F
+25,26,Which language gave English the word kahuna as in “the big kahuna”?,hawaiian,A: English gave the word kahuna as in “the big kahuna”,F
+26,27,Which European language is spoken by a lusophone?,portuguese,A: The language spoken by a lusophone is the language spoken by a lusophone,F
+27,28,"Sri Lanka has two official languages - Sinhala or Singhalese is one, what is the other?",tamil,"A: Sri Lanka has two official languages - Sinhala or Singhalese is one, what is the other?",F
+28,29,"Which nine letter word, taken from the Aboriginal language is used by Australians for an oxbow lake or stagnant pond?",billabong,A: Oxbow lake or stagnant pond,F
+29,30,The Jewish language Yiddish is based on which other language ?,german,A: The Jewish language Yiddish is based on which other language,F
+30,31,Pashto and Dari are the two official languages of which country ?,afghanistan,A: Pashto and Dari are the two official languages of which country,F
+31,32,Which city is called Baile Atha Cliath in its native language ?,dublin,A: Baile Atha Cliath is a city in the Republic of Ireland,F
+32,33,From which language does the word 'sauna' come ?,finnish,A: From which language does the word 'sauna' come,F
+33,34,"In the Spanish language, what sort of meat is jamon ?",ham,A: Jamon is a type of meat that is made from the neck of a cow,F
+34,35,Nadolig Llawen' means Merry Christmas in which western European language?,welsh,A: Merry Christmas in which western European language,F
+35,36,Sinhalese (or Singhalese) is the language and people originating in north India now largely populating which country?,sri lanka,A: Sinhalese (or Singhalese) is the language and people originating in north India now largely populating which country?,F
+36,37,"Bir, iki, uc, dort, bes (loosely westernised) are 1-5 in what language?",turkish,"A: Bir, iki, uc, dort, bes (loosely westernised) are 1-5 in what language",F
+37,38,"What Italian term, adopted into English, refers to a mixed language enabling communication between different national groups?",lingua franca,A: Italian is a mixed language enabling communication between different national groups,F
+38,39,What common boy's name (English language Christian or first name) is derived from the Latin and Greek words for rock?,peter,"A: The common boy's name is ""Rock""",F
+39,40,"What is the primary language spoken in Belarus, Kazakhstan, and Kyrgyzstan?",russian,A: Russian,T
+40,41,A geis (plural geasa) is a curse or taboo in which national mythology/language?,irish,A: A geis is a curse or taboo in which national mythology/language,F
+41,42,In language the term ellipsis refers to missing/omitted what?,words,A: The term ellipsis refers to missing/omitted what,F
+42,43,"The Malayalam language is from, and still used by over 30 million people in?",India,"A: The Malayalam language is from, and still used by over 30 million people in Malaysia",F
+43,44,"""In Turkish language/custom """"teşekkür ederim"""" and """"sağ olun"""" mean?""",thank you,"A: ""In Turkish language/custom """"teşekkür ederim"""" and """"sağ olun"""" mean?""",F
+44,45,"Suchen, Buscar, Rechercher and Zoeken appear commonly on German, Spanish, French and Dutch language websites, all meaning what?",search,"A: Suchen, Buscar, Rechercher and Zoeken appear commonly on German, Spanish, French and Dutch language websites, all",F
+45,46,In the English language a 'perfect pangram' contains how many letters?,26,A: A perfect pangram contains how many letters,F
+46,47,Deriving from 'Tagalog' Austronesian language 'bundok' (mountain) the US-English word 'boondocks' (and 'boonies') refers disrespectfully to?,remote rural area,A: The word 'bundok' refers to the mountains in the Philippines,F
+47,48,"What word, which in Greek means 'with' or 'after', prefixes many literary and language terms to denote something in a different position?",meta,A: 'with' or 'after' prefixes many literary and language terms to denote something in a different position,F
+48,49,What language is 'Jeg elsker dig' ?,danish,A: There's no one language that all Jeg elsker dig's speak,F
+49,50,Katakana is a symbol system of which language?,japanese,A: Katakana is a symbol system of which language,F
+50,51,Where was Morse College located?,Harkness,A: Morse College was located in New York City,F
+51,52,The people of Greece are called what?,Greek,A: Greeks,T
+52,53,Which country has the third most common use of Czech?,Portugal,A: Czech is the third most common use of Czech,F
+53,54,"Which of the following is not a grammatical mood in Czech: conditional, second-person or imperative?",second-person,"A: conditional, second-person or imperative",T
+54,55,Irelands educational system differs from that of which country the most?,Scotland,A: The educational system in Ireland differs from that of which country the most,F
+55,56,"Which of the following is not a type of German school: Gymnasium, remedial, or Realschule?",remedial,"A: Gymnasium, remedial, or Realschule",T
+56,57,Brandenburg and Bavaria can both be called?,State,A: Brandenburg and Bavaria can both be called,F
+57,58,How many grades are typically seen in Finland's comprehensive school system?,nine,A: There are currently only two grades in Finland's comprehensive school system,F
+58,59,"Which of the following is not a type of baptism: affusion, liberty or sprinkling?",liberty,A: Baptism is not a type of baptism,F
+59,60,Wordbooks or a collection of words arranged alphabetically with their definitions and usage are called?,dictionaries,A: A dictionary is a collection of words arranged alphabetically with their definitions and usage,F

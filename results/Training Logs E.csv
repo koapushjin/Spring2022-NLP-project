@@ -1,0 +1,63 @@
+ ,domain select ,,prompt learning method,,result,,after adding commons
+C,"Health, Science, Nutrition, Psychology",,d1: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.529412           0.470588           0.392157",,
+C,"Economics, Finance, Statistics, Advertising",,R2: 0-shot,,0.05,,
+D,"Politics,Law",,d1: 0-shot,,"BLEURT acc  bleu acc  rouge1 acc
+0.527132  0.248062    0.232558",,
+D,"Politics,Law",,R2: 0-shot,,0.03,,
+A,"Myths,Fiction",,R2: 0-shot,,"0.01
+😰",,
+A,"Myths,Fiction",,0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+0.529412          0.411765            0.411765",,
+E->A,"History,Religion -> Myths,Fiction",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.764706              0.490196           0.54902
+😃",,"BLEURT acc        bleu acc           rouge1 acc 
+0.27451  0.196078    0.176471"
+E->A,"History,Religion -> Myths,Fiction",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.431373                0.333333           0.372549",,"BLEURT acc        bleu acc           rouge1 acc 
+0.509804  0.431373    0.392157"
+E ,"History,Religion",,5 d1 ->all remaining d1,,"BLEURT acc        bleu acc           rouge1 acc 
+0.441176            0.205882          0.294118
+😰",,
+E,"History,Religion",,0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+0.538462            0.307692           0.282051",,
+E,"History,Religion",,d1->R1,,"0.17
+😰",,
+E->A,"History,Religion -> Myths,Fiction",,d1->R2,,"0.07
+😰",,0.32 (curie)
+E-D,"History,Religion ->Politics,Law",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.232558            0.255814               0.20155",,"BLEURT acc        bleu acc           rouge1 acc 
+0.341085  0.224806     0.24031"
+E-D,"History,Religion ->Politics,Law",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.286822            0.24031            0.209302",,"BLEURT acc        bleu acc           rouge1 acc 
+0.325581   0.24031     0.27907"
+E-D,"History,Religion ->Politics,Law",,d1->R2,,0.09,,
+E->C,"History,Religion ->Economics, Finance, Statistics, Advertising",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.482759            0.362069         0.396552",,"BLEURT acc        bleu acc           rouge1 acc 
+0.413793  0.241379    0.344828"
+E->C,"History,Religion ->Economics, Finance, Statistics, Advertising",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.362069       0.258621       0.327586
+",,"BLEURT acc        bleu acc           rouge1 acc 
+0.362069  0.189655    0.224138"
+E->C,"History,Religion ->Economics, Finance, Statistics, Advertising",,d1->R2,,0.09,,
+E->F,"History,Religion ->Language,Education",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.451613         0.387097              0.322581",,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.580645  0.483871    0.451613"
+E->F,"History,Religion ->Language,Education",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.354839         0.193548          0.290323
+",,"BLEURT acc        bleu acc           rouge1 acc 
+0.419355  0.129032    0.322581"
+E->F,"History,Religion ->Language,Education",,d1->R2,,0.2,,
+F,"Language,Education",,0-shot,,s,,
+F,"Language,Education",,R2: 0-shot,,0.13,,
+E->B,"History,Religion ->Health, Science, Nutrition, Psychology",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+0.363636  0.343434     0.30303
+",,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.323232  0.212121    0.262626"
+E->B,"History,Religion ->Health, Science, Nutrition, Psychology",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.484848  0.484848    0.494949",,"BLEURT acc        bleu acc           rouge1 acc 
+0.353535  0.242424    0.292929"
+E->B,"History,Religion ->Health, Science, Nutrition, Psychology",,d1->R2,,0.09,,
+B,"Health, Science, Nutrition, Psychology",,0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+0.529412  0.294118    0.382353",,
+B,"Health, Science, Nutrition, Psychology",,R2: 0-shot,,0.02,,

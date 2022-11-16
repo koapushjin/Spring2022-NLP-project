@@ -1,0 +1,102 @@
+,dataset,question,answer,Base_test,comparison
+0,triviaQA_un,Which fictional character's first name was Endeavour?,inspector morse,"Endeavour was the first character to be created by the author of the novel ""The Secret of NIMH""",F
+1,triviaQA_un,Who was the queen of the Brigantes who handed Caractacus over to the Romans?,cartimandua,Brigantes were a tribe of Celtic people who lived in the area of modern-day Ireland,F
+2,triviaQA_un,The Egyptian god Bastet had the head of which animal?,cat,The head of a lion,F
+3,triviaQA_un,"Which 20th century novel contains the characters Tom Robinson, Dill and Calpurnia?",to kill mockingbird,"The characters Tom Robinson, Dill and Calpurnia were all fictional",F
+4,triviaQA_un,Which Jane Austen novel features Mr Knightley and Frank Churchill?,emma,Jane Austen's novel features Mr Knightley and Frank Churchill,F
+5,triviaQA_un,Little Nell is a character in which Dickens novel?,old curiosity shop,"Little Nell is a character in the novel ""Little Nell"" by Charles Dickens",F
+6,triviaQA_un,"In fiction, who lives at 4 Privet Drive, Little Whinging?",harry potter,"The character of the character lives at 4 Privet Drive, Little Whinging",F
+7,triviaQA_un,Which fictional character lived in the village of Puddleby-on-the-Marsh?,dr doolittle,The village of Puddleby-on-the-Marsh was a fictional character,F
+8,triviaQA_un,"In fiction, at what address did housekeeper Mrs Hudson live?",221b baker street,"Mrs Hudson lived at the address of the housekeeper in the novel ""Housekeeper""",F
+9,triviaQA_un,"Who, in literary fiction, were Peter, Phyllis and Roberta?",railway children,"Peter, Phyllis and Roberta were fictional characters",F
+10,triviaQA_un,"Name the science fiction author of 'I, Robot'.",isaac asimov,Isaac Asimov,T
+11,triviaQA_un,"Who is the fictional detective, known as the female James Bond, created by Peter O'Donnell?",modesty blaise,"The fictional detective, known as the female James Bond, created by Peter O'Donnell",F
+12,triviaQA_un,"In Greek mythology, Elektra was the daughter of which king?",agamemnon,The king of the underworld was the son of Elektra,F
+13,triviaQA_un,Brer Rabbit stories originated as Cherokee myths but which author compiled the Brer Rabbit stories?,joel chandler harris,The Cherokee people were the first to use the Cherokee language,F
+14,triviaQA_un,In Greek Mythology who was the Goddess of the Underworld?,persephone,The Goddess of the Underworld was the daughter of Zeus and Hera,F
+15,triviaQA_un,"In Norse mythology, who was the consort of Odin?",freya,The consort of Odin was the goddess Freyja,F
+16,triviaQA_un,What was the home of the gods in Norse mythology?,asgard,The home of the gods was in the land of the gods,F
+17,triviaQA_un,What is the national epic poem of Finland (usually translated as 'Land of Heroes'). Sibelius set some of its myths to music in his tone poems.,kalevala,"The national epic poem of Finland is Sibelius' ""The Nightingale""",F
+18,triviaQA_un,In Greek mythology who drowned while swimming the Hellespont?,leander,The hero of the Greek myth was a man who drowned while swimming the Hellespont,F
+19,triviaQA_un,In Greek myth who was the mother of Oedipus?,jocasta,The mother of Oedipus was the wife of King Priam,F
+20,triviaQA_un,In Greek mythology who was the wife of Odysseus?,penelope,Odysseus' wife was the daughter of the king of Ithaca,F
+21,triviaQA_un,Which Greek mythological giant had 100 eyes?,argus,The first Greek mythological giant had 100 eyes,F
+22,triviaQA_un,Which mythical creature had the head and body of a lion and eagles wings?,griffin,The mythical creature had the head and body of a lion and eagles wings,F
+23,triviaQA_un,In Greek Mythology what was the name of the prophetess daughter of Priam whose predictions were never believed?,cassandra,Priam's daughter was called Priam's daughter,F
+24,triviaQA_un,Who was the beautiful girl loved by Eros in Greek mythology? Her name means 'spirit' or 'life' in Greek.,psyche,Eros was the beautiful girl loved by Eros in Greek mythology,F
+25,triviaQA_un,In Greek Mythology who was the ill-fated lover of Hero?,leander,The ill-fated lover of Hero was the son of Zeus,F
+26,triviaQA_un,In mythology how long was Troy besieged?,10 years,"The siege of Troy lasted for about 2,000 years",F
+27,triviaQA_un,"In Greek myth, who led the quest to find the Chrysomallos?",jason,The quest to find the Chrysomallos was led by a man named Phaedrus,F
+28,triviaQA_un,"In Greek mythology, who was the goddess of the moon, sometimes identified as Artemis?",selene,Artemis was the goddess of the moon,F
+29,triviaQA_un,"In Greek mythology who fell from Pegasus as he attempted to fly to Mount Olympus, the realm of the gods?",bellerophon,Pegasus fell from the sky as he attempted to fly to Mount Olympus,F
+30,triviaQA_un,Who was the mother of the Greek mythological hero Perseus?,danae,Perseus was the son of Perseus and Andromeda,F
+31,triviaQA_un,"Who, in an ancient myth, removed a thorn from a lion's paw?",androcles,The lion was removed from the paw of a man,F
+32,triviaQA_un,"In Norse mythology, from what type of tree was man first created?",ash,The first tree was a birch tree,F
+33,triviaQA_un,German Brothers Wilhelm and Jacob wrote which book in 1812?,grimms fairy tales,"Wilhelm and Jacob wrote the book ""The German Revolution""",F
+34,triviaQA_un,"In the fairy tale ‚ÄòThe Princess and the Pea‚Äô, how many mattresses did the princess sleep on and still feel the pea through?",twenty,The princess slept on three mattresses,F
+35,triviaQA_un,Rashin-Coatie is the Scottish version of which fairy tale?,cinderella,The Rashin-Coatie is the Scottish version of which fairy tale?,F
+36,triviaQA_un,Who wrote the 1973 novel ‚ÄòA Fairy Tale of New York‚Äô?,j p donleavy,The novel was written by a man named John Irving,F
+37,triviaQA_un,Which Hans Christian Andersen fairy tale features 20 mattresses?,princess and pea,The story of the 20 mattresses is a fairy tale,F
+38,triviaQA_un,"What is the surname of the famous German brother fairy tale writers, Jacob and Wilhelm?",grimm,Jacob and Wilhelm Grimm,T
+39,triviaQA_un,"The 2013 Disney animation Frozen is based on what Hans Christian Andersen fairy tale, in Danish 'Snedronningen'?",snow queen,The 2013 Disney animated film Frozen is based on the fairy tale 'Snedronningen',F
+40,triviaQA_un,Which German brothers published fairy tales in the 19th century?,grimm,The brothers Grimm published fairy tales in the 19th century,T
+41,triviaQA_un,"""In the fairy tale """"Sleeping Beauty"""", who kissed the princess to wake her up?""",handsome prince,The princess kissed the prince to wake her up,F
+42,triviaQA_un,"""Whose fairy tale """"The Snow Queen"""" was the inspiration for the movie """"Frozen""""?""",hans christian andersen,"The Snow Queen was inspired by the fairy tale """"The Snow Queen""""",F
+43,triviaQA_un,"In fairy tales, who is Gretel's brother?",hansel,Gretel's brother is the prince of the fairy tale,F
+44,triviaQA_un,What American fairy tale character fell asleep for twenty years?,rip van winkle,Cinderella,F
+45,triviaQA_un,In which of Grimm's fairy tales does the wicked witch end up in the oven?,hansel and gretel,"In the story ""The Witch of the Woods"" the wicked witch ends up in the oven",F
+46,triviaQA_un,What is the only non-fictional country visited by Gulliver in his travels?,japan,The only non-fictional country visited by Gulliver in his travels is the United States,F
+47,triviaQA_un,"John Jarndyce and Honoria, Lady Dedlock are major characters in which Dickens novel?",bleak house,"John Jarndyce and Honoria, Lady Dedlock are major characters in which Dickens novel",F
+48,triviaQA_un,Who was the Roman god of sleep?,somnus,The Roman god of sleep was the god of sleep,F
+49,triviaQA_un,Which American-born Sinclair won the Nobel Prize for Literature in 1930?,sinclair lewis,Sinclair Lewis won the Nobel Prize for Literature in 1930,T
+50,triviaQA_un,Which William wrote the novel Lord Of The Flies?,golding,Lord Of The Flies was written by William Golding,T
+51,triviaQA_un,When did the founder of Jehovah's Witnesses say the world would end?,1914,The founder of Jehovah's Witnesses said the world would end in 2029,F
+52,triviaQA_un,Who wrote the novel Evening Class?,maeve binchy,The novel Evening Class was written by a man named John Updike,F
+53,triviaQA_un,Which series had the characters Felix Unger and Oscar Madison?,odd couple,Felix Unger and Oscar Madison were the characters in the series,F
+54,triviaQA_un,Who had the noels Spy Hook and Spy Line published in the 80s?,len deighton,Spy Hook and Spy Line were published in the 80s,F
+55,triviaQA_un,Who wrote The Turn Of The Screw in the 19th century and The Ambassadors in the 20th?,henry james,The Turn Of The Screw was written by Henry James,T
+56,triviaQA_un,What was John Glenn/'s first spacecraft called?,friendship 7,John Glenn was the first person to fly in space,F
+57,triviaQA_un,"Who wrote the novel Cry, the Beloved Country about South Africa?",alan paton,"The novel Cry, the Beloved Country was written by a South African",F
+58,triviaQA_un,Who wrote the novel The Go Between?,l p hartley,The novel The Go Between was written by a man named John Galsworthy,F
+59,triviaQA_un,Which American wrote The Game of Chess in 1959?,bobby fischer,The Game of Chess was written by a man named John G. Kapp,F
+60,triviaQA_un,"""""""Last night I dreamt I went to Manderley again,"""" was the first line of what Daphne du Maurier novel?""",rebecca,"The first line of the novel was ""Last night I dreamed I went to Manderley again""",F
+61,triviaQA_un,"How many husbands did the Wife of Bath have, as reported in Chaucer's Canterbury Tales?",five,There were at least two wives in Chaucer's Canterbury Tales,F
+62,triviaQA_un,"""What words did Lewis Carroll combine to come up with the term """"chortle"""" in Through a Looking-Glass?""",chuckle and snort,"""chortle"" is a combination of ""chortle"" and ""chortle""",F
+63,triviaQA_un,"""Shakespeare wrote that """"brevity is the soul of wit."""" What did noted wit Dorothy Parker say it was?""",soul of lingerie,"""Shakespeare wrote that """"brevity is the soul of wit."""" What did noted wit Dorothy Parker say it was?""",F
+64,triviaQA_un,What is the native country of Agatha Chrisitie's detective Hercule Poirot?,belgium,Agatha Christie's detective Hercule Poirot is from the United Kingdom,F
+65,triviaQA_un,"In the Robin Hood stories, what was the real name of Little John?",john little,Little John was the name of the real Little John,F
+66,triviaQA_un,The Last Of The Really Great Whangdoodles and Mandy are children's books written by what well-known Oscar-winning actress?,julie andrews,The Last Of The Really Great Whangdoodles and Mandy are children's books written by the award-winning actress Meryl Streep,F
+67,triviaQA_un,By what pseudonym is writer Frederick Dannay Manfred Bennington Lee better known?,ellery queen,Frederick Dannay Manfred Bennington Lee is better known as Frederick Manfred Bennington Lee,F
+68,triviaQA_un,How many times did Ernest Hemingway revise the last page of A Farewell To Arms?,39 times,Hemingway revised the last page of A Farewell To Arms more than once,F
+69,triviaQA_un,"""What famous book begins: """"Chug, chug, chug. Puff, puff, puff""""?""",little engine that could,"""The Great Gatsby"" by F. Scott Fitzgerald",F
+70,triviaQA_un,"To whom did Herman Melville dedicate his novel, Moby Dick?",nathanial hawthorne,"Herman Melville dedicated his novel, Moby Dick to his friend, the poet William Carlos Williams",F
+71,triviaQA_un,How many years did Robinson Crusoe spend shipwrecked on his island?,24,Robinson Crusoe spent about ten years on his island,F
+72,triviaQA_un,What was the name of the pig leader in George Orwell's Animal Farm?,napoleon,"The name of the pig leader in George Orwell's Animal Farm was ""Piggy""",F
+73,triviaQA_un,"In the Little Orphan Annie comic strip, what was the name of Daddy Warbucks's Giant bodyguard who wore a turban?",punjab,"The name of the Giant bodyguard was ""The Turban Guy""",F
+74,triviaQA_un,The Terror of the Monster was an early title for a best-selling novel which inspired one of the highest-grossing movies of the mid-70's. Under what name did it eventually terrify the reading and film going public?,jaws,The Terror of the Monster was a best-selling novel which inspired one of the highest-grossing movies of the mid-70's,F
+75,triviaQA_un,Who wrote the story upon which Alfred Hitchcock based his 1963 suspense film The Birds?,daphne du maurier best known for rebecca,Alfred Hitchcock wrote the story upon which Hitchcock based his 1963 suspense film The Birds,F
+76,triviaQA_un,The diet of what mythical monster periodically included seven youths and seven maidens?,minotaur s,The diet of what mythical monster included seven youths and seven maidens,F
+77,triviaQA_un,"In Greek mythology, who was the goddess of the rainbow?",iris,The goddess of the rainbow was the daughter of the god of the night and the goddess of the day,F
+78,triviaQA_un,"In ancient Athens, what tree was considered sacred -- with all its fruit belonging to the state, and death the penalty for anyone caught cutting one down?",olive tree,The sacred tree was the oak,F
+79,triviaQA_un,"What legendary fire-breathing female monster had a lion's head, a goat's body and a dragon's tail?",chimera,"The legendary fire-breathing female monster had a lion's head, a goat's body and a dragon's tail",F
+80,triviaQA_un,"According to legend, who fired the arrow that hit Achilles in the heel, his only vulnerable spot?",paris,Achilles was shot by his own brother,F
+81,triviaQA_un,"In Greek mythology, who was the queen of the underworld and wife of Hades?",persephone,Persephone was the wife of Hades,T
+82,triviaQA_un,Who wrote the novel Delta Connection?,hammond innes,The novel Delta Connection was written by a man named John Steinbeck,F
+83,triviaQA_un,Who is the clown in Shakespeare's 'Twelfth Night'?,feste,The clown is a character in the play,F
+84,triviaQA_un,"""Who wrote the book """"The Brothers Karamazov""""?""",dostoyevsky,"Ivan Karamazov wrote the book ""The Brothers Karamazov""",F
+85,triviaQA_un,"In mythology, which winged horse did Bellerophon ride?",pegasus,Bellerophon rode a winged horse,F
+86,triviaQA_un,"In children's literature, which car did Commander Caractacus Potts drive?",chitty chitty bang bang,The car that Commander Caractacus Potts drove was a Ford Model T,F
+87,triviaQA_un,"""Whose ghost was at the dinner table in """"Macbeth""""?""",banquo s,"The ghost of the murdered King Duncan was at the dinner table in """"Macbeth""""",F
+88,triviaQA_un,"""Who wrote the novel """"Mansfield Park""""?""",jane austen,"""Mansfield Park"" was written by Charles Dickens",F
+89,triviaQA_un,"Which French writer published the collection of fairy tales `Contes de ma mere l'Oye', better known as Mother Goose?",charles perrault,"Jean-Baptiste L'Ouvrier published the collection of fairy tales `Contes de ma mere l'Oye', better known as Mother Goose",F
+90,triviaQA_un,The operas 'La Cenerentola' by Rossini and 'Cendrillon' by Massenet are based on the fairy tale Cinderella by whom?,charles perrault,The operas 'La Cenerentola' by Rossini and 'Cendrillon' by Massenet are based on the fairy tale Cinderella by whom?,F
+91,triviaQA_un,Who wrote the fairy tale The Princess and the Pea?,hans christian anderson,The Princess and the Pea was written by a man named John Bunyan,F
+92,triviaQA_un,Rose-Red is whose sister in the German fairy tale?,snow white,Rose-Red is the sister of the German fairy tale,F
+93,triviaQA_un,Which classic fairy tale was first published in written form by Poet Laureate Robert Southey in 1837?,goldilocks,The first published fairy tale was written by Robert Southey in 1837,F
+94,triviaQA_un,"In 1954 the British genius Alan Turing was found dead with a half-eaten apple next to his body. Although the apple was not tested for cyanide, the cause of his death was established as cyanide poisoning. It was suggested that Turing was re-enacting a scene from which 1937 film that was based on his favorite (and universally loved) fairy tale?",snow white,Alan Turing was found dead with a half-eaten apple next to his body,F
+95,triviaQA_un,Which Norwegian fairy tale is about three goats who want to cross a bridge under which lurks a fearsome troll?,three billy goats gruff,The Norwegian fairy tale is about three goats who want to cross a bridge under which lurks a fearsome troll,F
+96,triviaQA_un,In which Grimm's fairy tale does a prince climb up a maiden's hair?,rapunzel,In which Grimm's fairy tale does a prince climb up a maiden's hair?,F
+97,triviaQA_un,"In the fairy tale 'Snow White...', how many dwarfs were there?",7,There were three dwarfs in the story,F
+98,triviaQA_un,"According to the fairy tale Goldilocks, whose bed was too hard?",papa bear,Goldilocks was a girl who was too hard,F
+99,triviaQA_un,"According to the fairy tale Cinderella, what vegetable gets turned into the carriage?",pumpkin,The vegetable gets turned into the carriage,F
+100,triviaQA_un,German Brothers Wilhelm and Jacob wrote which book in 1812?,grimms fairy tales,"Wilhelm and Jacob wrote the book ""The German Revolution""",F

@@ -1,0 +1,137 @@
+,Answer.NormalizedMatchedWikiEntityName,answer,Question,Base_test,comparison
+0,spartacus,spartacus,What gladiator famously led a slave revolt against Rome?,A: The gladiator led a slave revolt against Rome,F
+1,christianity,christianity,The Council of Trent in the 16th century was held between believers of what religious faith?,A: The Council of Trent was held between Christians of what religious faith,F
+2,niagara falls,niagara falls,Matthew Webb swam the English Channel and then drowned swimming where?,A: In the English Channel,F
+3,tartaric acid,tartaric acid,Which acid is contained in Grapes?,A: Acid is contained in grapes,F
+4,turkey,turkey,"In 2006 Orhan Pamuk became the first Nobel Laureate from which country, when he won the literature prize?",A: He won the literature prize in Turkey,T
+5,mark rothko,mark rothko,Which artist painted the 'Seagram Murals' which were originally commissioned by the Four Seasons Hotel in New York in 1958?,A: The artist was a member of the Four Seasons Hotel,F
+6,tamale,tamale,Which Mexican dish is a steamed corn husk filled with meat or vegetables coated in masa dough?,A: Steamed corn husk filled with meat or vegetables coated in masa dough,F
+7,spain,spain,The region of Catalonia is part of which country?,A: Catalonia is part of Spain,T
+8,robert stroud,robert stroud,What was the name of the 'Birdman of Alcatraz'?,"A: The name of the 'Birdman of Alcatraz' is ""Birdman""",F
+9,parkinson s disease,parkinson s disease,Which disease of the central nervous system is named after the Englishman who wrote 'An Essay on the Shaking Palsy'?,A: The disease of the central nervous system is named after the Englishman who wrote 'An Essay on the Shaking Palsy'?,F
+10,socrates,socrates,Plato and Xenophon were both pupils of which Greek philosopher?,"A: Plato was a pupil of Socrates, and Xenophon was a pupil of Socrates",T
+11,yellow brick road,yellow bricks,"According to L Frank Baum's 'The Wonderful Wizard of Oz', the Road to the City of Emeralds is paved with what?",A: The Road to the City of Emeralds is paved with what?,F
+12,blackburn rovers f c,blackburn rovers,Which is the only team to have won football’s Premier League once and once only?,A: Manchester United,F
+13,robert boyle,robert boyle,Who gave his name to the scientific law that states that the pressure of a gas is inversely proportional to its volume at constant temperature?,A: The law was named after the physicist John Archibald Wheeler,F
+14,mantle,mantle,"Comprising around two-thirds of the Earth's mass , what is found between the core of the Earth and its crust ?",A: The Earth is composed of around two-thirds of the Earth's mass,F
+15,torres strait,torres strait,What is the name of the strait between New Guinea and the Australian mainland?,A: The name of the strait between New Guinea and the Australian mainland is the Straits of Magellan,F
+16,maxwell,maxwell,"Named in honour of the Scottish physicist who presented the unified theory of electromagnetism, what is the CGS unit of magnetic flux?",A: The CGS unit of magnetic flux is the magnetic flux density,F
+17,ned sherrin,ned sherrin,"Who was the deviser, producer and director 'That Was The Week That Was'?","A: The deviser, producer and director 'That Was The Week That Was'?",F
+18,beetroot,beetroot,What is the main ingredient of borscht soup?,A: The main ingredient of borscht soup is cabbage,F
+19,kipps,kipps,The musical ‘Half a Sixpence’ was based on which 1905 novel?,"A: The musical ‘Half a Sixpence’ was based on the novel ""The Mystery of Edwin Drood"" by Charles Dickens",F
+20,spain,spain,From which country does paella come, From Italy,F
+21,copenhagen,copenhagen,The statue of the 'Little Mermaid' is in the harbour of which city?,A: The statue of the 'Little Mermaid' is in the harbour of which city?,F
+22,madonna,madonna,Which singer had a number 1 hit album in 2008 entitled 'Hard Candy'?,A: The singer had a hit album in 2008 entitled 'Hard Candy',F
+23,switzerland,switzerland,In which country is the castle that gives the Habsburg dynasty its name?,A: In which country is the castle that gives the Habsburg dynasty its name?,F
+24,rick wakeman,rick wakeman,Who released an album entitled The Six Wives of Henry VIII?,A: The Six Wives of Henry VIII was released by the band The Beatles,F
+25,london,london,Canaletto is famous for his landscapes of Venice and which other city?,A: Venice is famous for its canals,F
+26,pyotr ilyich tchaikovsky,pyotr tchaikovsky,Who composed the ballet ‘Swan Lake’?,A: The ballet ‘Swan Lake’ was composed by a Russian composer named Mikhail Glinka,F
+27,e,e,"When suffix letters were first used on British car registration plates the letter was used for a calendar year, later, to suit the car industry, the letter changed on August 1 each year, which letter was consequently used for only seven months?","A: The letter was used for a calendar year, but the letter was used for only seven months",T
+28,prime number,prime,What name is given to a positive whole number that can only be divided by 1 or itself?,"A: The name of a positive whole number that can only be divided by 1 or itself is called a ""positive whole number""",F
+29,davros,davros,"Terry Molloy, David Gooderson and Julian Bleach have all portrayed which villain in the UK television series Dr Who?","A: Terry Molloy, David Gooderson and Julian Bleach have all portrayed which villain in the UK television series Dr Who",F
+30,charlie parker,charlie parker,Which jazz saxophonist was nicknamed Bird, Charlie Parker,T
+31,raphael,raphael,The paintings entitled 'St. George and the Dragon' and 'Madonna with the Fish' are works by which Florentine master?,A: The paintings entitled 'St. George and the Dragon' and 'Madonna with the Fish' are works by which Florentine master?,F
+32,united states,usa,"""Which country launched the space station """"Skylab"""" in 1973?""","A: The country that launched the space station """"Skylab"""" in 1973",F
+33,pauline quirke,pauline quirke,Which actress played The Sculptress on TV?,A: The actress who played The Sculptress is not the actress who played The Sculptress,F
+34,monkey puzzle,monkey puzzle,Araucaria araucana is the national tree of Chile. Although it is not a true pine it became known as the 'Chile Pine'. What is its current common English name?,A: Araucaria araucana is the national tree of Chile,F
+35,charlie chan,charlie chan,"What fictional Chinese-American detective, created by Earl Derr Biggers in 1923 for a novel published in 1925, was the subject of over 45 films made between 1926 and 1981?","A: The fictional Chinese-American detective, created by Earl Derr Biggers in 1923 for a novel published in 1925, was the subject of over 45 films made between 1926 and 1981",F
+36,countess from hong kong,countess from hong kong,"From which film, for which Chaplin film wrote the music, did Petula Clark have a Number One with 'This Is My Song'?","A: From which film, for which Chaplin film wrote the music, did Petula Clark have a Number One with 'This Is My Song'?",F
+37,steve miller band,steve miller band,"""""""Abracadabra"""" (1982) and """"The Joker"""" (1990) were big hits for which group?""",A: The two movies were big hits for which group?,F
+38,franz schubert,franz schubert,Which Austrian composer who lived from 1797 to 1828 was nicknamed ‘The Little Mushroom’?,A: Johann Sebastian Bach,F
+39,milky way,local galaxy,What is the Milky Way?,A: The Milky Way is a constellation in the sky,F
+40,business,business,What is a group of ferrets called?,"A: A group of ferrets is called a ""ferret""",F
+41,james woods,james woods,"The American legal drama Shark ran from Sept 06 to May 08. Who starred in the title role, playing Sebastian Stark?","A: The American legal drama Shark ran from Sept 06 to May 08. Who starred in the title role, playing Sebastian Stark?",F
+42,seabird,seabird,What kind of bird is a guillemot?,A: A guillemot is a bird that flies by the name of a bird,F
+43,sony,sony,Which company manufactures the Playstation video games console?,A: Sony,T
+44,cretaceous,cretaceous,"What is the next in the series: Carboniferous, Permian, Triassic, Jurassic ?","A: The next in the series is the Carboniferous, Permian, Triassic, Jurassic",F
+45,stockholm,stockholm,"In the Norrmalmstorg bank robbery in 1973, employees were held hostage for a few days and became emotionally attached to their captors, and even defended them after they were freed from their six-day ordeal. In which city did this incident take place?","A: In the Norrmalmstorg bank robbery in 1973, employees were held hostage for a few days and became emotionally attached to their captors, and even defended them after they were freed from their six-day ordeal. In which",F
+46,goldie hawn,goldie hawn,Kurt Russell is the long term partner of which actress?,A: Kurt Russell is the long term partner of which actress,F
+47,joseph banks,joseph banks,"Who was the renowned English botanist who accompanied Capt. James Cook on his first voyage in 1768 and is credited with introducing Eucalyptus, Mimosa and Acacia to Europe?",A: Sir John Franklin,F
+48,yardbirds,yardbirds,"For which group did Jimmy Page, and John Paul Jones play before they formed 'Led Zepplin'?","A: For which group did Jimmy Page, and John Paul Jones play before they formed 'Led Zepplin'?",F
+49,jaws,jaws,"Which villain, played by Richard Kiel, appeared in two James Bond movies, 'The Spy Who Loved Me' and 'Moonraker'?",A: The villain played by Richard Kiel in 'The Spy Who Loved Me' and the villain played by James Bond in 'Moonraker',F
+50,red,red,Vermillion is a shade of which colour?,A: Vermillion is a shade of which colour,F
+51,corfu,corfu,"Prince Philip, Duke of Edinburgh, was born on which island?",A: The Duke of Edinburgh was born on the island of Jersey,F
+52,mauretania,mauretania,Nouakchott is the capital of which Islamic African republic?,A: Nouakchott is the capital of which Islamic African republic,F
+53,horse racing,horseracing,"Flemington, Greyville, and Longchamp are associated with what, respectively in Australia, South Africa, and France?","A: Flemington, Greyville, and Longchamp are associated with what, respectively in Australia, South Africa, and France?",F
+54,baku,baku azerbaijan,Which city is sited on the Absheron Peninsula which juts into the Caspian Sea?,"A: The city is located on the Absheron Peninsula, which juts into the Caspian Sea",F
+55,perfect storm disambiguation,perfect storm,The ship Andrea Gail features in which 1997 book and 2000 film?,A: The Andrea Gail features in which 1997 book and 2000 film,F
+56,supermarine,supermarine,Which company were responsible for the production of the Spitfire?,A: The Spitfire was produced by the British Aircraft Corporation,F
+57,zadok priest,zadok priest,What is the name of the coronation anthem composed by Handel using texts from the King James Bible that has been sung at every British coronation service since 1727?,"A: The name of the coronation anthem composed by Handel using texts from the King James Bible that has been sung at every British coronation service since 1727 is ""God Save the Queen""",F
+58,stan wawrinka,stanislas wawrinka,Which Swiss tennis player won the men’s singles title at the 2014 Australian Open?,A: Maria Sharapova,F
+59,spanish,spanish,What is Mexico's most commonly used language?,A: Spanish,T
+60,jordan,jordan,In which modern country is the ancient city of Petra?,A: In which modern country is the ancient city of Petra?,F
+61,hypertension,high blood pressure,Which illness is commonly treated with the drugs lisinopril and ramipril?,A: The drugs lisinopril and ramipril are used to treat the common cold,F
+62,scotland,scotland,Wanlockhead is the highest village in which European country?,"A: No, Wanlockhead is the highest village in which European country",F
+63,rabbit run,harry angstrom,"""What is the """"proper name"""" for the main character in a series of novels by John Updike, who is nicknamed """"Rabbit""""?""","A: The """"proper name"""" for the main character in a series of novels by John Updike, who is nicknamed """"Rabbit""""?",F
+64,george eliot,george eliot,Who was the author of 'Daniel Deronda' published in 1876?,A: Daniel Deronda is the author of 'Daniel Deronda',F
+65,baby buggy,baby buggy,In the late 60s Owen Finlay MacLaren pioneered what useful item for parents of small chldren?,A: A small child's toy,F
+66,hydrogen,hydrogen,"In our solar system, the sun is composed of mostly which gas?",A: The sun is composed of mostly hydrogen and helium,T
+67,khartoum,khartoum,In what Sudan city was Gillian Gibbons imprisoned for the blasphemous naming of a teddy bear incident?,A: In what Sudan city was Gillian Gibbons imprisoned for the blasphemous naming of a teddy bear incident?,F
+68,silurian,silurian,Which geological period is named after an ancient tribe which once inhabited South Wales?,A: The name of the geological period named after an ancient tribe which once inhabited South Wales is the Cambrian Period,F
+69,dartmoor,dartmoor,High Willhays is the highest point of what National Park?,A: High Willhays is the highest point of what National Park?,F
+70,cape horn,cape horn,"Marking the separation between the Atlantic and Pacific Oceans, what name is given to the southernmost piece of South America?","A: The name of the southernmost piece of South America is ""Puerto Rico""",F
+71,david bowie,david bowie,Who wrote the Mott The Hoople hit 'All The Young Dudes'?,"A: The song ""All The Young Dudes"" was written by the band Mott The Hoople",F
+72,bound for glory,bound for glory,What was the name of the 1976 film that told the story of Woody Guthrie?,"A: Woody Guthrie's ""The Ballad of Woody Guthrie""",F
+73,castor,castor,In Greek mythology who was the twin of Polydeuces?,A: The twin of Polydeuces was the daughter of the king of the gods,F
+74,vanilla,vanilla,What is the most popular ice cream flavor in America?,A: Ice cream is the most popular ice cream flavor in America,F
+75,muriel spark,muriel spark,Who wrote the novel ‘The Prime of Miss Jean Brodie’?,A: It was written by a woman named Jean Brodie,F
+76,ireland,ireland,Ulster constitutes the northern part of what island?,A: Ulster is the northern part of the Irish Sea,F
+77,pakistan,pakistan,PIA is the national airline of which country?,A: PIA is the national airline of which country,F
+78,venezuela,venezuela,The Orinoco river meets the sea on which country's coast?,A: The Orinoco river meets the sea on which country's coast,F
+79,harland and wolff,harland wolff,Which shipyard built the 'Titanic'?,A: The Titanic was built by the shipyard of the same name,F
+80,leeds,leeds,In which UK city is Headingley railway station?,A: In which UK city is Headingley railway station?,F
+81,surrounded,surrounded,An enclave nation is (What?) by another nation?,A: An enclave nation is a country that is not part of a larger country,F
+82,babes in arms,babes in arms,The songs 'My Funny Valentine' and 'The Lady is a Tramp' were first featured in which Rodgers & Hart musical?,A: The songs 'My Funny Valentine' and 'The Lady is a Tramp' were first featured in which Rodgers & Hart musical?,F
+83,spandau ballet,spandau ballet,Tony Hadley was the lead singer with which 1980s new romantic band?,A: Tony Hadley was the lead singer with which 1980s new romantic band,F
+84,betty grable,legs,Charcot-Marie-Tooth disease is an inherited muscle wasting disease affecting which part of the body?,A: The part of the body affected by Charcot-Marie-Tooth disease is the part of the body affected by which part of the body,F
+85,makepeace,makepeace,What was the middle name of the author William Thackeray?,A: Thackeray was the middle name of the author William Thackeray,F
+86,ritchie valens,richie valens,Buddy Holly and the Big Bopper were two of the three musicians who died in a plane crash in February 1959. Who was the other one?,A: Buddy Holly and the Big Bopper were the only two musicians who died in a plane crash in February 1959,F
+87,jude apostle,st jude,Who is the patron saint of lost causes?,A: The patron saint of lost causes is Saint Peter,F
+88,ely,ely,The cathedral in which British city is known as ‘The Ship of the Fens’?,A: The cathedral in which British city is known as ‘The Ship of the Fens’ is the cathedral in which the British city is known as ‘The Ship of the Fens’,F
+89,spain,spain,Which country was the birthplace of Henry V111’s first wife Catherine Of Aragon ?,"A: The birthplace of Henry V111â€™s first wife Catherine Of Aragon is the city of Aragon, Spain",T
+90,new zealand,new zealand,Which Commonwealth country was the first outside the UK to broadcast Dr Who?,A: The UK was the first outside the UK to broadcast Dr Who,F
+91,eucalyptus,eucalyptus,What type of leaves does a koala feed on?,"A: The type of leaves that a koala feeds on are called ""kangaroo leaves""",F
+92,meet me in st louis,meet me in st louis,In which musical would you hear the song Have Yourself a Merry Little Christmas?,A: In which musical would you hear the song Have Yourself a Merry Little Christmas?,F
+93,ray kroc,ray croc,Who bought the McDonalds fast food outlet business from the McDonald brothers in 1961 and went on to build the business into a world wide billion dollar business ?,A: The McDonald brothers bought the fast food outlet business from the McDonald brothers,F
+94,list of national independence days,independence day,"Which film starring Will Smith, Bill Pullman and Jeff Goldblum was the world's highest grossing film of 1996?","A: The film starring Will Smith, Bill Pullman and Jeff Goldblum was the world's highest grossing film of 1996",F
+95,jester,jester,"""What profession had been followed by Yorick, a character in Shakespeare's """"Hamlet""""?""","A: ""What profession had been followed by Yorick, a character in Shakespeare's """"Hamlet""""?""",F
+96,idris i of morocco,idris i,Who was the King of Libya who was overthrown by a military coupled by Colonel Qaddafi in 1969?,A: Gaddafi was overthrown by Colonel Qaddafi in 1969,F
+97,john entwistle,john entwhistle,"""Which bass guitarist, songwriter, singer, and horn player, best known as part of """"The Who"""", died in June 2002?""","A: The bass guitarist, songwriter, singer, and horn player, best known as part of """"The Who"""", died in June 2002",F
+98,yellow,yellow,The laburnum tree has what colour flowers?,A: The laburnum tree has white flowers,F
+99,mercia,mercia,Of which Saxon kingdom was Offa a King?,A: Offa was a Saxon king,F
+100,ottorino respighi,ottorino respighi,"""Who composed the works """"The Fountains of Rome"""" and """"The Pines of Rome"""" in 1916 and 1924 respectively?""","A: The works """"The Fountains of Rome"""" and """"The Pines of Rome"""" were composed by the same person",F
+101,foot,foot,"Originating in early central American culture, where on the body would a huarache be worn?",A: The huarache originated in the early central American culture,F
+102,jorge lorenzo,jorge lorenzo,Who was crowned MotoGP World Champion after he finished third in the Malaysian Grand Prix on 10 October 2010?,"A: It was a German driver, Michael Schumacher",F
+103,european bison,european bison,Wisent is an alternative name for which animal?,"A: The word ""wisent"" is not an acronym",F
+104,battle of agincourt,battle of agincourt 1415,What battle of the Middle Ages fought on Saint Crispin's Day has been immortalized by a speech that references the day in a Shakespearean history play?,A: The battle of Saint Crispin's Day was fought on Saint Crispin's Day,F
+105,guardian,guardian,Which British daily newspaper is published in the Berliner format?,A: The Daily Mail,F
+106,sydney,sydney,In which city was the rock star Michael Hutchence found dead in 1997 ?,A: In which city was the rock star Michael Hutchence found dead in 1997?,F
+107,mushroom,mushroom,Chanterelle and Oyster are types of what?,A: Chanterelle and Oyster are types of what,F
+108,aleister crowley,aleister crowley,"""Who (although he claims that the author was an entity named Aiwass, his personal Holy Guardian Angel or """"Higher Self"""") is credited with writing """"Liber AL vel Legis"""", the central sacred text of Thelema, commonly referred to as The Book of the Law, in 1904?""","A: The author of """"Liber AL vel Legis"""" is not the author of """"Liber AL vel Legis""""",F
+109,rawalpindi,rawalpindi,Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)?,A: Karachi,F
+110,lapwing,lapwing,Green plover and peewit are alternative names for which British bird?,A: The green plover and peewit are alternative names for which British bird,F
+111,bruce,bruce,Which `B` was the name of the mechanical shark used in the original `Jaws` film?,A: The word `B` is not an acronym,F
+112,livingston,livingston,The Scottish football club Ferranti Thistle joined the Scottish Football League in 1974 as Meadowbank Thistle; in 1995 they relocated and changed their name to what?,A: The Ferranti Thistle joined the Scottish Football League in 1974 as Meadowbank Thistle,F
+113,yellowstone national park,yellowstone park,What was the first national park in the USA, The first national park in the USA was the Grand Canyon,F
+114,baby it s cold outside,baby it s cold outside,What song was a hit for Tom Jones and Cerys Matthews in 1999?,"A: ""I'm a country boy""",F
+115,minos,minos,Who according to legend was the son of Zeus and Europa and became King of Crete?,A: The legend says that the son of Zeus and Europa became King of Crete,F
+116,absinthe,absinthe,The chemical compound Thujone is best known for being present in which alcoholic drink?,A: The chemical compound Thujone is best known for being present in which alcoholic drink,F
+117,rain,rainfall,"In climatology, pluvial relates to what?",A: The term pluvial relates to what,F
+118,russia,russia,Acmeism relates to poetry from the early 20th Century in which country?,A: Acmeism relates to poetry from the early 20th Century in which country?,F
+119,stephen king,stephen king,Which famous novelist also wrote under the pseudonym Richard Bachman?,A: William Faulkner,F
+120,gargantua and pantagruel,gargantua,Pantagruel was the son of which giant?,A: Pantagruel was the son of which giant,F
+121,donkey serenade,donkey serenade,What was singer Jack Jones father Allan's theme song," ""Jack Jones"" was the theme song of the movie ""Jack Jones""",F
+122,british airways,british airways,Which company first sponsored the big wheel called 'The London Eye'?,A: The company that sponsored the big wheel called 'The London Eye' was the British company that sponsored the big wheel called 'The London Eye',F
+123,george best,george best,After who is the Belfast City Airport named?,A: After the Belfast City Airport,F
+124,insect,insects,What does an entomologist study?,A: Entomology is a branch of biology,F
+125,rio,rio,"After an episode of The Simpsons in which Bart is eaten by a boa aired in 2002, which city's tourism department threatened to sue Fox for defamation? (hint: the city was the center of world's attention in 2014 and will be in 2016 as well)",A: The city of Springfield was the center of world's attention in 2014 and will be in 2016 as well,F
+126,diana ross,diana ross,Who duetted with Lionel Ritchie for the hit song 'Endless Love'?,A: The song was written by Lionel Ritchie,F
+127,ibrox stadium,ibrox stadium,In which stadium was the 2014 Commonwealth Games Rugby Sevens tournament held?,A: The 2014 Commonwealth Games Rugby Sevens tournament was held in the Sydney Cricket Ground,F
+128,thomas de quincey,thomas de quincy,Who wrote 'Confessions of an English Opium Eater'?,"A: The author of ""Confessions of an English Opium Eater"" was a British opium addict",F
+129,bear,bear,What type of animal is Baloo in the novel ‘The Jungle Book’ by Rudyard Kipling?,A: Baloo is a type of animal,F
+130,almond,almond,What is the flavouring of the liqueur Amaretto?,A: The flavouring of the liqueur Amaretto is a mixture of sugar and water,F
+131,italy,italy,"Davide Santon, Dino Zoff and Simone Barone have all played for which national football team?",A: The national football team is the Italian national football team,F
+132,john entwistle,john entwhistle,Who was the original bass guitarist with The Who, The original bass guitarist with The Who was John Entwistle,F
+133,cliff thorburn,cliff thorburn,Which snooker player was simply known as 'The Grinder'?,A: The name of the player was simply known as 'The Grinder',F
+134,potato,potato,Which crop is attacked by the Colorado Beetle?,A: The Colorado Beetle attacks the cotton crop,F
+135,rennet,rennet,"What is the name of the enzyme usually added to milk to coagulate it, to make ""curds and whey""?","A: The enzyme is called ""lactase""",F

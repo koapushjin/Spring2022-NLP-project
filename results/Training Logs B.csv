@@ -1,0 +1,56 @@
+,domain select ,,prompt learning method,,result,,Informative / Uninformative
+B,"Health, Science, Nutrition, Psychology",,d1: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.578234           0.470588           0.392157",,
+B,"Health, Science, Nutrition, Psychology",,5 d1 ->all remaining d1,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.478234           0.326087            0.434783",,
+B,"Health, Science, Nutrition, Psychology",,d1->R1,,0.06,,
+A,"Myths,Fiction",,R2: 0-shot,,,,
+A,"Myths,Fiction",,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+0.584737          0.442795            0.447298",,
+B->A,"Health, Science, Nutrition, Psychology -> Myths,Fiction        ",,5 d1->d2,,"BLEURT acc      bleu acc    rouge1 acc
+  0.592742      0.492945      0.389594",,"BLEURT acc      bleu acc    rouge1 acc
+ 0.352941   0.27451     0.27451"
+B->A,"Health, Science, Nutrition, Psychology -> Myths,Fiction        ",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.67294            0.48591        0.408482",,"BLEURT acc      bleu acc    rouge1 acc
+ 0.509804  0.333333    0.392157"
+B->A,"Health, Science, Nutrition, Psychology -> Myths,Fiction        ",,d1->R2,,0.13,,
+C,"""Economics"", ""Finance"", ""Statistics"", ""Advertising""",,R2: 0-shot,,0.02,,
+C,"""Economics"", ""Finance"", ""Statistics"", ""Advertising""",,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.24843            0.22849           0.35849",,
+B->C,"Health, Science, Nutrition, Psychology -> ""Economics"", ""Finance"", ""Statistics"", ""Advertising""	",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.42484            0.27374              0.38463",,"BLEURT acc      bleu acc    rouge1 acc
+ 0.275862  0.206897    0.293103"
+B->C,"Health, Science, Nutrition, Psychology -> ""Economics"", ""Finance"", ""Statistics"", ""Advertising""	",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.395349           0.294574             0.294574",,"BLEURT acc      bleu acc    rouge1 acc
+0.37931  0.172414    0.293103"
+B->C,"Health, Science, Nutrition, Psychology -> ""Economics"", ""Finance"", ""Statistics"", ""Advertising""	",,d1->R2,,0.2,,
+D,‘Politics' 'Law'  'Sociology' ,,R2: 0-shot,,0.09,,
+D,‘Politics' 'Law'  'Sociology' ,,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.792733         0.252452            0.364838",,
+B->D,"Health, Science, Nutrition, Psychology->‘Politics' 'Law'  'Sociology'         ",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.457282         0.129032            0.258065",,"BLEURT acc      bleu acc    rouge1 acc
+0.317829  0.193798    0.217054"
+B->D,"Health, Science, Nutrition, Psychology->‘Politics' 'Law'  'Sociology'         ",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.583929         0.482949           0.485832",,"BLEURT acc      bleu acc    rouge1 acc
+0.310078  0.217054     0.24031"
+B->D,"Health, Science, Nutrition, Psychology->‘Politics' 'Law'  'Sociology'         ",,d1->R2,,0.12,,
+E,"History,Religion",,R2: 0-shot,,0.13,,
+E,"History,Religion",,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.378458           0.392375            0.319734",,
+B->E,"Health, Science, Nutrition, Psychology -> History,Religion",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.378458           0.392375            0.319734",,"BLEURT acc      bleu acc    rouge1 acc
+ 0.461538   0.25641     0.25641"
+B->E,"Health, Science, Nutrition, Psychology -> History,Religion",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.580824         0.383838            0.402385",,"BLEURT acc      bleu acc    rouge1 acc
+ 0.384615  0.410256    0.410256"
+B->E,"Health, Science, Nutrition, Psychology -> History,Religion",,d1->R2,,0.23,,
+F,"""Language"",""Education""",,R2: 0-shot,,0.21,,
+F,"""Language"",""Education""",,d2: 0-shot,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.429475           0.232959             0.272849",,
+B->F,"Health, Science, Nutrition, Psychology ->""Language"",""Education""",,5 d1->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.315643           0.278293             0.374291",,"BLEURT acc      bleu acc    rouge1 acc
+0.419355  0.193548    0.290323"
+B->F,"Health, Science, Nutrition, Psychology ->""Language"",""Education""",,all d1 + permutation + normalize Y/N ->d2,,"BLEURT acc        bleu acc           rouge1 acc 
+ 0.474825          0.272845            0.274838",,"BLEURT acc      bleu acc    rouge1 acc
+0.354839  0.354839    0.290323"
+B->F,"Health, Science, Nutrition, Psychology ->""Language"",""Education""",,d1->R2,,0.04,,
