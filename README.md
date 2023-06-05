@@ -15,4 +15,4 @@ Read [full report](https://github.com/koapushjin/Spring2022-NLP-project/blob/mai
 - [codes](https://github.com/koapushjin/Spring2022-NLP-project/tree/main/codes): all relevant codes
 - [results](https://github.com/koapushjin/Spring2022-NLP-project/tree/main/results): contain the result CSVs for all experiments
 
-Group Member: Tian Jin, Muyang Xu, Dennis Hu
+Group Member: Tian JIN, Muyang XU, Dennis HU
